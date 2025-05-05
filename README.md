@@ -1,4514 +1,2844 @@
-# CONSOLIDATED AND PARENT COMPANY CASH FLOW STATEMENTS
-
-For the year ended 31 December 2023
-
-
-<table>
-<tr>
-<th rowspan="3"></th>
-<th rowspan="3">Note</th>
-<th colspan="2">Group</th>
-<th colspan="2">Company</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Profit before tax</td>
-<td>6</td>
-<td>117,436</td>
-<td>194,366</td>
-<td>97,963</td>
-<td>150,787</td>
-</tr>
-<tr>
-<td>Depreciation and amortisation charges</td>
-<td>10/11/12</td>
-<td>66,781</td>
-<td>60,592</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Impairment of receivables</td>
-<td></td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>12,544</td>
-</tr>
-<tr>
-<td>Loss on sale of property, plant and equipment, and computer software</td>
-<td></td>
-<td>819</td>
-<td>4,398</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Share scheme charges</td>
-<td></td>
-<td>5,501</td>
-<td>5,989</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Net finance cost</td>
-<td></td>
-<td>1,379</td>
-<td>1,713</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Operating cash flow before changes in working capital</td>
-<td></td>
-<td>191,916</td>
-<td>267,058</td>
-<td>97,963</td>
-<td>163,331</td>
-</tr>
-<tr>
-<td>Decrease/(Increase) in receivables</td>
-<td></td>
-<td>46,057</td>
-<td>(61,509)</td>
-<td>(121,967)</td>
-<td>(244,369)</td>
-</tr>
-<tr>
-<td>(Decrease)/Increase in payables</td>
-<td></td>
-<td>(26,002)</td>
-<td>40,821</td>
-<td>24,004</td>
-<td>81,038</td>
-</tr>
-<tr>
-<td>Cash generated from operations</td>
-<td></td>
-<td>211,971</td>
-<td>246,370</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Income tax paid</td>
-<td></td>
-<td>(58,963)</td>
-<td>(61,598)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Net cash from operating activities</td>
-<td></td>
-<td>153,008</td>
-<td>184,772</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Cash flows from investing activities</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Purchases of property, plant and equipment</td>
-<td>10</td>
-<td>(27,348)</td>
-<td>(21,982)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Purchases of intangibles</td>
-<td>12</td>
-<td>(4,033)</td>
-<td>(9,693)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Proceeds from the sale of property, plant and equipment, and computer software</td>
-<td></td>
-<td>587</td>
-<td>2,080</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Interest received</td>
-<td></td>
-<td>2,236</td>
-<td>1,104</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Net cash used in investing activities</td>
-<td></td>
-<td>(28,558)</td>
-<td>(28,491)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Cash flows from financing activities</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Funds from Treasury Company</td>
-<td></td>
-<td>–</td>
-<td>–</td>
-<td>100,064</td>
-<td>133,247</td>
-</tr>
-<tr>
-<td>Dividends paid</td>
-<td></td>
-<td>(100,064)</td>
-<td>(133,247)</td>
-<td>(100,064)</td>
-<td>(133,247)</td>
-</tr>
-<tr>
-<td>Interest paid</td>
-<td></td>
-<td>(1,070)</td>
-<td>(1,213)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Lease liability principal repayment</td>
-<td></td>
-<td>(40,045)</td>
-<td>(35,896)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Issue of own shares for the exercise of options</td>
-<td></td>
-<td>1,946</td>
-<td>447</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Purchase of shares held in the employee benefit trust</td>
-<td></td>
-<td>(17,529)</td>
-<td>(14,838)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Net cash used in financing activities</td>
-<td></td>
-<td>(156,762)</td>
-<td>(184,747)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Net decrease in cash and cash equivalents</td>
-<td></td>
-<td>(32,312)</td>
-<td>(28,466)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Cash and cash equivalents at the beginning of the year</td>
-<td></td>
-<td>131,480</td>
-<td>153,983</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Exchange (loss)gain on cash and cash equivalents</td>
-<td></td>
-<td>(9,030)</td>
-<td>5,963</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Cash and cash equivalents at the end of the year</td>
-<td>21</td>
-<td>90,138</td>
-<td>131,480</td>
-<td>–</td>
-<td>–</td>
-</tr>
-</table>
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
 
 
-# NOTES TO THE FINANCIAL STATEMENTS
+# Notes
 
 
-## For the year ended 31 December 2023
-
-
-## 1. MATERIAL ACCOUNTING POLICIES
+## Note 1 Material accounting policies
 
 
 ### Statement of compliance
 
-PageGroup plc is a Company incorporated in the United
-Kingdom under the Companies Act.
+The consolidated financial statements have been prepared in accordance
+with International Financial Reporting Standards (IFRS) issued by the
+International Accounting Standards Board (IASB) as adopted by the EU.
+Swedish Corporate Reporting Board recommendation RFR 1
+Supplementary Accounting Rules for Corporate Groups has also been
+applied.
 
-Under that law the Directors have elected to prepare
-the Group and Parent Company financial statements in
-accordance with UK-adopted international accounting
-standards ("IFRSs").
+The parent company applies the same accounting policies as the Group,
+except in the cases stated below under the "Parent company accounting
+policies" section.
 
-
-### Basis of preparation
-
-The financial statements of PageGroup plc consolidate the
-results of the Company and all its subsidiary undertakings.
-As permitted by Section 408 of the Companies Act 2006,
-the profit and loss account of the Company has not
-been included as part of these financial statements. The
-Company's profit for the financial year amounted to £98.0m
-(2022: £150.8m).
-
-The Group's consolidated financial statements have been
-prepared on an accruals basis and under the historical cost
-convention, except for the revaluation of derivatives. The
-Group's financials are presented in Sterling and all values
-are rounded to the nearest thousand pounds (£'000) except
-when otherwise indicated.
+The parent company's annual accounts and the consolidated accounts
+were approved for issue by the Board of Directors and the Chief Executive
+Officer on 11 April 2024. The consolidated income statement and balance
+sheet and the parent company's income statement and balance sheet will
+be subject to adoption by the Annual General Meeting on 25 May 2024.
+The consolidated and annual accounts refer to 1 January-31 December for
+income statement-related items and 31 December for balance sheet-
+related items. All amounts are provided in millions of Swedish kronor (SEK)
+unless otherwise stated, and rounding differences may therefore occur.
 
 
-### Basis of consolidation
+### Valuation policies applied in the preparation of the financial statements
+
+Assets and liabilities are recognised at historical cost, except for certain
+financial assets and liabilities that are measured at fair value. Financial
+assets and liabilities measured at fair value consist of investments in
+associates and contingent considerations. Receivables and liabilities and
+income and expenses are only offset if required or explicitly authorised by
+an accounting standard.
+
+The preparation of the financial statements in accordance with IFRS
+requires the corporate executive to make certain assessments, estimates
+and assumptions in applying the Group's accounting policies and balance
+sheet and income statement items. The areas that include a high degree of
+assessment, which are complex, or areas where assumptions and
+estimates are of significant importance for the consolidated financial
+statements are set out in Note 2.
+
+Events after the balance sheet date refer both to events occurring between
+the balance sheet date and to the date on which the financial statements
+are signed by the directors. Disclosures are made in the annual report
+about significant events after the balance sheet date that have not been
+taken into account in preparing the balance sheet and income statement.
+Only those events that confirm conditions existing at the balance sheet
+date are taken into account when finalising the accounts. Unless otherwise
+stated, the most significant accounting policies set out below have been
+applied consistently to all periods presented in the consolidated financial
+statements.
 
 
-#### (i) Subsidiaries
+### Standards, amendments and interpretations that came into force in 2023
 
-The consolidated financial statements comprise the
-financial statements of the Group and its subsidiaries
-as at 31 December 2023. Control is achieved when the
-Group is exposed, or has rights, to variable returns from its
-involvement with the investee and has the ability to affect
-those returns through its power over the investee.
-
-
-### (ii) Transactions eliminated on consolidation
-
-Intragroup balances and any unrealised gains and losses or
-income and expenses arising from intragroup transactions,
-are eliminated in preparing the consolidated financial
-statements. Unrealised losses are eliminated in the same
-way as unrealised gains, but only to the extent that there is
-no evidence of impairment.
+In 2023, amendments have been adopted in respect of IAS 1 Presentation
+of Financial Statements and IAS 12 Deferred Tax Assets and Deferred Tax
+Liabilities. The amendment affects the consolidated report insofar as only
+accounting policies that are considered material to the Group are to be
+disclosed.
 
 
-### (iii) Employee Benefit Trust
+### New standards and interpretations not yet in force
 
-Shares in PageGroup plc held by the trust are shown as a
-reduction in Shareholders' funds.
-
-
-### (iv) Changes in accounting policy - new accounting standards, interpretations and amendments
-
-The accounting policies adopted are consistent with those
-of the previous financial years except for the following
-amendments to IFRS effective as of 1 January 2023:
-
-. Amendments to IAS 12: Deferred Tax related to Assets
-and Liabilities arising from a single transaction
-
-· Amendments to IAS 1 and IFRS Practices Statement 2 -
-Disclosure of accounting policies
-
-The adoption of these accounting standards or
-interpretations did not have any impact on the accounting
-policies, financial position or performance of the Group.
-
-. IAS 12 International Tax Reform: Pillar Two Model Rules
-
-On 19 July 2023, the UK Endorsement Board adopted the
-Amendments to IAS 12 International Tax Reform: Pillar Two
-Model Rules, issued by the IASB in May 2023. PageGroup
-has applied the mandatory temporary exception to the
-accounting for deferred taxes arising from the jurisdictional
-implementation of the Pillar Two model rules. Further details
-are included at note 7.
+Other amended IFRSs that will become effective in future financial years or
+later have not been applied early in the preparation of this year's financial
+statements. The new standards and interpretations are not expected to
+have any significant impact on Sdiptech's financial reporting.
 
 
-### Standards issued but not yet effective
+### Non-controlling interests
 
-The standards and interpretations that are issued, but not yet
-effective, up to the date of issuance of the Group's financial
-statements are disclosed below. The Group intends to adopt
-these standards, if applicable, when they become effective.
+Non-controlling interests are recognised as a separate item in
+consolidated equity.
 
-· Amendments to IAS 1: Classification of Liabilities as
-Current or Non-current; effective date 1 January 2024
-
-. Amendments to IAS 1: Non-current liabilities with
-Covenants; effective date 1 January 2024
-
-The amendments are not expected to have a material impact
-on the Group.
+Acquisitions from non-controlling interests are recognised as an equity
+transaction, i.e. between the owners of the parent company and the non-
+controlling interest. Therefore, goodwill does not arise in these
+transactions.
 
 
-### Going concern
+### Translation of foreign currency
 
-The Board has undertaken a review of the Group's forecasts
-and associated risks and sensitivities, in the period from the
-date of approval of the financial statements to March 2025
-(review period).
+Functional currency and reporting currency
+Items included in the financial statements of the various entities in the
+Group are measured using the currency of the primary economic
+environment in which the entity operates (functional currency). The
+consolidated financial statements use the Swedish krona (SEK), which is
+the functional and reporting currency of the parent company. All amounts
+are in SEK million unless otherwise stated.
 
-The Board considered a variety of downsides that the Group
-might experience, such as a global downturn, a cyber-attack
-resulting in significant reputational damage and loss of clients
-and candidates, and the Group's business model becoming
-ineffective due to new innovations such as recruitment via
-social media. All modelled scenarios would be expected to
-impact gross profit and headcount, impacting conversion.
 
-The Group had £90.1m of cash as at 31 December 2023,
-with no debt except for IFRS 16 lease liabilities of £110.9m.
-Debt facilities relevant to the review period comprise a
-committed £80m RCF maturing December 2027, an
-uncommitted UK trade debtor discounting facility (up to
-£50m depending on debtor levels) and an uncommitted
-£20m UK bank overdraft facility. Under these latest forecasts,
-the Group is able to operate without the need to draw on its
-available facilities. The forecast cash flows indicate that the
-Group will comply with all relevant banking covenants during
-the review period.
+### Transactions and balance sheet items
 
-Despite the macroeconomic and political uncertainty that
-currently exists, and its inherent risk and impact on the
-business, based on the analysis performed there are no
-plausible downside scenarios that the Board believes would
-cause a liquidity issue.
+Foreign currency transactions are translated into the functional currency at
+the exchange rate prevailing at the date of the transaction. The functional
+currency is the currency of the primary economic sectors in which Group
+companies operate. Monetary assets and liabilities in foreign currencies
+are translated into the functional currency at the exchange rate in force on
+the balance sheet date. Foreign exchange gains and losses arising from
+translation are recognised in the income statement. Exchange rate
+differences on lending and borrowing are recognised in net financial items,
+while other exchange rate differences are included in operating profit. Non-
+monetary assets and liabilities recognised at historical cost are translated
+at the exchange rate prevailing at the time of the transaction. Non-
+monetary assets and liabilities that are recognised at fair value are
+converted to the functional currency at the rate in effect at the time of the
+fair value valuation.
 
-Given the Group's resilient performance in 2023, the level of
-cash in the business and the Group's borrowing facilities, the
-geographical and discipline diversification, limited Customer
-concentration risk, as well as the ability to manage the cost
-base, the Board has concluded that the Group has adequate
-resources to continue in operation, meet its liabilities as they
-fall due, retain sufficient available cash and not breach the
-covenants under the RCF for the foreseeable future, being
-a period of at least 12 months from the date of the approval
-of the financial statements. The Board therefore considers it
-appropriate for the Group to adopt the going concern basis
-in preparing its financial statements.
 
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-147
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-148
+### Group companies
+
+The earnings and financial position of all Group companies with a functional
+currency other than the reporting currency are translated into the reporting
+currency of the Group as follows:
+
+. Assets and liabilities for each of the balance sheets of foreign operations
+are translated at the exchange rate prevailing on the balance sheet date.
+Income and expenses for each of the income statements of foreign
+operations are translated at the average exchange rate.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+67
 ---
 
-
-### a) Revenue and income recognition
-
-Revenue, which excludes value added tax (VAT), constitutes
-the value of services undertaken by the Group from its principal
-activities, which are recruitment consultancy and other ancillary
-services. These consist of:
-
-. revenue from temporary placements, which represents
-amounts billed for the services of temporary staff,
-including the salary cost of these staff. This is recognised
-when the service has been provided;
-
-. revenue from permanent placements is typically based on
-a percentage of the candidate's remuneration package
-and is derived from both retained assignments (income
-recognised on completion of defined stages of work)
-and non-retained assignments (income recognised at
-the date an offer is accepted by a candidate and where
-a start date has been determined). The latter includes
-revenue anticipated, but not invoiced, at the balance
-sheet date, which is correspondingly accrued on the
-balance sheet within accrued income. A provision is made
-against accrued income for possible cancellations of
-placements prior to, or shortly after, the commencement
-of employment; and
-
-. revenue from amounts billed to clients for expenses
-incurred on their behalf (principally advertisements) is
-recognised when the expense is incurred.
-
-The present value of revenue recognised is equal to the cash
-funds receivable as invoices are settled within a year of initial
-recognition. Interest income is accrued on a time basis, by
-reference to the principal outstanding and at the effective
-interest rate applicable.
-
-
-### b) Cost of sales
-
-Cost of sales consists of the salary cost of temporary staff and
-costs incurred on behalf of clients, principally advertising costs.
-
-
-### c) Gross profit
-
-Gross profit represents revenue less cost of sales and consists
-of the total placement fees of permanent candidates, the
-margin earned on the placement of temporary candidates and
-the margin on advertising income.
-
-
-### d) Foreign currency translation
-
-(i) Functional and presentation currency
-
-Items included in the financial statements of each of the
-Group's entities are measured using the currency of the
-primary economic environment in which the entity operates
-("the functional currency"). The consolidated financial
-statements are presented in Sterling, which is the Company's
-functional and presentation currency.
-
-
-#### (ii) Transactions and balances
-
-Foreign currency transactions are translated into the respective
-functional currency using the exchange rates prevailing at the
-dates of the transactions.
-
-Foreign exchange gains and losses resulting from the
-settlement of such transactions and from the translation at
-year-end exchange rates of monetary assets and liabilities
-denominated in foreign currencies are recognised in the
-income statement.
-
-
-#### (iii) Group companies
-
-The results and financial position of all the Group entities (none
-of which has the currency of a hyperinflationary economy)
-that have a functional currency different from the presentation
-
-currency are translated into the presentation currency as
-follows:
-
-· assets and liabilities for each balance sheet presented are
-translated at the closing rate at the date of that balance
-sheet;
-
-. income and expenses for each income statement are
-translated at average exchange rates; and
-
-. all resulting exchange differences are recognised in other
-comprehensive income.
-
-
-### e) Intangible assets
-
-
-#### (i) Goodwill
-
-Goodwill represents the excess of the cost of an acquisition
-over the fair value of the Group's share of the net identifiable
-assets of the acquired subsidiary at the date of acquisition.
-Goodwill on the acquisition of subsidiaries is included
-in intangible assets. Goodwill is stated at cost less any
-accumulated impairment losses. Goodwill is allocated to cash-
-generating units and is not amortised, but is tested at least
-annually for impairment (see accounting policy h). Gains and
-losses on the disposal of an entity include the carrying amount
-of goodwill relating to the entity sold.
-
-
-#### (ii) Computer software
-
-Computer software acquired separately is measured on
-initial recognition at cost. Computer software developed
-by the Group is measured at the cost incurred in relation
-to the development of software and related applications.
-Costs are capitalised when they fulfil the criteria in IAS 38
-regarding internally developed intangible assets. The Group
-applies judgement, which is not considered as significant,
-in capitalising the development cost by assessing if it will
-generate probable future economic benefits. Costs which
-are incurred after the release of software or costs which are
-incurred in order to enhance existing products are expensed in
-the period in which they are incurred.
-
-(iii) Software under construction
-
-Software under construction relates to cost capitalised in relation
-to the development of a new operating system and related
-applications. Costs are capitalised when they fulfil the criteria
-in IAS 38 regarding internally developed intangible assets.
-While still under construction, assets are tested for impairment
-annually. Assets are moved from software under construction to
-computer software when they become available for use.
-
-
-#### (iv) Trademark
-
-Acquired trademarks are stated at cost and are written down
-over five years on a straight-line basis, which represents the
-estimated useful life of the intangible asset.
-
-
-#### (v) Amortisation
-
-Amortisation is charged to the income statement on a straight-
-line basis over the estimated useful lives of intangible assets
-unless such lives are indefinite. Goodwill has an indefinite
-useful life. Computer software is amortised at 20% per annum
-unless it is considered to have a shorter life, in which case the
-period of amortisation is reduced. The cumulative amount of
-goodwill written off directly to retained earnings in respect of
-acquisitions prior to 31 December 1997 is £311.7m (2022:
-£311.7m).
-
-
-### f) Property, plant and equipment
-
-Property, plant and equipment are stated at original cost less
-accumulated depreciation. Depreciation is calculated to write
-off the cost less estimated residual value of each asset evenly
-
-over its expected useful life at the following rates:
-
-. Leasehold improvements 10% per annum or period of
-lease if shorter
-
-· Furniture, fixtures and equipment 10-20% per annum
-
-· Motor vehicles 25% per annum
-
-
-### g) Investments
-
-Fixed asset investments are stated at cost less provision for
-impairment.
-
-
-#### h) Impairment of assets
-
-
-##### (i) Non-financial assets
-
-Assets that have an indefinite useful life are not subject to
-amortisation and are tested annually for impairment. An
-impairment loss is recognised for the amount by which the
-asset's carrying amount exceeds its recoverable amount.
-
-The recoverable amount is the higher of an asset's fair
-value less costs to sell and value in use. For the purposes
-of assessing impairment, assets are grouped at the lowest
-levels for which there are separately identifiable cash flows
-(cash-generating units).
-
-(ii) Financial assets
-
-The Company and Group recognise an allowance for
-expected credit losses (ECLs) for all debt instruments not
-held at fair value through profit or loss. ECLs are based on
-the difference between the contractual cash flows due in
-accordance with the contract and all the cash flows that the
-Group expects to receive, discounted at an approximation of
-the original effective interest rate.
-
-ECLs are recognised in two stages. For credit exposures
-for which there has not been a significant increase in credit
-risk since initial recognition, ECLs are provided for credit
-losses that result from default events that are possible within
-the next 12 months (a 12-month ECL). For those credit
-exposures for which there has been a significant increase
-in credit risk since initial recognition, a loss allowance is
-required for credit losses expected over the remaining life
-of the exposure, irrespective of the timing of the default (a
-lifetime ECL).
-
-For trade receivables and contract assets, the Group applies
-a simplified approach in calculating ECLs. Therefore, the
-Group does not track changes in credit risk, but instead
-recognises a loss allowance based on lifetime ECLs at each
-reporting date. The Group has established a provision matrix
-that is based on its historical credit loss experience, adjusted
-for forward-looking factors specific to the debtors and the
-economic environment as well as potential cancellations.
-
-
-## i) Taxation
-
-Income tax expense represents the sum of the current tax
-and deferred tax charges. The tax currently payable is based
-on taxable profit for the year. Taxable profit differs from profit
-as reported in the income statement because it excludes
-items of income or expense that are taxable or deductible
-in other years and it further excludes items that are never
-taxable or deductible. The Group's liability for current tax
-is calculated using tax rates that have been enacted or
-substantively enacted by the balance sheet date.
-
-Deferred tax is recognised on differences between the
-carrying amounts of assets and liabilities in the financial
-statements and the corresponding tax bases used in the
-computation of taxable profit and is accounted for using the
-balance sheet liability method.
-
-Deferred tax liabilities are generally recognised for all taxable
-temporary differences and deferred tax assets are recognised
-to the extent that it is probable that taxable profits will be
-available against which deductible temporary differences can
-be utilised. Such assets and liabilities are not recognised if
-the temporary difference arises from goodwill or from the
-initial recognition (other than in a business combination) of
-other assets and liabilities in a transaction that affects neither
-the taxable profit nor the accounting profit or that did not give
-rise to equal taxable and deductible temporary differences.
-
-Deferred tax liabilities are recognised for taxable temporary
-differences arising on investments in subsidiaries, except
-where the Group is able to control the reversal of the
-temporary difference and it is probable that the temporary
-difference will not reverse in the foreseeable future. The
-carrying amount of deferred tax assets is reviewed at each
-balance sheet date and reduced to the extent that it is no
-longer probable that sufficient taxable profits will be available.
-
-Deferred tax is calculated at the tax rates that are expected
-to apply in the period when the liability is settled or the asset
-realised.
-
-Deferred tax is charged or credited to the income statement,
-except when it relates to items charged or credited directly
-to OCI or equity, in which case the deferred tax is also dealt
-with in OCI or equity.
-
-Deferred tax assets and liabilities are offset when there is a
-legally enforceable right to set off current tax assets against
-current tax liabilities and when they relate to income taxes
-levied by the same taxation authority and the Group intends
-to settle its current tax assets and liabilities on a net basis.
-
-IAS 12 has been amended to add the exception to
-recognising and disclosing information about deferred tax
-assets and liabilities that are related to tax law enacted or
-substantively enacted to implement the Pillar Two model
-rules published by the Organisation for Economic Co-
-operation and Development (the "Pillar Two legislation"). The
-amendments require that entities shall disclose separately
-its current tax expense/ income related to Pillar Two income
-taxes, and the qualitative and quantitative information
-about its exposure to Pillar Two income taxes. The Group
-will disclose known or reasonably estimable information
-that helps users of financial statements to understand the
-Group's exposure to Pillar Two income taxes.
-
-
-## j) Pension costs
-
-The Group operates defined contribution pension schemes.
-The assets of the schemes are held separately from those
-of the Group in independently administered funds. The
-pension costs charged to the income statement represent
-the contributions payable by the Group to the funds during
-each period.
-
-
-## k) Leases
-
-
-### (i) Right-of-use assets
-
-The Group recognises right-of-use assets at the
-commencement date of the lease (i.e. the date the underlying
-asset is available for use). Right-of-use assets are measured
-at cost, less any accumulated depreciation and impairment
-losses, and adjusted for any remeasurement of lease
-liabilities. The cost of right-of-use assets includes the amount
-of lease liabilities recognised, initial direct costs incurred,
-and lease payments made at or before the commencement
-date less any lease incentives received. Unless the Group is
-reasonably certain to obtain ownership of the leased asset at
-the end of the lease term, the recognised right-of-use assets
-
-STRATEGIC REPORT
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
 CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-PageGroup Annual Report and Accounts 2023 150
-PageGroup Annual Report and Accounts 2023
-149
----
-
-are depreciated on a straight-line basis over the shorter of its
-estimated useful life and the lease term. Right-of-use assets
-are subject to impairment.
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
 
 
-### (ii) Lease liabilities
+### Note 1, cont.
 
-At the commencement date of the lease, the Group recognises
-lease liabilities measured at the present value of lease
-payments to be made over the lease term.
+. All resulting exchange rate differences are recognised as a separate
+component of equity in other comprehensive income. On disposal of a
+foreign operation, in whole or in part, the exchange differences
+recognised in equity are taken to the income statement and recognised
+as part of the capital gain/loss.
 
-The lease payments include fixed payments (including
-in-substance fixed payments) less any lease incentives
-receivable, variable lease payments that depend on an index or
-a rate, and amounts expected to be paid under residual value
-guarantees. The lease payments also include the exercise
-price of a purchase option reasonably certain to be exercised
-by the Group and payments of penalties for terminating a
-lease, if the lease term reflects the Group exercising the option
-to terminate. The variable lease payments that do not depend
-on an index or a rate are recognised as expense in the period
-on which the event or condition that triggers the payment
-occurs.
-
-In calculating the present value of lease payments, the
-Group uses the incremental borrowing rate at the lease
-commencement date if the interest rate implicit in the lease is
-not readily determinable. After the commencement date, the
-amount of lease liabilities is increased to reflect the accretion of
-interest and reduced for the lease payments made.
-
-In addition, the carrying amount of lease liabilities is
-remeasured if there is a modification, a change in the lease
-term, a change in the in-substance fixed lease payments or a
-change in the assessment to purchase the underlying asset.
+. Goodwill and adjustments to fair value arising on the acquisition of a
+foreign company are treated as assets and liabilities in this company and
+translated at the exchange rate on the balance sheet date.
 
 
-#### (iii) Short-term leases and leases of low-value assets
+### Cash flow statement
 
-The Group applies the short-term lease recognition exemption
-to its short-term leases of machinery and equipment (i.e.
-those leases that have a lease term of 12 months or less from
-the commencement date and do not contain a purchase
-option). It also applies the lease of low-value assets recognition
-exemption to leases of office equipment that are considered
-of low value (i.e. below £5,000). Lease payments on short-
-term leases and leases of low-value assets are recognised as
-expense on a straight-line basis over the lease term.
-
-iv) Judgement in determining the lease term of contracts with
-renewal options
-
-The Group determines the lease term as the non-cancellable
-term of the lease, together with any periods covered by an
-option to extend the lease if it is reasonably certain to be
-exercised, or any periods covered by an option to terminate
-the lease, if it is reasonably certain not to be exercised.
-
-The Group has the option, under some of its leases to lease
-the assets for additional terms of three to ten years. The Group
-applies judgement in evaluating whether it is reasonably certain
-to exercise the option to renew. That is, it considers all relevant
-factors that create an economic incentive for it to exercise the
-renewal. After the commencement date, the Group reassesses
-the lease term if there is a significant event or change in
-circumstances that is within its control and affects its ability to
-exercise (or not to exercise) the option to renew (e.g. a change
-in business strategy).
+The cash flow statement is prepared using the indirect method. The
+reported cash flow includes only transactions involving payments in or out.
+Cash and cash equivalents in the cash flow statement are consistent with
+the definition of cash and cash equivalents in the balance sheet.
 
 
-## l) Segment reporting
+### Materials and general subcontract work
 
-IFRS 8 requires operating segments to be identified on the
-basis of internal reports about components of the Group that
-are regularly reviewed by the Board to allocate resources to
-the segments and to assess their performance. Information
-provided to the Board is focused on regions and as a result,
-
-reportable segments are on a regional basis. Transactions
-between segments are recorded and allocated on an arms-
-length basis.
+Materials and general subcontract work refer to the direct costs of the
+goods or services supplied.
 
 
-## m) Dividend distribution
+### Parent company accounting policies
 
-Dividend distribution to the Company's Shareholders is
-recognised as a liability in the Group's financial statements in
-the period in which the dividends are approved by (for final
-dividends) or paid to (for interim dividends) the Company's
-Shareholders.
+The parent company's annual report has been prepared in accordance
+with the Swedish Annual Accounts Act (ARL 1995:1554) and RFR 2
+Accounting for Legal Entities. Under RFR 2, the parent company in the
+annual accounts of the legal entity must apply all of the EU-approved IFRS
+standards and statements provided this is possible within the framework of
+the Swedish Company Accounts Act and with due regard for the
+relationship between accounting and taxes. This recommendation
+specifies which exceptions and additions must be applied with regard to
+IFRS.
 
+Changes to accounting policies
 
-## n) Share-based compensation
-
-The Group operates a number of equity-settled, share-based
-compensation plans. The accounting treatments for the Group
-and Parent Company are described below:
-
-
-### (i) Share option schemes
-
-The fair value of the employee services received in exchange
-for the grant of the options is recognised as an expense in
-the income statement of the Group with a corresponding
-adjustment to equity. In the parent company, it is capitalised
-as an investment, with a corresponding adjustment to equity.
-The total amount to be expensed over the vesting period
-is determined by reference to the fair value of the options
-granted, excluding the impact of any non-market vesting
-conditions (for example, earnings per share). Non-market
-vesting conditions are included in assumptions about the
-number of options that are expected to become exercisable.
-
-At each balance sheet date, the estimate of the number
-of options that are expected to become exercisable is
-revised. The Group recognises the impact of the revision of
-original estimates, if any, in the income statement, and the
-corresponding adjustment to equity over the remaining vesting
-period.
-
-(ii) Management Incentive Plan
-
-Where deferred awards are made to Directors and senior
-executives under the Management Incentive Plan, to reflect
-that the awards are for services over a longer period, the value
-of the expected award is charged to the income statement
-of the Group on a straight-line basis over the vesting period
-to which the award relates. In the Parent Company, it is
-capitalised as an investment in the subsidiary that is receiving
-the employee service, with a corresponding adjustment to
-equity.
+Unless otherwise stated below, the parent company's accounting policies
+in 2023 have been changed in accordance with what is stated above for
+the Group.
 
 
-#### (iii) Employee Single Incentive Plan (ESIP)
+### Classification and valuation
 
-Awards under the ESIP are paid in cash (40%) and Shares
-(60%), which vest in three tranches over a three-year period.
-The value of expected award is charged to the income
-statement of the Group relative to these vesting periods.
-
-
-#### (iv) Tax on share schemes
-
-Where options or shares are net settled in respect of
-withholding tax obligations, these are accounted for as
-equity settled transactions. Payments to local tax authorities
-are accounted for as a deduction from equity for the shares
-withheld.
+The parent company's income statement and balance sheet are presented
+in accordance with the Swedish Annual Accounts Act. The main
+differences between this and IAS 1 Presentation of Financial Statements as
+applied to the preparation of the consolidated financial statements relate to
+the presentation of financial income and expenses, fixed assets, equity and
+the presentation of provisions under a separate heading in the balance
+sheet.
 
 
-## o) Deferred cash bonus
+### Group contributions and shareholder contributions
 
-The Group operates a bonus scheme for some members of
-staff whereby bonuses are deferred for three years from date
-of award. The bonuses are paid in full if the employee remains
-employed for the entire three-year period.
-
-
-## p) Repurchase of share capital
-
-When share capital recognised as equity is repurchased,
-the amount of the consideration paid, including any directly
-
-attributable costs, is recognised as a change in equity.
+Group contributions received and paid in the parent company are
+recognised as appropriations. Shareholders' contributions are recognised
+directly in the equity of the recipient and as an investment in shares in
+subsidiaries or, if no value is added, as an impairment of the shares through
+the income statement.
 
 
-## q) Provisions
+### Difference between the Group's and the parent company's accounting policies
 
-A provision is recognised in the balance sheet when the
-Group has a present legal or constructive obligation as a
-result of a past event, and it is probable that an outflow of
-economic benefits will be required to settle the obligation.
-Provisions are measured at the Directors' best estimate
-of the expenditure required to settle the obligation at the
-balance sheet date, and are discounted to present value
-where the effect is material.
+The parent company does not apply IFRS 16 Leases under the exemption
+in RFR 2. The parent company's rental agreements are recognised as
+operating leases.
 
+The parent company has chosen not to apply IFRS 9 for financial
+instruments. However, some of the policies in IFRS 9 are still applicable,
+such as those relating to impairment. In the parent company, financial
+assets are valued at cost less any impairment, and current financial assets
+are valued according to the lowest value principle.
 
-## r) Pension liabilities
+No significant differences have been noted in respect of new standards
+and interpretations that have not yet come into force.
 
-The Group has an unfunded retirement indemnity plan
-relating to a pension scheme in France. At 31 December
-2023, the Group's commitment was £2.3m (2022: £0.6m)
-with the movement due to changes in actuarial assumptions
-recognised in other comprehensive income.
+The parent company uses the formats specified in the Annual Accounts
+Act, which means that a different presentation of equity is applied. The
+parent company has different titles for the accounts compared to the
+Group.
 
-There are some further statutory schemes in other territories
-not recognised in the financial statements, which are
-immaterial individually and in aggregate.
+Participations in subsidiaries are reported in the parent company in
+accordance with the cost method. This means that transaction costs are
+included in the carrying amount of investments in subsidiaries and
+associates. Transaction costs relating to shares in Group companies are
+recognised directly in the income statement.
 
-
-## s) Financial assets and liabilities
-
-Financial assets are classified, at initial recognition, and
-subsequently measured at amortised cost, fair value through
-other comprehensive income (OCI), and fair value through
-profit or loss.
-
-The classification of financial assets at initial recognition
-depends on the financial assets' contractual cash flow
-characteristics and the Group's business model for
-managing them. With the exception of trade receivables that
-do not contain a significant financing component or for which
-the Group has applied the practical expedient, the Group
-initially measures a financial asset at its fair value plus, in the
-case of a financial asset not at fair value through profit or
-loss, transaction costs. Trade receivables that do not contain
-a significant financing component or for which the Group
-has applied the practical expedient are measured at the
-transaction price determined under IFRS 15.
-
-The Group's financial assets at amortised cost include
-trade and other receivables. In order for a financial asset to
-be classified and measured at amortised cost or fair value
-through OCI, it needs to give rise to cash flows that are
-"solely payments of principal and interest (SPPI)" on the
-principal amount outstanding. This assessment is referred to
-as the SPPI test and is performed at an instrument level.
-
-The Group's business model for managing financial assets
-refers to how it manages its financial assets in order to
-generate cash flows. The business model determines
-whether cash flows will result from collecting contractual
-cash flows, selling the financial assets, or both.
-
-Cash and cash equivalents includes cash-in-hand, deposits
-held at call with banks, and other short-term highly liquid
-investments with original maturities of three months or less.
-Bank overdrafts that are repayable on demand and form an
-integral part of the Group's cash management are included
-as a component of cash and cash equivalents for the
-purpose of the statement of cash flows. Prepayments and
-accrued income are held at amortised cost.
-
-All financial liabilities are recognised initially at fair value and,
-in the case of loans and borrowings and payables, net of
-directly attributable transaction costs.
-
-The Group's financial liabilities include trade and other
-payables and derivative financial instruments.
-
-Financial liabilities are classified, at initial recognition,
-as financial liabilities through profit or loss, loans and
-borrowings, payables, or as derivatives designated as
-hedging instruments in an effective hedge, as appropriate.
-The Group has derivative contracts at the balance sheet
-date that have been valued at fair value through the income
+Dividends from subsidiaries are fully recognised as income in the income
 statement.
 
 
-## t) Areas of accounting estimation
+## Note 2 Significant estimates and assessments when applying the Group's accounting policies
 
-The preparation of financial statements in conformity with
-IFRSs requires the use of certain accounting estimates
-and judgements. It also requires management to exercise
-judgement in the process of applying the Company's
-accounting policies.
+The preparation of financial statements in conformity with GAAP and IFRS
+requires the corporate executive and the Board of Directors to make
+estimates and assumptions that affect the reported amounts of income
+and expenses, assets and liabilities and other disclosures.
 
-Estimates and judgements are continually evaluated and are
-based on historical experience and other factors, including
-expectations of future events that are believed to be
-reasonable under the circumstances.
-
-In preparing the Consolidated Financial Statements
-management has considered the impact of climate change,
-particularly in the context of the risks identified in the TCFD
-disclosures on pages 52 to 57 this year and the stated Net
-Zero targets. These considerations did not have a material
-impact on the financial reporting judgements and estimates.
-In particular, management has considered the impact of
-climate change in respect of the following areas:
-
-. the Group's going concern assessment to March 2025
-and viability of the Group over the next three years;
-
-. cash flow forecasts used in the impairment assessment
-of non-current assets including goodwill; and
-
-· carrying value and useful economic lives of plant,
-property and equipment and intangibles.
-
-Whilst there is no medium-term impact expected from
-climate change, management is aware of the ever-evolving
-risks associated with climate change and will continue to
-monitor these and their impact on the judgements and
-estimates made in the Group's Consolidated Financial
-Statements.
-
-The following are areas where appropriate accounting
-necessarily involves management judgement and estimation.
-However, none of the estimates described are considered to
-have a significant risk of resulting in a material adjustment to
-the carrying amount of the related assets and liabilities within
-the next financial year. Accordingly, they are not considered
-to be major sources of estimation uncertainty.
+Estimates and assessments are evaluated regularly and are based on
+historical experience and other factors, including expectations of future
+events that are considered reasonable under the prevailing circumstances.
+The actual amounts may differ from estimates made. The areas where
+estimates and assumptions that are considered to be significant to the
+understanding of the financial statements are discussed in the following
+section on the basis of the significance of assessments and uncertainty.
+The conditions for the Group are gradually changing, which means that
+these assessments will change.
 
 
-### (i) Trade and other receivables
+### Impairment testing of goodwill
 
-There is uncertainty regarding Customers who may not be
-able to pay as their invoices fall due as at 31 December
-2023. In total the Group holds £281.7m of Gross Trade
-Receivables (2022: £320.8m). A provision for £11.1m (2022:
-£13.0m) has been recognised based on the expected credit
-losses, cancellations or balances which are in litigation.
+The Group Executive Board tests goodwill for impairment at least annually
+in accordance with the accounting policies described under "Impairment
+testing of other fixed assets".
 
-In reviewing the appropriateness of the provisions in respect
-of recoverability of trade receivables, consideration has been
-given to the economic climate in the respective markets, the
-ageing of the debt and the potential likelihood of default. If
-the economic climate was to deteriorate across a number
-of countries the portfolio could be impaired by an amount
-greater than materiality. This scenario is however considered
-sufficiently remote such that no reasonably possible changes
-in assumptions are likely to cause material further impairment
-next year. Please see note 22 for an analysis of expected
-credit losses and cancellations.
+Goodwill is monitored within the Group's operating segments, which in turn
+consist of groups of cash-generating entities. The Group Executive Board
+constantly monitors developments in the cash-generating entities. The
+cash-generating entity to which goodwill has been allocated must be
+valued by discounting the entity's cash flows in order to determine whether
+the value of goodwill has been impaired. Sdiptech performs the impairment
+test on the basis of the grouping of the cash-generating entities in the
+Group's operating segments, which is the lowest level of internal monitoring
+of financial position.
 
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-151
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-152
+In applying this methodology, the Group Executive Board relies on a
+number of factors including historical performance, strategic plans and
+forecasts and market data. A more detailed description of the methodology
+can be found in Note 12 Goodwill.
+
+
+### Impairment testing of other fixed assets
+
+The Group's tangible and intangible assets, excluding goodwill, are stated
+at cost less accumulated depreciation and any impairment losses. Apart
+from goodwill, no intangible assets with an indefinite useful life are
+recognised. They are amortised over their estimated useful life at an
+estimated residual value. Both useful life and residual value are reviewed at
+the end of each accounting period, as a minimum.
+
+The carrying amount of the Group's non-current assets is reviewed
+whenever events or changes in circumstances indicate that the carrying
+amount may not be recoverable. The carrying amount of intangible assets
+not yet ready for use is tested annually. The recoverable amount of the
+asset is determined if such an analysis indicates an overstated carrying
+amount.
+
+The recoverable amount is the fair value of an asset less costs to sell or its
+value in use, whichever is the higher. Value in use is calculated as the
+expected future discounted cash flow from the asset, or the cash-
+generating entity to which the asset belongs. A test of the carrying amount
+also arises when a fixed asset is classified as held for sale, when it is
+recognised at its carrying amount or its fair value less costs to sell,
+whichever is the lower.
+
+
+### Assumptions when calculating lease liability
+
+When calculating lease liability, the corporate executive has made a
+number of estimates, assumptions and assessments that, if made
+differently, would affect the amount of the lease liability. Discounting at a
+marginal rate in cases where a fixed rate is not stated in the underlying
+contract is a parameter of greater importance. The discount rate affects
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+68
 ---
 
-
-#### (ii) Deferred Tax
-
-At 31 December 2023, PageGroup's deferred tax assets are
-£19.9m (2022: £18.6m). The ultimate realisation of deferred
-tax assets is dependent upon the generation of future
-taxable income during the periods in which those temporary
-differences become deductible or in which tax losses can be
-utilised. The tax effect of deductible temporary differences
-and unused tax losses are recognised as a deferred tax asset
-when it becomes probable that the tax losses and deductible
-temporary differences will be utilised. In making assessments
-regarding deferred tax assets, management considers the
-scheduled reversal of deferred tax liabilities, projected future
-taxable income, the availability to carry back losses and tax
-planning strategies.
-
-At 31 December 2023, based upon the projections for future
-taxable income over the periods in which deferred tax assets
-are deductible, management believes that it is more likely than
-not that PageGroup will realise the benefits of these deductible
-differences. The amount of deferred tax assets considered
-realisable could however be reduced in subsequent years if
-estimates of future taxable income during their carry forward
-periods are reduced, or rulings by the tax authorities are
-unfavourable. Estimates are therefore subject to change due to
-both market-related and government-related uncertainties, as
-well as PageGroup's own future decisions.
-
-
-### (iii) Uncertain tax positions
-
-Current tax is the expected tax payable on the taxable income
-for the year, using tax rates enacted or substantively enacted
-at the balance sheet date, and any adjustments to tax payable
-
-in respect of previous years.
-
-Uncertain tax positions are assessed and measured on an
-issue by issue basis within the jurisdictions that we operate
-using management's estimate of the most likely outcome.
-Where management determines that a greater than 50%
-probability exists that the tax authorities would accept the
-position taken in the tax return, amounts are recognised in the
-consolidated financial statements on that basis. Where the
-amount of tax payable or recoverable is uncertain, the Group
-recognises a liability or asset based on either: management's
-judgement of the most likely outcome; or, when there is a wide
-range of possible outcomes, a probability weighted average
-approach. The Group recognises interest on late paid taxes
-as part of financing costs. The Group recognises penalties, if
-applicable, as part of administrative and other expenses.
-
-These estimates include management judgements about the
-probable outcome of uncertain tax positions. Management
-base their judgements on the latest information available about
-the positions expected to be taken by each tax authority.
-Actual outcomes and settlements may differ from the estimates
-recorded in these consolidated financial statements however
-we do not anticipate a significant risk of resulting in a material
-adjustment. The uncertain tax position provision recognised as
-at 31 December 2023 is £3.3m (2022: £3.0m).
-
-
-## u) Employee Benefit Trust
-
-The Employee Benefit Trust is considered a separate legal
-entity and not an extension of the Parent Company. It is
-included in the consolidated results of the Group as it is
-deemed to have control of the entity.
-
-
-## 2. SEGMENT REPORTING
-
-All revenues disclosed are derived from external Customers.
-
-The accounting policies of the reportable segments are the same as the Group's accounting policies described in Note 1. Segment
-operating profit represents the profit earned by each segment including allocation of central administration costs. This is the
-measure reported to the Group's Board, the chief operating decision maker, for the purpose of resource allocation and assessment
-of segment performance. Segments are aggregated in accordance with management ownership, determined by the possession of
-similar characteristics such as geography, market maturity and economic environment. No judgements were applied to identify the
-reportable segments.
-
-
-### (a) Revenue, gross profit and operating profit by reportable segment
-
-
-<table>
-<tr>
-<th rowspan="2">2023</th>
-<th>Revenue</th>
-<th>Gross profit</th>
-<th>Operating profit</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>EMEA</td>
-<td>1,117,150</td>
-<td>549,511</td>
-<td>92,176</td>
-</tr>
-<tr>
-<td>Asia Pacific</td>
-<td>284,821</td>
-<td>159,636</td>
-<td>11,613</td>
-</tr>
-<tr>
-<td>Americas</td>
-<td>311,653</td>
-<td>173,312</td>
-<td>17,749</td>
-</tr>
-<tr>
-<td>United Kingdom</td>
-<td>296,679</td>
-<td>124,673</td>
-<td>(2,723)</td>
-</tr>
-<tr>
-<td>Operating profit</td>
-<td>–</td>
-<td>–</td>
-<td>118,815</td>
-</tr>
-<tr>
-<td>Net financial expense</td>
-<td>–</td>
-<td>–</td>
-<td>(1,379)</td>
-</tr>
-<tr>
-<td></td>
-<td>2,010,303</td>
-<td>1,007,132</td>
-<td>117,436</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th rowspan="2">2022</th>
-<th>Revenue</th>
-<th>Gross profit</th>
-<th>Operating profit</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>£'000</th>
-<th>000.3</th>
-</tr>
-<tr>
-<td>EMEA</td>
-<td>1,069,346</td>
-<td>538,488</td>
-<td>122,079</td>
-</tr>
-<tr>
-<td>Asia Pacific</td>
-<td>318,359</td>
-<td>195,276</td>
-<td>35,244</td>
-</tr>
-<tr>
-<td>Americas</td>
-<td>282,942</td>
-<td>193,397</td>
-<td>17,885</td>
-</tr>
-<tr>
-<td>United Kingdom</td>
-<td>319,640</td>
-<td>149,133</td>
-<td>20,871</td>
-</tr>
-<tr>
-<td>Operating profit</td>
-<td>–</td>
-<td>–</td>
-<td>196,079</td>
-</tr>
-<tr>
-<td>Net financial expense</td>
-<td>–</td>
-<td>–</td>
-<td>(1,713)</td>
-</tr>
-<tr>
-<td></td>
-<td>1,990,287</td>
-<td>1,076,294</td>
-<td>194,366</td>
-</tr>
-</table>
-
-The above analysis by destination is not materially different to the analysis by origin.
-
-
-The analysis below is of the carrying amount of reportable segment assets, liabilities and non-current assets. Segment assets
-and liabilities include items directly attributable to a segment as well as those that can be allocated on a reasonable basis.
-
-The individual reportable segments exclude income tax assets and liabilities. Non-current assets include property, plant and
-equipment, computer software, goodwill and other intangibles.
-
-
-### (b) Segment assets, liabilities, non-current assets and capital expenditure by reportable segment
-
-
-<table>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Total assets</th>
-<th colspan="2">Total liabilities</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>000.3</th>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>EMEA</td>
-<td>322,635</td>
-<td>338,251</td>
-<td>250,651</td>
-<td>248,585</td>
-</tr>
-<tr>
-<td>Asia Pacific</td>
-<td>99,919</td>
-<td>128,299</td>
-<td>58,548</td>
-<td>69,995</td>
-</tr>
-<tr>
-<td>Americas</td>
-<td>98,697</td>
-<td>116,647</td>
-<td>50,333</td>
-<td>60,635</td>
-</tr>
-<tr>
-<td>United Kingdom</td>
-<td>159,939</td>
-<td>194,514</td>
-<td>32,596</td>
-<td>45,476</td>
-</tr>
-<tr>
-<td>Segment assets/liabilities</td>
-<td>681,190</td>
-<td>777,711</td>
-<td>392,128</td>
-<td>424,691</td>
-</tr>
-<tr>
-<td>Income tax</td>
-<td>23,384</td>
-<td>17,233</td>
-<td>5,958</td>
-<td>18,050</td>
-</tr>
-<tr>
-<td></td>
-<td>704,574</td>
-<td>794,944</td>
-<td>398,086</td>
-<td>442,741</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Property, plant and equipment</th>
-<th colspan="2">Intangible assets</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>EMEA</td>
-<td>16,101</td>
-<td>14,072</td>
-<td>2,044</td>
-<td>2,296</td>
-</tr>
-<tr>
-<td>Asia Pacific</td>
-<td>5,269</td>
-<td>6,194</td>
-<td>37</td>
-<td>110</td>
-</tr>
-<tr>
-<td>Americas</td>
-<td>5,947</td>
-<td>7,378</td>
-<td>3</td>
-<td>5</td>
-</tr>
-<tr>
-<td>United Kingdom</td>
-<td>20,135</td>
-<td>8,479</td>
-<td>30,014</td>
-<td>37,589</td>
-</tr>
-<tr>
-<td></td>
-<td>47,452</td>
-<td>36,123</td>
-<td>32,098</td>
-<td>40,000</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Right-of-use assets</th>
-<th colspan="2">Lease liabilities</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>000.3</th>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>EMEA</td>
-<td>70,907</td>
-<td>61,760</td>
-<td>76,867</td>
-<td>65,136</td>
-</tr>
-<tr>
-<td>Asia Pacific</td>
-<td>12,486</td>
-<td>17,415</td>
-<td>16,854</td>
-<td>20,042</td>
-</tr>
-<tr>
-<td>Americas</td>
-<td>7,989</td>
-<td>11,950</td>
-<td>10,257</td>
-<td>14,434</td>
-</tr>
-<tr>
-<td>United Kingdom</td>
-<td>7,004</td>
-<td>9,871</td>
-<td>6,955</td>
-<td>10,220</td>
-</tr>
-<tr>
-<td></td>
-<td>98,386</td>
-<td>100,996</td>
-<td>110,933</td>
-<td>109,832</td>
-</tr>
-</table>
-
-The below analysis in note (c) and (d) relates to the requirement of IFRS 15 to disclose disaggregated revenue by streams and
-region.
-
-
-STRATEGIC REPORT
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
 CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-PageGroup Annual Report and Accounts 2023 154
-PageGroup Annual Report and Accounts 2023
-153
----
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
 
 
-### (c) Revenue and gross profit generated from permanent and temporary placements
+#### Note 2, cont.
+
+the size of the liability and right-of-use asset, as well as interest expense
+and depreciation, and thus a different assessment of the incremental
+discount rate would have an impact on the measurement of the lease
+liability. The assessment of extension options is another aspect that is
+significantly affected by assessment. The Group assesses the probability
+that extension options will only be exercised when it is reasonably certain
+that the contract will be extended given a number of parameters relating to
+investments in premises and the company's growth: see Note 15 Right-of-
+use assets.
 
 
-<table>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Revenue</th>
-<th colspan="2">Gross profit</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Permanent</td>
-<td>738,563</td>
-<td>832,014</td>
-<td>733,657</td>
-<td>826,321</td>
-</tr>
-<tr>
-<td>Temporary</td>
-<td>1,271,740</td>
-<td>1,158,273</td>
-<td>273,475</td>
-<td>249,973</td>
-</tr>
-<tr>
-<td></td>
-<td>2,010,303</td>
-<td>1,990,287</td>
-<td>1,007,132</td>
-<td>1,076,294</td>
-</tr>
-</table>
+#### Valuation of acquisition-related liabilities
+
+In the business combinations conducted by Sdiptech, part of the purchase
+price is normally linked to the acquired company's financial performance
+during a given period of time after closing. The book value of the liabilities to
+the sellers in the form of contingent considerations is based on the same
+factors as for impairment testing of goodwill, including - but not limited to -
+historical performance, strategic plans and forecasts and market data. The
+time period for the assessment differs from impairment testing of goodwill
+in that only the fixed period of time that constitutes the remainder of the
+contingent consideration for each acquisition is included. The Group's
+earnings can thus be affected both positively and negatively as a result of
+the assessments made by the Group Executive Board of each company's
+financial results during the remaining part of the conditional period.
 
 
-<table>
-<tr>
-<th colspan="5">d) Revenue generated by permanent and temporary placements by reportable segment</th>
-</tr>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Permanent</th>
-<th colspan="2">Temporary</th>
-</tr>
-<tr>
-<th>Year ended 31 December 2023</th>
-<th>Year ended 31 December 2022</th>
-<th>Year ended 31 December 2023</th>
-<th>Year ended 31 December 2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>000.3</th>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>EMEA</td>
-<td>369,582</td>
-<td>380,002</td>
-<td>747,568</td>
-<td>689,344</td>
-</tr>
-<tr>
-<td>Asia Pacific</td>
-<td>135,462</td>
-<td>170,029</td>
-<td>149,359</td>
-<td>148,330</td>
-</tr>
-<tr>
-<td>Americas</td>
-<td>146,916</td>
-<td>170,970</td>
-<td>164,737</td>
-<td>111,972</td>
-</tr>
-<tr>
-<td>United Kingdom</td>
-<td>86,603</td>
-<td>111,013</td>
-<td>210,076</td>
-<td>208,627</td>
-</tr>
-<tr>
-<td></td>
-<td>738,563</td>
-<td>832,014</td>
-<td>1,271,740</td>
-<td>1,158,273</td>
-</tr>
-</table>
+## Note 3 Business acquisitions
 
 
-The analysis in note (e) revenue and gross profit by discipline (being the professions of candidates placed) has been included as
-additional disclosure over and above the requirements of IFRS 8 "Operating Segments".
+### Accounting policies
+
+Acquired companies are accounted for using the acquisition method and
+are included in the consolidated financial statements from the date on
+which control of the company is acquired. Accordingly, the sum of the
+consideration paid, including contingent consideration, and the acquired
+company's identifiable net assets are measured at fair value at the
+acquisition date. When a subsidiary is acquired and previous owners
+remain as minority owners, the agreement in some cases contains an
+option that gives the minority owner the right to sell the remaining holdings
+\- and Sdiptech the opportunity to buy - at a later stage. No non-controlling
+interest is recognised in these cases: a financial liability is recognised
+instead. The liability is recognised as a contingent consideration at the
+present value of the redemption amount for the shares. Transaction costs
+related to acquisitions are expensed as incurred under other external
+costs.
+
+The excess of the cost of acquisition over the fair value of the Group's
+percentage of the identifiable assets, liabilities and contingent liabilities
+acquired is recognised as goodwill and is tested for impairment at least
+annually.
 
 
-### (e) Revenue and gross profit by discipline
+## Preliminary acquisition analyses 2023
 
 
 <table>
 <tr>
-<th rowspan="3"></th>
-<th colspan="2">Revenue</th>
-<th colspan="2">Gross profit</th>
+<th>Net assets acquired</th>
+<th>HeatWork (1)</th>
+<th>Kemi-tech (2)</th>
+<th>Total 2023</th>
 </tr>
 <tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>£'000</th>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Accounting and Financial Services</td>
-<td>720,927</td>
-<td>720,783</td>
-<td>332,282</td>
-<td>343,659</td>
-</tr>
-<tr>
-<td>Technology</td>
-<td>360,392</td>
-<td>328,286</td>
-<td>138,069</td>
-<td>149,634</td>
-</tr>
-<tr>
-<td>Legal, HR, Secretarial and other</td>
-<td>315,811</td>
-<td>339,257</td>
-<td>163,308</td>
-<td>185,138</td>
-</tr>
-<tr>
-<td>Engineering, Property &amp; Construction, Procurement &amp; Supply Chain</td>
-<td>427,850</td>
-<td>400,959</td>
-<td>242,897</td>
-<td>251,686</td>
-</tr>
-<tr>
-<td>Marketing, Sales and Retail</td>
-<td>185,323</td>
-<td>201,002</td>
-<td>130,576</td>
-<td>146,177</td>
-</tr>
-<tr>
-<td></td>
-<td>2,010,303</td>
-<td>1,990,287</td>
-<td>1,007,132</td>
-<td>1,076,294</td>
-</tr>
-</table>
-
-
-## 3. PROFIT FOR THE YEAR
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Profit for the year is stated after charging:</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Employment costs (Note 4)</td>
-<td>681,927</td>
-<td>682,467</td>
-</tr>
-<tr>
-<td>Net exchange losses</td>
-<td>4,114</td>
-<td>3,184</td>
-</tr>
-<tr>
-<td>Depreciation of property, plant and equipment - owned (Note 10)</td>
-<td>13,475</td>
-<td>11,230</td>
-</tr>
-<tr>
-<td>Amortisation of intangibles (Note 12)</td>
-<td>11,879</td>
-<td>13,509</td>
-</tr>
-<tr>
-<td>Expected credit losses (Note 22)</td>
-<td>35,114</td>
-<td>25,265</td>
-</tr>
-<tr>
-<td>Expected credit losses recovered / reversed (Note 22)</td>
-<td>(33,652)</td>
-<td>(20,477)</td>
-</tr>
-<tr>
-<td>Loss on sale of property, plant and equipment and computer software</td>
-<td>819</td>
-<td>4,398</td>
-</tr>
-<tr>
-<td>Restructuring costs</td>
-<td>10,615</td>
+<td>Intangible assets</td>
+<td>27.7</td>
 <td>-</td>
+<td>27.7</td>
 </tr>
 <tr>
-<td>Depreciation of right-of-use assets (Note 11)</td>
-<td>41,427</td>
-<td>35,853</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Fees payable to the Company's auditor:</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Fees payable to the Company's auditor for the audit of the Company's annual accounts</td>
-<td>927</td>
-<td>860</td>
-</tr>
-<tr>
-<td>Fees payable to the Company's auditor and associates for other services: - The audit of the Company's subsidiaries pursuant to legislation</td>
-<td>898</td>
-<td>802</td>
-</tr>
-<tr>
-<td>Total audit fees</td>
-<td>1,825</td>
-<td>1,662</td>
-</tr>
-<tr>
-<td>- Audit related assurance services</td>
-<td>56</td>
-<td>58</td>
-</tr>
-<tr>
-<td>- Other non-audit services</td>
-<td>9</td>
-<td>7</td>
-</tr>
-<tr>
-<td>Total non-audit fees</td>
-<td>65</td>
-<td>65</td>
-</tr>
-<tr>
-<td>Total fees</td>
-<td>1,890</td>
-<td>1,727</td>
-</tr>
-</table>
-
-
-During the year, the Company incurred restructuring costs of £10.6m before associated savings. These costs relate principally to
-redundancy payments and small office closures.
-
-
-## 4. EMPLOYEE INFORMATION
-
-The average number of employees (including Executive Directors) during the year and total number of employees (including
-Executive Directors) at 31 December 2023 were as follows:
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023 Average</th>
-<th>2022 Average</th>
-<th>At 31 Dec 2023</th>
-<th>At 31 Dec 2022</th>
-</tr>
-<tr>
-<th>No.</th>
-<th>No.</th>
-<th>No.</th>
-<th>No.</th>
-</tr>
-<tr>
-<td>Management</td>
-<td>439</td>
-<td>416</td>
-<td>426</td>
-<td>445</td>
-</tr>
-<tr>
-<td>Client services</td>
-<td>5,895</td>
-<td>6,341</td>
-<td>5,425</td>
-<td>6,498</td>
-</tr>
-<tr>
-<td>Administration</td>
-<td>2,121</td>
-<td>1,952</td>
-<td>2,008</td>
-<td>2,077</td>
-</tr>
-<tr>
-<td></td>
-<td>8,455</td>
-<td>8,709</td>
-<td>7,859</td>
-<td>9,020</td>
-</tr>
-</table>
-
-
-Employment costs (including Directors' emoluments) comprised:
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Wages and salaries</td>
-<td>575,486</td>
-<td>583,683</td>
-</tr>
-<tr>
-<td>Social security costs</td>
-<td>68,900</td>
-<td>64,077</td>
-</tr>
-<tr>
-<td>Pension costs - defined contribution plans</td>
-<td>25,769</td>
-<td>24,252</td>
-</tr>
-<tr>
-<td>Share-based payments and deferred cash plan</td>
-<td>11,772</td>
-<td>10,455</td>
-</tr>
-<tr>
-<td></td>
-<td>681,927</td>
-<td>682,467</td>
-</tr>
-</table>
-
-
-No staff are employed by the Parent Company (2022: none) hence no remuneration has been disclosed for the Company.
-Remuneration for Directors for their services on behalf of the Parent Company are included in the Directors' Remuneration
-Report on pages 107 to 131.
-
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-155
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-156
----
-
-
-## 5. FINANCIAL INCOME/(EXPENSES)
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>000.3</th>
-</tr>
-<tr>
-<td>Financial income</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Interest receivable</td>
-<td>2,236</td>
-<td>1,104</td>
-</tr>
-<tr>
-<td></td>
-<td>2,236</td>
-<td>1,104</td>
-</tr>
-<tr>
-<td>Financial expenses</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Interest payable</td>
-<td>(1,072)</td>
-<td>(1,213)</td>
-</tr>
-<tr>
-<td>Interest on lease liabilities</td>
-<td>(2,543)</td>
-<td>(1,604)</td>
-</tr>
-<tr>
-<td></td>
-<td>(3,615)</td>
-<td>(2,817)</td>
-</tr>
-</table>
-
-
-## 6. INCOME TAX EXPENSE
-
-The charge for taxation is based on the effective annual tax rate of 34.4% on profit before tax (2022: 28.5%).
-
-
-<table>
-<tr>
-<th rowspan="2">Analysis of charge in the year</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>000.3</th>
-</tr>
-<tr>
-<td>UK income tax at 23.50% (2022: 19.00%) for year</td>
-<td>5,163</td>
-<td>15,425</td>
-</tr>
-<tr>
-<td>Overseas income tax</td>
-<td>32,571</td>
-<td>39,501</td>
-</tr>
-<tr>
-<td>Adjustments in respect of prior years</td>
-<td>1,965</td>
-<td>(1,861)</td>
-</tr>
-<tr>
-<td></td>
-<td>39,699</td>
-<td>53,065</td>
-</tr>
-<tr>
-<td>Deferred tax</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Adjustment in respect of prior years</td>
-<td>(1,641)</td>
-<td>1,341</td>
-</tr>
-<tr>
-<td>Origination and reversal of temporary differences</td>
-<td>(372)</td>
-<td>(3,622)</td>
-</tr>
-<tr>
-<td>Derecognition of losses and other tax attributes</td>
-<td>2,673</td>
-<td>4,688</td>
-</tr>
-<tr>
-<td>Impact of tax rate changes</td>
-<td>9</td>
-<td>(118)</td>
-</tr>
-<tr>
-<td>Deferred tax income</td>
-<td>669</td>
-<td>2,289</td>
-</tr>
-<tr>
-<td>Total tax expense in the income statement</td>
-<td>40,368</td>
-<td>55,354</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th rowspan="2">Reconciliation of effective tax rate</th>
-<th>2023</th>
-<th></th>
-<th>2022</th>
-<th rowspan="2">%</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>%</th>
-<th>000.3</th>
-</tr>
-<tr>
-<td>Profit before taxation</td>
-<td>117,436</td>
-<td></td>
-<td>194,366</td>
-<td></td>
-</tr>
-<tr>
-<td>Profit before tax multiplied by the standard rate of corporation tax in the UK</td>
-<td rowspan="2">27,597</td>
-<td>23.5</td>
-<td>36,930</td>
-<td>19.0</td>
-</tr>
-<tr>
-<td>Effects of:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Disallowable items and other permanent differences</td>
-<td>2,851</td>
-<td>2.4</td>
-<td>2,193</td>
-<td>1.1</td>
-</tr>
-<tr>
-<td>Unrelieved overseas losses</td>
-<td>2,797</td>
-<td>2.4</td>
-<td>895</td>
-<td>0.5</td>
-</tr>
-<tr>
-<td>Derecognition/(recognition) of overseas losses and other tax attributes</td>
-<td>(124)</td>
-<td>(0.1)</td>
-<td>3,792</td>
-<td>2.0</td>
-</tr>
-<tr>
-<td>Other tax movements</td>
-<td>38</td>
-<td>0.0</td>
-<td>(790)</td>
-<td>(0.4)</td>
-</tr>
-<tr>
-<td>Higher tax rates on overseas earnings</td>
-<td>356</td>
-<td>0.3</td>
-<td>5,141</td>
-<td>2.6</td>
-</tr>
-<tr>
-<td>Other tax overseas</td>
-<td>6,518</td>
-<td>5.6</td>
-<td>7,831</td>
-<td>4.0</td>
-</tr>
-<tr>
-<td>Movement of rate difference</td>
-<td>10</td>
-<td>0.0</td>
-<td>(118)</td>
-<td>(0.1)</td>
-</tr>
-<tr>
-<td>Adjustment to tax charge in respect of prior periods</td>
-<td>325</td>
-<td>0.3</td>
-<td>(520)</td>
-<td>(0.3)</td>
-</tr>
-<tr>
-<td>Tax expense and effective rate for the year</td>
-<td>40,368</td>
-<td>34.4</td>
-<td>55,354</td>
-<td>28.5</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th rowspan="2">Tax recognised directly in other comprehensive income</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<td>£'000</td>
-<td>000.3</td>
-</tr>
-<tr>
-<td>Remeasurement of retirement benefit obligations</td>
-<td>435</td>
-<td>–</td>
-</tr>
-<tr>
-<td></td>
-<td>2023</td>
-<td>2022</td>
-</tr>
-<tr>
-<td>Tax recognised directly in equity</td>
-<td>000.3</td>
-<td>£'000</td>
-</tr>
-<tr>
-<td>Relating to settled transactions</td>
-<td>1,016</td>
-<td>(706)</td>
-</tr>
-</table>
-
-
-We have generated profits in overseas countries which have higher tax rates and are subject to additional taxes on profits which
-have contributed 5.6% to the tax rate in 2023. Disallowable and other permanent differences are broadly in line with prior years and
-contributed 2.4% to the tax rate in 2023. Net derecognition of overseas losses and other tax attributes, that we could not recognise
-due to the requirement to have profits against which to offset in the foreseeable future, increase the rate by 2.3%. Adjustments in
-respect of prior periods are one-off in nature and had a negligible impact. These combine to add to the basic UK rate of 23.5% to
-give the total effective tax rate of 34.4%.
-
-The UK corporation tax rate increased to 25% (from 19%) on 1 April 2023. This was previously enacted in 2021 and UK deferred
-taxes at balance sheet dates have been measured using these enacted tax rates and reflected in these financial statements.
-
-
-## 7. CURRENT TAX ASSETS AND LIABILITIES
-
-The current tax asset of £23.4m (2022: £17.2m), and current tax liability of £6.0m (2022: £18.1m) for the Group, and current tax
-asset and liability of Enil (2022: Enil) for the Parent Company, represent the amount of income taxes recoverable and payable in
-respect of current and prior periods.
-
-Pillar Two legislation has been enacted or substantively enacted in certain jurisdictions in which the Group operates, including
-the UK. The legislation will be effective for the Group's financial year beginning 1 January 2024. The Group is in scope of the
-Pillar Two legislation and has performed an assessment of the Group's potential exposure to Pillar Two income taxes. The
-assessment of the potential exposure to Pillar Two income taxes is based on the most recent country-by-country reporting
-prepared for the Group and management is not currently aware of any circumstances under which this might change. Based on
-this assessment, the Group does not expect any material potential exposure to Pillar Two top-up taxes.
-
-
-## 8. DIVIDENDS
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>000.3</th>
-</tr>
-<tr>
-<td>Amounts recognised as distributions to equity holders in the year:</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Final dividend for the year ended 31 December 2022 of 10.76p per ordinary share (2021: 10.30p)</td>
-<td>33,889</td>
-<td>32,740</td>
-</tr>
-<tr>
-<td>Interim dividend for the year ended 31 December 2023 of 5.13p per ordinary share (2022: 4.91p)</td>
-<td>16,166</td>
-<td>15,607</td>
-</tr>
-<tr>
-<td>Special dividend for the year ended 31 December 2023 of 15.87p per ordinary share (2022: 26.71p)</td>
-<td>50,009</td>
-<td>84,900</td>
-</tr>
-<tr>
-<td></td>
-<td>100,064</td>
-<td>133,247</td>
-</tr>
-<tr>
-<td>Amounts proposed as distributions to equity holders in the year:</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Proposed final dividend for the year ended 31 December 2023 of 11.24p per ordinary share (2022: 10.76p)</td>
-<td>35,449</td>
-<td>34,207</td>
-</tr>
-</table>
-
-
-The proposed final dividend had not been approved by the Board at 31 December 2023 and therefore has not been included as
-a liability. The proposed final dividend of 11.24p (2022: 10.76p) per ordinary share will be paid on 21 June 2024 to Shareholders
-on the register at close of business on 17 May 2024.
-
-
-## 9. EARNINGS PER ORDINARY SHARE
-
-The calculation of the basic and diluted earnings per share is based on the following data:
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>000,3</th>
-</tr>
-<tr>
-<td>Earnings</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Earnings for basic and diluted earnings per share (£'000)</td>
-<td>77,068</td>
-<td>139,012</td>
-</tr>
-<tr>
-<td>Number of shares</td>
-<td>number</td>
-<td>number</td>
-</tr>
-<tr>
-<td>Weighted average number of shares used for basic earnings per share ('000)</td>
-<td>315,784</td>
-<td>318,166</td>
-</tr>
-<tr>
-<td>Dilutive effect of share plans ('000)</td>
-<td>1,311</td>
-<td>1,204</td>
-</tr>
-<tr>
-<td>Diluted weighted average number of shares used for diluted earnings per share ('000)</td>
-<td>317,095</td>
-<td>319,370</td>
-</tr>
-<tr>
-<td></td>
-<td>pence</td>
-<td>pence</td>
-</tr>
-<tr>
-<td>Basic earnings per share</td>
-<td>24.4</td>
-<td>43.7</td>
-</tr>
-<tr>
-<td>Diluted earnings per share</td>
-<td>24.3</td>
-<td>43.5</td>
-</tr>
-</table>
-
-
-The above results relate to continuing operations.
-
-
-### Basic
-
-Basic earnings per share is calculated by dividing the profit attributable to equity holders of the Company by the weighted
-average number of ordinary shares in issue during the year, excluding unallocated ordinary shares purchased by the Employee
-Benefit Trust and held in the reserve.
-
-
-### Diluted
-
-Diluted earnings per share is calculated by adjusting the weighted average number of ordinary shares outstanding to assume
-conversion of all dilutive potential ordinary shares. This calculation determines the number of shares that could have been
-acquired at fair value (determined as the average market price of the Company's shares) based on the monetary value of the
-subscription rights attached to the outstanding share options. The number of shares calculated in the basic earnings per share
-is then adjusted to reflect the number of shares deemed to be issued for nil consideration as a result of the potential exercise of
-existing share options. The remaining share options that are currently not dilutive and hence excluded from the dilutive earnings
-per share calculation remain potentially dilutive until they are either exercised or they lapse.
-
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-157
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-158
----
-
-
-## 10. PROPERTY, PLANT AND EQUIPMENT
-
-
-### Group
-
-
-<table>
-<tr>
-<th rowspan="2">2023</th>
-<th>Leasehold improve- ments</th>
-<th rowspan="2">Furniture, fixtures and equipment £'000</th>
-<th rowspan="2">Motor vehicles 000.3</th>
-<th rowspan="2">Total £'000</th>
-</tr>
-<tr>
-<th>000.3</th>
-</tr>
-<tr>
-<td>Cost</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 1 January</td>
-<td>48,501</td>
-<td>48,168</td>
-<td>3,851</td>
-<td>100,520</td>
-</tr>
-<tr>
-<td>Additions</td>
-<td>16,872</td>
-<td>7,352</td>
-<td>3,124</td>
-<td>27,348</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td>(8,324)</td>
-<td>(2,331)</td>
-<td>(737)</td>
-<td>(11,392)</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td>(1,726)</td>
-<td>(1,316)</td>
-<td>(311)</td>
-<td>(3,353)</td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>55,323</td>
-<td>51,873</td>
-<td>5,927</td>
-<td>113,123</td>
-</tr>
-<tr>
-<td>Depreciation</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 1 January</td>
-<td>34,873</td>
-<td>28,520</td>
-<td>1,004</td>
-<td>64,397</td>
-</tr>
-<tr>
-<td>Charge for the year</td>
-<td>4,876</td>
-<td>7,422</td>
-<td>1,177</td>
-<td>13,475</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td>(7,643)</td>
-<td>(2,034)</td>
-<td>(323)</td>
-<td>(10,000)</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td>(1,309)</td>
-<td>(685)</td>
-<td>(207)</td>
-<td>(2,201)</td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>30,797</td>
-<td>33,223</td>
-<td>1,651</td>
-<td>65,671</td>
-</tr>
-<tr>
-<td>Net book value</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>24,526</td>
-<td>18,650</td>
-<td>4,276</td>
-<td>47,452</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th>2022</th>
-<th>Leasehold improve- ments 000.3</th>
-<th>Furniture, fixtures and equipment £'000</th>
-<th>Motor vehicles £'000</th>
-<th>Total £'000</th>
-</tr>
-<tr>
-<td>Cost</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 1 January</td>
-<td>46,802</td>
-<td>44,061</td>
-<td>2,049</td>
-<td>92,912</td>
-</tr>
-<tr>
-<td>Additions</td>
-<td>5,980</td>
-<td>13,387</td>
-<td>2,615</td>
-<td>21,982</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td>(6,694)</td>
-<td>(10,534)</td>
-<td>(823)</td>
-<td>(18,051)</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td>2,413</td>
-<td>1,254</td>
-<td>10</td>
-<td>3,677</td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>48,501</td>
-<td>48,168</td>
-<td>3,851</td>
-<td>100,520</td>
-</tr>
-<tr>
-<td>Depreciation</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 1 January</td>
-<td>34,493</td>
-<td>32,557</td>
-<td>1,026</td>
-<td>68,076</td>
-</tr>
-<tr>
-<td>Charge for the year</td>
-<td>4,592</td>
-<td>6,079</td>
-<td>559</td>
-<td>11,230</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td>(5,990)</td>
-<td>(10,361)</td>
-<td>(600)</td>
-<td>(16,951)</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td>1,778</td>
-<td>245</td>
-<td>19</td>
-<td>2,042</td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>34,873</td>
-<td>28,520</td>
-<td>1,004</td>
-<td>64,397</td>
-</tr>
-<tr>
-<td>Net book value</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>13,628</td>
-<td>19,648</td>
-<td>2,847</td>
-<td>36,123</td>
-</tr>
-</table>
-
-
-## 11. LEASES
-
-
-<table>
-<tr>
-<th rowspan="2">Group</th>
-<th rowspan="2">Property £'000</th>
-<th rowspan="2">Motor Vehicles £'000</th>
-<th>Other assets</th>
-<th rowspan="2">Total £'000</th>
-</tr>
-<tr>
-<th>£'000</th>
+<td>Tangible fixed assets</td>
+<td>10.8</td>
+<td>1.5</td>
+<td>12.3</td>
 </tr>
 <tr>
 <td>Right-of-use assets</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>47.9</td>
+<td>4.8</td>
+<td>52.7</td>
 </tr>
 <tr>
-<td>At 1 January 2022</td>
-<td>86,256</td>
-<td>7,696</td>
-<td>1,004</td>
-<td>94,956</td>
+<td>Other fixed assets</td>
+<td>0.1</td>
+<td>0.5</td>
+<td>0.6</td>
 </tr>
 <tr>
-<td>Additions</td>
-<td>27,979</td>
-<td>9,629</td>
-<td>666</td>
-<td>38,274</td>
+<td>Stocks and work in progress</td>
+<td>55.1</td>
+<td>4.0</td>
+<td>59.1</td>
 </tr>
 <tr>
-<td>Disposals</td>
-<td>(2,034)</td>
-<td>(37)</td>
-<td>–</td>
-<td>(2,071)</td>
+<td>Cash and cash equivalents</td>
+<td>20.2</td>
+<td>5.4</td>
+<td>25.6</td>
 </tr>
 <tr>
-<td>Depreciation expense</td>
-<td>(28,352)</td>
-<td>(6,891)</td>
-<td>(610)</td>
-<td>(35,853)</td>
+<td>Trade receivables (3)</td>
+<td>15.9</td>
+<td>10.0</td>
+<td>25.9</td>
 </tr>
 <tr>
-<td>Effect of movements in foreign exchange</td>
-<td>5,323</td>
-<td>327</td>
-<td>40</td>
-<td>5,690</td>
-</tr>
-<tr>
-<td>At 31 December 2022 and 1 January 2023</td>
-<td>89,172</td>
-<td>10,724</td>
-<td>1,100</td>
-<td>100,996</td>
-</tr>
-<tr>
-<td>Additions</td>
-<td>29,752</td>
-<td>11,463</td>
-<td>96</td>
-<td>41,311</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td>(973)</td>
-<td>–</td>
-<td>–</td>
-<td>(973)</td>
-</tr>
-<tr>
-<td>Depreciation expense</td>
-<td>(31,175)</td>
-<td>(9,690)</td>
-<td>(562)</td>
-<td>(41,427)</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td>(2,823)</td>
-<td>1,302</td>
-<td>–</td>
-<td>(1,521)</td>
-</tr>
-<tr>
-<td>At 31 December 2023</td>
-<td>83,953</td>
-<td>13,799</td>
-<td>634</td>
-<td>98,386</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th rowspan="2">Lease liabilities</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>As at 1 January</td>
-<td>(109,832)</td>
-<td>(102,340)</td>
-</tr>
-<tr>
-<td>Additions</td>
-<td>(40,397)</td>
-<td>(38,274)</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td>58</td>
-<td>2,201</td>
-</tr>
-<tr>
-<td>Interest expense</td>
-<td>(2,543)</td>
-<td>(1,604)</td>
-</tr>
-<tr>
-<td>Payments</td>
-<td>39,995</td>
-<td>36,433</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td>1,786</td>
-<td>(6,248)</td>
-</tr>
-<tr>
-<td>As at 31 December</td>
-<td>(110,933)</td>
-<td>(109,832)</td>
-</tr>
-</table>
-
-
-The following are the undiscounted contractual maturities for lease liabilities:
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>000.3</th>
-</tr>
-<tr>
-<td>Less than a year</td>
-<td>33,983</td>
-<td>33,482</td>
-</tr>
-<tr>
-<td>Between 1 and 2 years</td>
-<td>25,421</td>
-<td>28,524</td>
-</tr>
-<tr>
-<td>Between 2 and 5 years</td>
-<td>39,362</td>
-<td>38,071</td>
-</tr>
-<tr>
-<td>Over 5 years</td>
-<td>19,858</td>
-<td>15,090</td>
-</tr>
-<tr>
-<td></td>
-<td>118,624</td>
-<td>115,167</td>
-</tr>
-</table>
-
-
-There was £nil (2022: £0.3m) of low value and short-term leases expensed directly to the statement of profit or loss. Combined
-with the payments above, a total of £40.0m (2022: £37.8m) in lease payments have been made during the year.
-
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-159
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-160
----
-
-
-## 12. INTANGIBLE ASSETS
-
-
-### Group
-
-
-<table>
-<tr>
-<th colspan="2" rowspan="2">2023</th>
-<th>Computer software</th>
-<th>Computer software, assets under construction</th>
-<th>Subtotal</th>
-<th>Goodwill</th>
-<th>Trademark</th>
-<th>Subtotal</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>000.3</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>000.3</th>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Cost</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">At 1 January</td>
-<td>78,543</td>
-<td>1,153</td>
-<td>79,696</td>
-<td>1,539</td>
-<td>1,691</td>
-<td>3,230</td>
-<td>82,926</td>
-</tr>
-<tr>
-<td colspan="2">Additions</td>
-<td>3,065</td>
-<td>872</td>
-<td>3,937</td>
-<td>-</td>
-<td>96</td>
-<td>96</td>
-<td>4,033</td>
-</tr>
-<tr>
-<td colspan="2">Disposals</td>
-<td>(784)</td>
-<td>-</td>
-<td>(784)</td>
-<td>-</td>
-<td>(54)</td>
-<td>(54)</td>
-<td>(838)</td>
-</tr>
-<tr>
-<td colspan="2">Transfers</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td></td>
-<td>(150)</td>
-<td>-</td>
-<td>(150)</td>
-<td>-</td>
-<td>(34)</td>
-<td>(34)</td>
-<td>(184)</td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td></td>
-<td>80,674</td>
-<td>2,025</td>
-<td>82,699</td>
-<td>1,539</td>
-<td>1,699</td>
-<td>3,238</td>
-<td>85,937</td>
-</tr>
-<tr>
-<td>Amortisation</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 1 January</td>
-<td></td>
-<td>41,651</td>
-<td>-</td>
-<td>41,651</td>
-<td>-</td>
-<td>1,275</td>
-<td>1,275</td>
-<td>42,926</td>
-</tr>
-<tr>
-<td colspan="2">Charge for the year</td>
-<td>11,730</td>
-<td>-</td>
-<td>11,730</td>
-<td>-</td>
-<td>149</td>
-<td>149</td>
-<td>11,879</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td></td>
-<td>(784)</td>
-<td>-</td>
-<td>(784)</td>
-<td>-</td>
-<td>(54)</td>
-<td>(54)</td>
-<td>(838)</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td></td>
-<td>(137)</td>
-<td>-</td>
-<td>(137)</td>
-<td>-</td>
-<td>9</td>
-<td>9</td>
-<td>(128)</td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td></td>
-<td>52,460</td>
-<td>-</td>
-<td>52,460</td>
-<td>-</td>
-<td>1,379</td>
-<td>1,379</td>
-<td>53,839</td>
-</tr>
-<tr>
-<td colspan="2">Net book value</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>At 31 December</td>
-<td>28,214</td>
-<td>2,025</td>
-<td>30,239</td>
-<td>1,539</td>
-<td>320</td>
-<td>1,859</td>
-<td>32,098</td>
-</tr>
-</table>
-
-
-The Group has one individually material intangible asset (Customer Connect) which is the Group's CRM platform. The net book
-value at 31 December 2023 is £23.3m (2022: £29.7m). The useful economic life is seven years in line with the expected life of the
-asset.
-
-
-<table>
-<tr>
-<th>2022</th>
-<th>Computer software 000.3</th>
-<th>Computer software, assets under construction 000.3</th>
-<th>Subtotal 000.3</th>
-<th>Goodwill £'000</th>
-<th>Trademark 000.3</th>
-<th>Subtotal 000.3</th>
-<th>Total £000</th>
-</tr>
-<tr>
-<td>Cost</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 1 January</td>
-<td>72,769</td>
-<td>5,286</td>
-<td>78,055</td>
-<td>1,539</td>
-<td>1,611</td>
-<td>3,150</td>
-<td>81,205</td>
-</tr>
-<tr>
-<td>Additions</td>
-<td>9,601</td>
-<td>–</td>
-<td>9,601</td>
-<td>–</td>
-<td>92</td>
-<td>92</td>
-<td>9,693</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td>(8,391)</td>
-<td>–</td>
-<td>(8,391)</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>(8,391)</td>
-</tr>
-<tr>
-<td>Transfer</td>
-<td>4,130</td>
-<td>(4,130)</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td>434</td>
-<td>(3)</td>
-<td>431</td>
-<td>–</td>
-<td>(12)</td>
-<td>(12)</td>
-<td>419</td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>78,543</td>
-<td>1,153</td>
-<td>79,696</td>
-<td>1,539</td>
-<td>1,691</td>
-<td>3,230</td>
-<td>82,926</td>
-</tr>
-<tr>
-<td>Amortisation</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 1 January</td>
-<td>30,955</td>
-<td>–</td>
-<td>30,955</td>
-<td>–</td>
-<td>1,085</td>
-<td>1,085</td>
-<td>32,040</td>
-</tr>
-<tr>
-<td>Charge for the year</td>
-<td>13,319</td>
-<td>–</td>
-<td>13,319</td>
-<td>–</td>
-<td>190</td>
-<td>190</td>
-<td>13,509</td>
-</tr>
-<tr>
-<td>Disposals</td>
-<td>(3,060)</td>
-<td>–</td>
-<td>(3,060)</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>(3,060)</td>
-</tr>
-<tr>
-<td>Effect of movements in foreign exchange</td>
-<td>437</td>
-<td>–</td>
-<td>437</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>437</td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>41,651</td>
-<td>–</td>
-<td>41,651</td>
-<td>–</td>
-<td>1,275</td>
-<td>1,275</td>
-<td>42,926</td>
-</tr>
-<tr>
-<td>Net book value</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 31 December</td>
-<td>36,892</td>
-<td>1,153</td>
-<td>38,045</td>
-<td>1,539</td>
-<td>416</td>
-<td>1,955</td>
-<td>40,000</td>
-</tr>
-</table>
-
-
-# IMPAIRMENT TESTS FOR GOODWILL
-
-Goodwill is allocated to the Group's cash-generating units (CGUs) identified according to the country of operation. A summary of
-the goodwill allocation is presented below:
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>UK</td>
-<td>1,274</td>
-<td>1,274</td>
-</tr>
-<tr>
-<td>USA</td>
-<td>214</td>
-<td>214</td>
-</tr>
-<tr>
-<td>Singapore</td>
-<td>51</td>
-<td>51</td>
-</tr>
-<tr>
-<td></td>
-<td>1,539</td>
-<td>1,539</td>
-</tr>
-</table>
-
-
-In assessing value in use, the estimated future cash flows are calculated by preparing cash flow forecasts derived from the
-most recent financial budget, management projections for five years, followed by an assumed growth rate of 0% (2022: 0%),
-which does not exceed the long-term average growth rate of the relevant markets and reflects long-term wage inflation fee
-growth. Management applied a discount rate of 8% (2022: 8%), representing the weighted average cost of capital for the Group,
-to the estimated future cash flows to calculate the terminal value of those cash flows. If the recoverable amount of an asset
-is estimated to be less than its carrying amount, the carrying amount of the asset is reduced to its recoverable amount. An
-impairment loss is recognised as an expense. Management believes that no reasonably possible change in any of the above key
-assumptions would cause the carrying value of goodwill allocated to any CGU to materially exceed its recoverable amount.
-
-The Group tests goodwill annually for impairment, or more frequently if there are indications that goodwill might be impaired. It is
-the opinion of the Directors that at 31 December 2023 there was no impairment of goodwill.
-
-
-# 13. INVESTMENTS
-
-
-<table>
-<tr>
-<th>Company</th>
-<th>Subsidiary undertakings 000.3</th>
-</tr>
-<tr>
-<td>Cost at 1 January 2023</td>
-<td>547,837</td>
-</tr>
-<tr>
-<td>Transactions relating to share plans for subsidiaries' employees</td>
-<td>5,439</td>
-</tr>
-<tr>
-<td>Cost at 31 December 2023</td>
-<td>553,276</td>
-</tr>
-</table>
-
-
-The Company's subsidiary undertakings at 31 December 2023, their principal activities and countries of incorporation are set out
-below:
-
-
-<table>
-<tr>
-<th>Name of undertaking</th>
-<th>Country of incorporation</th>
-<th>Principal activity</th>
-<th>Registered office</th>
-</tr>
-<tr>
-<td>Michael Page International Argentina SA</td>
-<td>Argentina</td>
-<td>Recruitment Consultancy</td>
-<td>Cordoba 883, Piso 9, Ciudad de Buenos Aires, C1054AAH, Argentina</td>
-</tr>
-<tr>
-<td>Page Personnel Argentina Servicios Eventuales SA</td>
-<td>Argentina</td>
-<td>Recruitment Consultancy</td>
-<td>Cordoba 883, Piso 9, Ciudad de Buenos Aires, C1054AAH, Argentina</td>
-</tr>
-<tr>
-<td>Michael Page International (Australia) Pty Limited</td>
-<td>Australia</td>
-<td>Recruitment Consultancy</td>
-<td>Level 21, 9 Castlereagh Street, Sydney, NSW 2000, Australia</td>
-</tr>
-<tr>
-<td>Michael Page International Austria GmbH</td>
-<td>Austria</td>
-<td>Recruitment Consultancy</td>
-<td>Wien Canettistraße 5, Wien, 1100, Austria</td>
-</tr>
-<tr>
-<td>Michael Page International (Belgium) NV/SA</td>
-<td>Belgium</td>
-<td>Recruitment Consultancy</td>
-<td>Place du Champ de Mars 5, 1050 Brussels, Belgium</td>
-</tr>
-<tr>
-<td>Page Interim (Belgium) NV/SA</td>
-<td>Belgium</td>
-<td>Recruitment Consultancy</td>
-<td>Place du Champ de Mars 5, 1050 Brussels, Belgium</td>
-</tr>
-<tr>
-<td>Michael Page International Do Brasil - Recrutamento Especializado Ltda</td>
-<td>Brazil</td>
-<td>Recruitment Consultancy</td>
-<td>Rua Olimpíadas nº 205, sala: 111, 112, 113 e 114 - 11º andar, Vila Olímpia, São Paulo, 04551-000 - SP, Brasil</td>
-</tr>
-<tr>
-<td>Page Interim Do Brasil - Recrutamento Especializado Ltda</td>
-<td>Brazil</td>
-<td>Recruitment Consultancy</td>
-<td>Rua Olimpíadas nº 205, sala: 111, 112, 113 e 114 - 11º andar, Vila Olímpia, São Paulo, 04551-000 - SP, Brasil</td>
-</tr>
-<tr>
-<td>Page Personnel do Brasil - Recrutamento Especializado e servicos corporativos Ltda</td>
-<td>Brazil</td>
-<td>Recruitment Consultancy</td>
-<td>Rua Olimpíadas nº 205, sala: 111, 112, 113 e 114 - 11º andar, Vila Olímpia, São Paulo, 04551-000 - SP, Brasil</td>
-</tr>
-</table>
-
-
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-PageGroup Annual Report and Accounts 2023 162
-PageGroup Annual Report and Accounts 2023
-161
----
-
-
-<table>
-<tr>
-<th>Name of undertaking</th>
-<th>Country of incorporation</th>
-<th>Principal activity</th>
-<th>Registered office</th>
-</tr>
-<tr>
-<td>Michael Page International Canada Limited</td>
-<td>Canada</td>
-<td>Recruitment Consultancy</td>
-<td>Suite 515, Bay Adelaide Centre, 333 Bay St., Toronto, ON, M5H 2R2, Canada</td>
-</tr>
-<tr>
-<td>Michael Page International Chile Ltda</td>
-<td>Chile</td>
-<td>Recruitment Consultancy</td>
-<td>Magdelana 181, Piso 1, Depto. 1601, Las Condes, Santiago 7550055, Chile</td>
-</tr>
-<tr>
-<td>Page Personnel International Chile Ltda</td>
-<td>Chile</td>
-<td>Recruitment Consultancy</td>
-<td>Magdelana 181, Piso 1, Depto 1601, Las Condes, Santiago 7550055, Chile</td>
-</tr>
-<tr>
-<td>Page Consulting Chile Ltda</td>
-<td>Chile</td>
-<td>Recruitment Consultancy</td>
-<td>Av. El Bosque Norte 0177, Office 602, Santiago, 755-0100, Chile</td>
-</tr>
-<tr>
-<td>Empresa de Servicios Transitorios Page Interim Chile Limitada</td>
-<td>Chile</td>
-<td>Recruitment Consultancy</td>
-<td>Magdelana181, Piso 1, Depto 1601, Las Condes, Santiago 7550055, Chile</td>
-</tr>
-<tr>
-<td>Michael Page (Beijing) Recruitment Co., Ltd</td>
-<td>China</td>
-<td>Recruitment Consultancy</td>
-<td>Room 1009 1012, 10/F, West Tower, World Financial Centre, No.1 East 3rd Ring Middle Road, Chaoyang District, Beijing, China 100020</td>
-</tr>
-<tr>
-<td>Michael Page (Shanghai) Recruitment Co., Ltd</td>
-<td>China</td>
-<td>Recruitment Consultancy</td>
-<td>Level 18, HKRI Taikoo Hui Tower2, 288 Shimen Yi Road, JingAn District, Shanghai 200041, China</td>
-</tr>
-<tr>
-<td>Page Contracting (Shanghai) Co. Ltd</td>
-<td>China</td>
-<td>Recruitment Consultancy</td>
-<td>Room 1812 1801-1811, /18, HKRI Taikoo Hui, No.288 Shimen Yi Road, Jing'An, Shanghai, 200041, China</td>
-</tr>
-<tr>
-<td>Michael Page International Colombia SAS</td>
-<td>Colombia</td>
-<td>Recruitment Consultancy</td>
-<td>Calle 81 # 11 - 08 Piso 11, Bogotá, D.C., Colombia</td>
-</tr>
-<tr>
-<td>Page Interim Colombia SAS</td>
-<td>Colombia</td>
-<td>Non-trading</td>
-<td>Calle 81 # 11 - 08 Piso 11, Bogotá, D.C., Colombia</td>
-</tr>
-<tr>
-<td>Michael Page Czech Republic s.r.o</td>
-<td>Czech Republic</td>
-<td>Recruitment Consultancy</td>
-<td>Pobřežní 249/46, Karlín, Praha 8, 186 00, Czech Republic</td>
-</tr>
-<tr>
-<td>Michael Page Partnership Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page Employment Services Limited</td>
-<td>England and Wales</td>
-<td>Recruitment Consultancy</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>LPM (Professional Recruitment) Limited</td>
-<td>England and Wales</td>
-<td>Holding company</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Accountancy Additions Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Slamway Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Assessment Centre Limited (The)</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>LPM (Group Services) Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Page Partnership Limited (The)</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Sales Recruitment Specialists Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th>Name of undertaking</th>
-<th>Country of incorporation</th>
-<th>Principal activity</th>
-<th>Registered office</th>
-</tr>
-<tr>
-<td>Michael Page International Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page International 1982 Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page International Investment Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page International Finance Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Page Personnel (UK) Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page Holdings Limited</td>
-<td>England and Wales</td>
-<td>Support services</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page International Holdings Limited</td>
-<td>England and Wales</td>
-<td>Holding company</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page International Recruitment Limited*</td>
-<td>England and Wales</td>
-<td>Recruitment Consultancy</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page International Southern Europe Limited*</td>
-<td>England and Wales</td>
-<td>Holding company</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page UK Limited</td>
-<td>England and Wales</td>
-<td>Non-trading</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page Recruitment Group Limited</td>
-<td>England and Wales</td>
-<td>Holding company</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Page Outsourcing UK Limited</td>
-<td>England and Wales</td>
-<td>Recruitment Consultancy</td>
-<td>200 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey KT15 2NX, UK</td>
-</tr>
-<tr>
-<td>Michael Page International France SAS</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur- Seine, Paris, France</td>
-</tr>
-<tr>
-<td>MP Financial Services France SAS</td>
-<td>France</td>
-<td>Support services</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur- Seine, Paris, France</td>
-</tr>
-<tr>
-<td>Page Personnel SAS</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur- Seine, Paris, France</td>
-</tr>
-<tr>
-<td>Michael Page Business Services SARL</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur- Seine, Paris, France</td>
-</tr>
-<tr>
-<td>Michael Page Ingénieurs et Informatique SARL</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur- Seine, Paris, France</td>
-</tr>
-<tr>
-<td>Michael Page Tertiaire SARL</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur- Seine, Paris, France</td>
-</tr>
-<tr>
-<td>Michael Page Nord SARL</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>14 place du Général de Gaulle - 59000 LILLE</td>
-</tr>
-<tr>
-<td>Michael Page Sud SARL</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>9 Rue des Cuirassiers, 69003 LYON, France</td>
-</tr>
-</table>
-
-
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-163
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-164
----
-
-
-<table>
-<tr>
-<th>Name of undertaking</th>
-<th>Country of incorporation</th>
-<th>Principal activity</th>
-<th>Registered office</th>
-</tr>
-<tr>
-<td>MP Advertising SAS</td>
-<td>France</td>
-<td>Support Services</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur-Seine, Paris, France</td>
-</tr>
-<tr>
-<td>Page Consulting SARL</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur-Seine, Paris, France</td>
-</tr>
-<tr>
-<td>MP EDP SARL</td>
-<td>France</td>
-<td>Support Services</td>
-<td>164 Avenue Achille Peretti, 92522 Neuilly-sur-Seine, Paris, France</td>
-</tr>
-<tr>
-<td>Michael Page International Monaco SARL</td>
-<td>France</td>
-<td>Recruitment Consultancy</td>
-<td>7 Rue de l'Industrie, 98000 Monaco</td>
-</tr>
-<tr>
-<td>Michael Page International (Deutschland) GmbH</td>
-<td>Germany</td>
-<td>Recruitment Consultancy</td>
-<td>Hans-Böckler-Straße 33, 40476 Düsseldorf, Germany</td>
-</tr>
-<tr>
-<td>Page Personnel Services GmbH</td>
-<td>Germany</td>
-<td>Recruitment Consultancy</td>
-<td>Hans-Böckler-Straße 33, 40476 Düsseldorf, Germany</td>
-</tr>
-<tr>
-<td>Page Personnel (Deutschland) GmbH</td>
-<td>Germany</td>
-<td>Recruitment Consultancy</td>
-<td>Hans-Böckler-Straße 33, 40476 Düsseldorf, Germany</td>
-</tr>
-<tr>
-<td>Page Contracting GmbH</td>
-<td>Germany</td>
-<td>Recruitment Consultancy</td>
-<td>Hans-Böckler-Straße 33, 40476 Düsseldorf, Germany</td>
-</tr>
-<tr>
-<td>Michael Page International (Hong Kong) Limited</td>
-<td>Hong Kong</td>
-<td>Recruitment Consultancy</td>
-<td>Suite 1701, 17F Central Tower, 28 Queen's Road Central, Central Hong Kong</td>
-</tr>
-<tr>
-<td>Michael Page International Recruitment Pvt Ltd</td>
-<td>India</td>
-<td>Recruitment Consultancy</td>
-<td>5th Floor, 2 North Avenue, Maker Maxity, Bandra-Kurla Complex, Bandra (E), Mumbai 400051, India</td>
-</tr>
-<tr>
-<td>PT Michael Page Internasional Indonesia</td>
-<td>Indonesia</td>
-<td>Recruitment Consultancy</td>
-<td>One Pacific Place, Suites B-F, Level 12, Sudirman Central Business District, Jl. Jend. Sudirman Kav 52-53, Jakarta 12190, Indonesia</td>
-</tr>
-<tr>
-<td>Michael Page International (Ireland) Limited</td>
-<td>Ireland</td>
-<td>Recruitment Consultancy</td>
-<td>6th Floor, Southbank House, Barrow Street, Dublin 4, Ireland</td>
-</tr>
-<tr>
-<td>Michael Page International Italia Srl</td>
-<td>Italy</td>
-<td>Recruitment Consultancy</td>
-<td>Galleria Passarella, 2, Milan, 20122, Italy</td>
-</tr>
-<tr>
-<td>Page Personnel Italia SpA</td>
-<td>Italy</td>
-<td>Recruitment Consultancy</td>
-<td>Galleria Passarella, 2, Milan, 20122, Italy</td>
-</tr>
-<tr>
-<td>Michael Page International (Japan) K.K.</td>
-<td>Japan</td>
-<td>Recruitment Consultancy</td>
-<td>6F Hulic Kamiyacho Building, 4-3-13 Toranomon, Minato- ku, Tokyo 105-0001, Japan</td>
-</tr>
-<tr>
-<td>Michael Page Limited</td>
-<td>Kingdom of Saudi Arabia</td>
-<td>Recruitment Consultancy</td>
-<td>8210 Khalid bin Al-Walid St - Al-Rawda neighborhood, Riyadh 13211 - 4844, Kingdom of Saudi Arabia</td>
-</tr>
-<tr>
-<td>Agensi Pekerjaan Michael Page International (Malaysia) SDN BHD</td>
-<td>Malaysia</td>
-<td>Recruitment Consultancy</td>
-<td>Level 27, Integra Tower, The intermark, 348 Jalan Tun Razak, Kuala Lumpur, 50400, Malaysia</td>
-</tr>
-<tr>
-<td>Page Contracting (Malaysia) Sdn Bhd</td>
-<td>Malaysia</td>
-<td>Contracting/Temporary placements</td>
-<td>Suite Teal PV, 16F The Pavillion Tower, Jalan Raja Chulan, Kuala Lumpur, Malaysia</td>
-</tr>
-<tr>
-<td>Michael Page (Mauritius) Limited</td>
-<td>Mauritius</td>
-<td>Recruitment Consultancy</td>
-<td>5th Floor Atchia Building, Cnr of Suffren and Eugene Laurent Streets, Port Louis, Republic of Mauritius</td>
-</tr>
-<tr>
-<td>Michael Page International (Mauritius) Limited</td>
-<td>Mauritius</td>
-<td>Recruitment Consultancy</td>
-<td>5th Floor Atchia Building, Cnr of Suffren and Eugene Laurent Streets, Port Louis, Republic of Mauritius</td>
-</tr>
-<tr>
-<td>Michael Page International Mexico Reclutamiento Especializado, S.A. de C.V.</td>
-<td>Mexico</td>
-<td>Recruitment Consultancy</td>
-<td>Newton 293, Piso 3, Col. Polanco , Vseccion, Del. Miguel Hidalgo, Z.C., CDMX, 11570, Mexico</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th>Name of undertaking</th>
-<th>Country of incorporation</th>
-<th>Principal activity</th>
-<th>Registered office</th>
-</tr>
-<tr>
-<td>Michael Page International Mexico Servicios Corporativos SA de CV</td>
-<td>Mexico</td>
-<td>Recruitment Consultancy</td>
-<td>Newton 293, Piso 3, Col. Polanco, Vseccion, Del. Miguel Hidalgo, Z.C., CDMX, 11570, Mexico</td>
-</tr>
-<tr>
-<td>Page Interim Mexico Servicios SA de CV</td>
-<td>Mexico</td>
-<td>Recruitment Consultancy</td>
-<td>Newton 293, Piso 3, Col. Polanco, Vseccion, Del. Miguel Hidalgo, Z.C., CDMX, 11570, Mexico</td>
-</tr>
-<tr>
-<td>Page México Operaciones PG S.A. DE C.V.</td>
-<td>Mexico</td>
-<td>Recruitment Consultancy</td>
-<td>Newton 293, Piso 3, Col. Polanco, Vseccion, Del. Miguel Hidalgo, Z.C., CDMX, 11570, Mexico</td>
-</tr>
-<tr>
-<td>Page Consulting México S.A. DE C.V.</td>
-<td>Mexico</td>
-<td>Recruitment Consultancy</td>
-<td>Newton 293, Piso 3, Col. Polanco , Vseccion, Del. Miguel Hidalgo, Z.C., CDMX, 11570, Mexico</td>
-</tr>
-<tr>
-<td>Page Resourcing Process S.A. DE C.V.</td>
-<td>Mexico</td>
-<td>Recruitment Consultancy</td>
-<td>Newton 293, Piso 3, Col. Polanco, Vseccion, Del. Miguel Hidalgo, Z.C., CDMX, 11570, Mexico</td>
-</tr>
-<tr>
-<td>Page Internacional ADM S.A. DE C.V.</td>
-<td>Mexico</td>
-<td>Recruitment Consultancy</td>
-<td>Newton 293, Piso 3, Col. Polanco, Vseccion, Del. Miguel Hidalgo, Z.C., CDMX, 11570, Mexico</td>
-</tr>
-<tr>
-<td>Michael Page International Maroc SARL AU</td>
-<td>Morocco</td>
-<td>Recruitment Consultancy</td>
-<td>93 - 93A Capital Tower B76, Angle Abdelkrim Bencherif et Main Street, Casablanca, Morocco</td>
-</tr>
-<tr>
-<td>Michael Page International (Nederland) B.V.</td>
-<td>Netherlands</td>
-<td>Recruitment Consultancy</td>
-<td>Strawinskylaan 421, 107XX, Amsterdam, Netherlands</td>
-</tr>
-<tr>
-<td>Page Interim B.V.</td>
-<td>Netherlands</td>
-<td>Recruitment Consultancy</td>
-<td>Strawinskylaan 421, 107XX, Amsterdam, Netherlands</td>
-</tr>
-<tr>
-<td>Michael Page International Panama</td>
-<td>S.A.Panama</td>
-<td>Recruitment Consultancy</td>
-<td>Punta Pacifica, Blvrd Pacifica Oceania Business Plaza, Torre 2000, Piso 43, Panama</td>
-</tr>
-<tr>
-<td>Michael Page International Peru S.R.L</td>
-<td>Peru</td>
-<td>Recruitment Consultancy</td>
-<td>Calle Las Orquídeas 675 esq. Andrés Reyes - Piso 5, Oficina 501, San Isidro 15046, Peru</td>
-</tr>
-<tr>
-<td>Page Personnel Servicios Temporales Peru S.R.L</td>
-<td>Peru</td>
-<td>Recruitment Consultancy</td>
-<td>Calle Las Orquídeas 675 esq. Andrés Reyes - Piso 5, Oficina 501, San Isidro 15046, Peru</td>
-</tr>
-<tr>
-<td>Michael Page International Recruitment (Philippines) Inc.</td>
-<td>Philippines</td>
-<td>Recruitment Consultancy</td>
-<td>21/F Units 4-5 Zuellig Building, Makarti Avenue, Cnr Paseo de Roxas and Sta Potencia Street, Makarti City, Metro Manila, Philippines</td>
-</tr>
-<tr>
-<td>PageGroup Corporate Services (Philippines) Inc.</td>
-<td>Philippines</td>
-<td>Support services</td>
-<td>24th Floor, Philam Life Tower, 8767 Paseo De Roxas Avenue, Bel-Air, Makati City 1226, Philippines</td>
-</tr>
-<tr>
-<td>Michael Page International (Poland) Sp.z.o.o</td>
-<td>Poland</td>
-<td>Recruitment Consultancy</td>
-<td>Chmielna 69, Warsaw, Poland</td>
-</tr>
-<tr>
-<td>Michael Page International Portugal - Empressa de Trabalho Temporario e Servicos de Consultadoria Lda</td>
-<td>Portugal</td>
-<td>Recruitment Consultancy</td>
-<td>Av. Liberdade nº 180 A, 3º andar, Lisboa, 1250-146, Portugal</td>
-</tr>
-<tr>
-<td>MICPAGE Services Lda</td>
-<td>Portugal</td>
-<td>Recruitment Consultancy</td>
-<td>Av. Liberdade nº 180 A, 3º andar, Lisboa, 1250-146, Portugal</td>
-</tr>
-<tr>
-<td>PageGroup International Recruitment S.R.L.</td>
-<td>Romania</td>
-<td>Recruitment Consultancy</td>
-<td>169A Calea Floreasca, Building A, Floor 4, Office 2007, Register 02, Sector 1, Bucharest, Romania</td>
-</tr>
-<tr>
-<td>Michael Page International Pte Limited*</td>
-<td>Singapore</td>
-<td>Recruitment Consultancy</td>
-<td>One Raffles Place, #09-61 Office Tower Two, Singapore 048616</td>
-</tr>
-<tr>
-<td>Page Personnel Recruitment Pte Ltd</td>
-<td>Singapore</td>
-<td>Recruitment Consultancy</td>
-<td>One Raffles Place, #09-61 Office Tower Two, Singapore 048616</td>
-</tr>
-<tr>
-<td>Michael Page International (SA) (Pty) Limited</td>
-<td>South Africa</td>
-<td>Recruitment Consultancy</td>
-<td>2 Maude Street, The Forum, 5th Floor, Sandton City, Johannesburg, 2196, South Africa</td>
-</tr>
-</table>
-
-
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-PageGroup Annual Report and Accounts 2023 166
-PageGroup Annual Report and Accounts 2023
-165
----
-
-
-<table>
-<tr>
-<th>Name of undertaking</th>
-<th>Country of incorporation</th>
-<th>Principal activity</th>
-<th>Registered office</th>
-</tr>
-<tr>
-<td>Michael Page Holding España SL</td>
-<td>Spain</td>
-<td>Holding company</td>
-<td>Paseo De La Castellana 130, 8º Planta, Madrid, 28046, Spain</td>
-</tr>
-<tr>
-<td>PageGroup Technology Services SL</td>
-<td>Spain</td>
-<td>IT consultancy services</td>
-<td>Paseo De La Castellana 130, 8º Planta, Madrid, 28046, Spain</td>
-</tr>
-<tr>
-<td>Page Group Europe SL</td>
-<td>Spain</td>
-<td>Support Services</td>
-<td>Plaza Europa 21-23 P. 5, 08908 L'Hospitalet de Llobregat, 08908, Spain</td>
-</tr>
-<tr>
-<td>Page Group Spain Recursos Humanos ETT SA</td>
-<td>Spain</td>
-<td>Recruitment Consultancy</td>
-<td>Paseo De La Castellana 130, 8º Planta, Madrid, 28046, Spain</td>
-</tr>
-<tr>
-<td>Michael Page International (Sweden) AB</td>
-<td>Sweden</td>
-<td>Recruitment Consultancy</td>
-<td>Mäster Samuelsgatan 42, Stockholm 111 57, Sweden</td>
-</tr>
-<tr>
-<td>Michael Page International Switzerland SA</td>
-<td>Switzerland</td>
-<td>Recruitment Consultancy</td>
-<td>12, Quai de la Poste, Geneva, 1204, Switzerland</td>
-</tr>
-<tr>
-<td>Michael Page International Company Limited</td>
-<td>Taiwan</td>
-<td>Recruitment Consultancy</td>
-<td>8F-1 Shin Kong Xin Yi Financial Building, 36-1 Songren Road Xin-Yi District, Taipei City, Taiwan 110</td>
-</tr>
-<tr>
-<td>Michael Page Limited</td>
-<td>Thailand</td>
-<td>Holding company</td>
-<td>689 Bhiraji Tower at EmQuartier, 41st Floor, Unit 4108-4109, Sukhumvit Road, North Klongtong, Vadhana, Bangkok, 10110, Thailand</td>
-</tr>
-<tr>
-<td>Michael Page International Recruitment (Thailand) Limited</td>
-<td>Thailand</td>
-<td>Recruitment Consultancy</td>
-<td>689 Bhiraji Tower at EmQuartier, 41st Floor, Unit 4108-4109, Sukhumvit Road, North Klongtong, Vadhana, Bangkok, 10110, Thailand</td>
-</tr>
-<tr>
-<td>Michael Page International Nem Istihdam Danışmanlığı Limited Şirketi</td>
-<td>Turkey</td>
-<td>Recruitment Consultancy</td>
-<td>Büyükdere Cad. Kanyon Ofis Binası No: 185 K: 21 Levent, Istanbul, 34394, Turkey</td>
-</tr>
-<tr>
-<td>Michael Page International (UAE) Limited</td>
-<td>United Arab Emirates</td>
-<td>Recruitment Consultancy</td>
-<td>202 &amp; 204, Level 2, Currency House - Building 1, Dubai International Financial Centre, Dubai, 506702, United Arab Emirates</td>
-</tr>
-<tr>
-<td>Michael Page International (UAE) Limited - QFC Branch</td>
-<td>United Arab Emirates</td>
-<td>Recruitment Consultancy</td>
-<td>Morison Menon Chartered Accountants &amp; Partners LLC, Office No. 4, 4th floor, Shoumoukh Towers, Tower A, Al Sadd, Doha, Qatar</td>
-</tr>
-<tr>
-<td>Michael Page International Inc .*</td>
-<td>United States</td>
-<td>Recruitment Consultancy</td>
-<td>622 Third Avenue, 29th Floor, New York, NY10017, USA</td>
-</tr>
-<tr>
-<td>Page Outsourcing Inc.</td>
-<td>United States</td>
-<td>Recruitment Consultancy</td>
-<td>251 Little Falls Drive, Wilmington, New Castle County, Delaware 19801, USA</td>
-</tr>
-<tr>
-<td>Michael Page International (Vietnam) Co. Limited</td>
-<td>Vietnam</td>
-<td>Recruitment Consultancy</td>
-<td>Level 9, Saigon Centre, Tower 2, 67 Le Loi Street, Ben Nhge Ward, District 1, Ho Chi Minh City, Vietnam</td>
-</tr>
-</table>
-
-
-*The equity of these subsidiary undertakings is held directly by PageGroup plc. All companies have been included in the
-consolidation and operate principally in their country of incorporation.
-
-The percentage of the issued share capital held is equivalent to the percentage of voting rights held. The Group holds 100% of all
-classes of issued share capital. The share capital of all the subsidiary undertakings comprise ordinary shares.
-
-The following subsidiaries are exempt from the requirements of the Companies Act 2006 relating to the audit of accounts under
-section 479A of the Act:
-
-. Michael Page International Southern Europe Limited
-
-. Michael Page International Holdings Limited
-
-· LPM (Professional Recruitment) Limited
-
-. Michael Page Partnership Limited
-
-
-<table>
-<tr>
-<th colspan="5">14. TRADE AND OTHER RECEIVABLES</th>
-</tr>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Group</th>
-<th colspan="2">Company</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Current</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Trade receivables</td>
-<td>281,652</td>
-<td>320,794</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Less allowance for expected credit losses</td>
-<td>(11,144)</td>
-<td>(12,960)</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Net trade receivables</td>
-<td>270,508</td>
-<td>307,834</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Other receivables</td>
-<td>10,187</td>
-<td>21,535</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Accrued Income (net of revenue reversals)</td>
-<td>83,426</td>
-<td>88,951</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Prepayments</td>
-<td>16,122</td>
-<td>18,927</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td></td>
-<td>380,243</td>
-<td>437,247</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Non-current</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Amounts due from Group companies</td>
-<td>–</td>
-<td>–</td>
-<td>1,157,419</td>
-<td>1,081,498</td>
-</tr>
-<tr>
-<td>Other receivables</td>
-<td>13,017</td>
-<td>13,224</td>
-<td>-</td>
-<td>–</td>
-</tr>
-<tr>
-<td></td>
-<td>13,017</td>
-<td>13,224</td>
-<td>1,157,419</td>
-<td>1,081,498</td>
-</tr>
-</table>
-
-
-The fair values of trade and other receivables are not materially different to those disclosed above.
-
-The Group's exposure to credit and currency risks and impairment losses related to trade and other receivables is disclosed in
-Note 22. The entire accrued income balance of £83.4m (2022: £89.0m) is not past due. A provision of £3.6m (2022: £4.7m) has
-been provided for at year end for potential future revenue reversals.
-
-All amounts due from Group undertakings are unsecured, interest-free and repayable on demand. Settlement of non-current
-amounts of £1.2m due to the Parent Company from Group companies is not expected within one year.
-
-
-## 15. TRADE AND OTHER PAYABLES
-
-
-<table>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Group</th>
-<th colspan="2">Company</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Current</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Trade payables</td>
-<td>8,383</td>
-<td>11,101</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Amounts owed to Group companies</td>
-<td>–</td>
-<td>–</td>
-<td>1,392,889</td>
-<td>1,314,866</td>
-</tr>
-<tr>
-<td>Other tax and social security</td>
-<td>61,557</td>
-<td>61,079</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Other payables</td>
-<td>33,595</td>
-<td>36,629</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Accruals</td>
-<td>156,321</td>
-<td>180,299</td>
-<td>139</td>
-<td>140</td>
-</tr>
-<tr>
-<td></td>
-<td>259,856</td>
-<td>289,108</td>
-<td>1,393,028</td>
-<td>1,315,006</td>
-</tr>
-<tr>
-<td>Non-current</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Other tax and social security</td>
-<td>1,045</td>
-<td>422</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Accruals</td>
-<td>9,111</td>
-<td>14,529</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td></td>
-<td>10,156</td>
-<td>14,951</td>
-<td>–</td>
-<td>–</td>
-</tr>
-</table>
-
-
-The fair values of trade and other payables are not materially different to those disclosed above.
-
-All amounts due to Group undertakings are unsecured, interest-free and repayable on demand. The Group's exposure to
-currency and liquidity risk related to trade and other payables is disclosed in Note 22.
-
-The Group has an unfunded retirement indemnity plan relating to a pension scheme in France. At 31 December 2023, the
-Group's commitment was £2.3m (2022: £0.6m) with the movement due to changes in actuarial assumptions recognised in other
-comprehensive income. There are some further statutory schemes in other territories not recognised in the financial statements,
-which are immaterial individually and in aggregate.
-
-167 PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-168
-ADDITIONAL INFORMATION
-FINANCIAL STATEMENTS
-CORPORATE GOVERNANCE
-STRATEGIC REPORT
----
-
-
-# 16. PROVISIONS
-
-
-<table>
-<tr>
-<th></th>
-<th>Dilapidations</th>
-<th>NI on Share Schemes</th>
-<th>Other</th>
-<th>Total</th>
-</tr>
-<tr>
-<td>At 1 January 2022</td>
-<td>6,967</td>
-<td>2,343</td>
-<td>1,395</td>
-<td>10,705</td>
-</tr>
-<tr>
-<td>Foreign exchange</td>
-<td>724</td>
-<td>83</td>
-<td>25</td>
-<td>832</td>
-</tr>
-<tr>
-<td>Provided</td>
-<td>1,302</td>
-<td>(499)</td>
-<td>1,467</td>
-<td>2,270</td>
-</tr>
-<tr>
-<td>Utilised</td>
-<td>(262)</td>
-<td>(1,083)</td>
-<td>(247)</td>
-<td>(1,592)</td>
-</tr>
-<tr>
-<td>Released</td>
-<td>(1,603)</td>
-<td>-</td>
-<td>(1,157)</td>
-<td>(2,760)</td>
-</tr>
-<tr>
-<td>At 31 December 2022 and 1 January 2023</td>
-<td>7,128</td>
-<td>844</td>
-<td>1,483</td>
-<td>9,455</td>
-</tr>
-<tr>
-<td>Foreign exchange</td>
-<td>(1,019)</td>
-<td>-</td>
-<td>(133)</td>
-<td>(1,152)</td>
-</tr>
-<tr>
-<td>Provided</td>
-<td>1,351</td>
-<td>736</td>
-<td>617</td>
-<td>2,704</td>
-</tr>
-<tr>
-<td>Utilised</td>
-<td>(310)</td>
-<td>(347)</td>
-<td>1,013</td>
-<td>356</td>
-</tr>
-<tr>
-<td>Released</td>
-<td>(622)</td>
-<td>-</td>
-<td>(1,900)</td>
-<td>(2,522)</td>
-</tr>
-<tr>
-<td>At 31 December 2023</td>
-<td>6,528</td>
-<td>1,233</td>
-<td>1,080</td>
-<td>8,841</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<th></th>
-<th>2023 (£'000)</th>
-<th>2022 (£'000)</th>
-</tr>
-<tr>
-<td>Current</td>
-<td>4,298</td>
-<td>2,772</td>
-</tr>
-<tr>
-<td>Non-current</td>
-<td>4,543</td>
-<td>6,683</td>
-</tr>
-<tr>
-<td>Total provisions</td>
-<td>8,841</td>
-<td>9,455</td>
-</tr>
-</table>
-
-
-## Dilapidation
-
-A provision has been recognised for dilapidation costs associated with our office portfolio, where the Group is committed to make good on
-the property sites on lease termination.
-
-
-## Social security contributions on share options
-
-The provision for social security contributions on share options is calculated based on the number of options outstanding at the reporting
-date that are expected to be exercised. The provision is based on market price of the shares at the reporting date which is the best
-estimate of the market price at the date of exercise. It is expected that the costs will be incurred during the exercise period of 1 January
-2024 to 31 December 2024.
-
-
-# 17. GROUP BORROWING FACILITIES
-
-At 31 December 2023, the Group had an available £80m committed RCF facility maturing 9 December 2027, uncommitted bank overdraft
-facilities of £21m (2022: £21m), and an uncommitted £50m invoice discounting arrangement with HSBC Limited based on the carrying
-amount of UK trade receivables of £30.5m (2022: £22.4m). None of the facilities were drawn at year end (2022: Enil).
-
-All uncommitted facilities are repayable on demand. The Group's exposure to interest rate, foreign currency and liquidity risk for financial
-assets and liabilities is disclosed in Note 22.
-
-
-# 18. DEFERRED TAX
-
-Certain deferred tax assets and liabilities have been offset where permissible in accordance with the Group's accounting policy.
-
-
-<table>
-<tr>
-<th colspan="3">The following is the analysis of the deferred tax balances (after offset) for balance sheet purposes:</th>
-</tr>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>000.3</th>
-</tr>
-<tr>
-<td>Deferred tax assets</td>
-<td>19,856</td>
-<td>18,641</td>
+<td>Other current assets</td>
+<td>7.5</td>
+<td>0.6</td>
+<td>8.1</td>
 </tr>
 <tr>
 <td>Deferred tax liabilities</td>
-<td>(2,342)</td>
-<td>(1,345)</td>
+<td>0.2</td>
+<td>-</td>
+<td>0.2</td>
 </tr>
 <tr>
+<td>Other non-current liabilities</td>
+<td>-62.3</td>
+<td>-1.8</td>
+<td>-64.1</td>
+</tr>
+<tr>
+<td>Current tax liabilities</td>
+<td>-3.4</td>
+<td>-</td>
+<td>-3.4</td>
+</tr>
+<tr>
+<td>Other current liabilities</td>
+<td>-29.2</td>
+<td>-30.1</td>
+<td>-59.3</td>
+</tr>
+<tr>
+<td>Net identifiable assets and liabilities</td>
+<td>90.5</td>
+<td>-5.1</td>
+<td>85.4</td>
+</tr>
+<tr>
+<td>Group goodwill</td>
+<td>105.4</td>
+<td>189.8</td>
+<td>295.2</td>
+</tr>
+<tr>
+<td>Brands and trademarks</td>
+<td>30.8</td>
+<td>12.5</td>
+<td>43.3</td>
+</tr>
+<tr>
+<td>Customer relations</td>
+<td>19.5</td>
+<td>52.4</td>
+<td>71.9</td>
+</tr>
+<tr>
+<td>IP rights</td>
+<td>-</td>
+<td>27.5</td>
+<td>27.5</td>
+</tr>
+<tr>
+<td>Deferred tax liabilities</td>
+<td>-11.1</td>
+<td>-20.3</td>
+<td>-31.4</td>
+</tr>
+<tr>
+<td>Total estimated purchase price</td>
+<td>235.1</td>
+<td>256.8</td>
+<td>491.9</td>
+</tr>
+<tr>
+<td>Remuneration transferred</td>
 <td></td>
-<td>17,514</td>
-<td>17,296</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cash and cash equivalents</td>
+<td>189.0</td>
+<td>218.4</td>
+<td>407.4</td>
+</tr>
+<tr>
+<td>Contingent consideration</td>
+<td>46.2</td>
+<td>38.4</td>
+<td>84.6</td>
+</tr>
+<tr>
+<td>Total renumeration</td>
+<td>235.2</td>
+<td>256.8</td>
+<td>491.9</td>
+</tr>
+<tr>
+<td>Liquidity impact on the Group</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cash and cash equivalents acquired</td>
+<td>20.2</td>
+<td>5.4</td>
+<td>25.6</td>
+</tr>
+<tr>
+<td>Remuneration transferred</td>
+<td>-189.0</td>
+<td>-218.4</td>
+<td>-407.4</td>
+</tr>
+<tr>
+<td>Total cash impact</td>
+<td>-168.8</td>
+<td>-213.0</td>
+<td>-381.8</td>
+</tr>
+<tr>
+<td>Other information</td>
+<td>HeatWork (1)</td>
+<td>Kemi-tech (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>Annual turnover at the time of acquisition</td>
+<td>119.4</td>
+<td>58.5</td>
+<td>177.9</td>
+</tr>
+<tr>
+<td>Annual profit before tax at the time of acquisition</td>
+<td>24.1</td>
+<td>25.6</td>
+<td>49.7</td>
 </tr>
 </table>
 
+(1) HeatWork AS with subsidiaries
 
-The following are the major deferred tax assets/(liabilities) recognised by the Group, and the movements thereon, during the
+(2) Kemi-tech A/S with subsidiaries
+
+(3) Receivables are measured at fair value, no estimated bad debts are included
+
+
+The pre-acquisition analysis is preliminary and is kept open for 12 months
+from the closing date. During the period, adjustments can be made to the
+preliminary amounts recognised at the time of acquisition, e.g. adjustments
+linked to the determination of the access balance and the outcome of
+guarantees in the acquisition agreement.
+
+
+### Accounting for acquisitions
+
+The estimated purchase price for the operations acquired during the
+financial year totalled SEK 491.9 (1,754.1) million. This amount includes an
+estimated contingent consideration of SEK 84.6 (476.9) million. The
+outcome of the contingent consideration is dependent on the net profit
+generated by the companies from the time of acquisition until the end of the
+contingent consideration period: the reference point for growth is
+calculated on normalised annual profit at the time of acquisition. The
+contingent consideration is initially measured at the present value of the
+probable outcome. This year's acquisition runs over 4 to 6 years and the
+outcome can be a maximum of SEK 189 (456) million. The outcome can be
+within the range of SEK 0-189 (0-456) million unless all the conditions are
+met. The exception is the acquisition of the outstanding shares in
+HeatWork, which are subject to current redemption agreements by a
+multiple which varies in turn according to growth in relation to the reference
+net profit.
+
+As a result of acquisitions during the financial year, goodwill in the Group
+has increased by SEK 295.2 (962.4) million and other intangible assets by
+SEK 142.7 (407.4) million.
+
+The effect of the completed acquisitions on consolidated turnover during
+the financial year is SEK 142.0 (525.8) million, and SEK 37.6 (134.4) million
+on profit excluding acquisition costs before tax.
+
+During the year, SEK 185.8 (356.1) million of contingent consideration was
+paid in respect of 9 acquisitions from previous years, of which three relate
+to final settlement of the contingent consideration and the remainder,
+according to agreement, early partial settlement of part of the contingent
+consideration.
+
+
+#### Acquired intangible assets
+
+When preparing acquisition analyses, it is investigated whether there are
+any differences between the fair value of the acquired assets and liabilities
+and the values recognised in the accounts of the acquired company. The
+analysis examines the existence of:
+
+· IP rights (technology-related), such as patents and licence rights
+
+· trademarks
+
+· customer relations
+
+A review of contingent liabilities and tax loss carryforwards is also included.
+
+Assets that fulfil the requirements of separability and measurability have
+been identified in the companies acquired during the year.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+69
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+##### Note 3, cont.
+
+Goodwill consists of the amount by which the consolidated cost of shares
+in acquired subsidiaries exceeds the fair value of the company's net assets
+recognised in the acquisition analysis at the time of acquisition, and is
+mainly attributable to synergies and other intangible assets that do not
+meet the criteria for separate recognition. Goodwill relates to the expected
+contribution of the acquired entity to complement and broaden the Group's
+offering, sales channels and synergies in infrastructure and contribute to
+the Group's continued growth.
+
+The values allocated to intangible assets relating to the year's acquisitions
+are:
+
+· IP rights SEK 27.5 (42.6) million
+
+· Brands and trademarks SEK 43.3 (84.2) million
+
+. Customer relations SEK 71.9 (280.6) million
+
+The amortisation period is assessed by asset and acquisition. Annual
+estimated amortisation of intangible assets for the year's acquisitions
+amounts to around SEK 9 (27) million.
+
+Acquisition-related expenses, known as transaction costs, are expensed
+as incurred. External advisors have been used to a limited extent, primarily
+for commercial, legal and financial due diligence, as the Group has an
+internal acquisition team that works with acquisitions on an ongoing basis.
+
+Transaction costs for the year amount to SEK 13.4 (20.7) million.
+
+
+###### Acquisitions during the year
+
+The Group's business model involves an active search for additional
+solutions to critical needs in the infrastructure sector, and the purpose of
+the Group's acquisitions is to expand the presence and the Group's offering
+in the Group's operating segments.
+
+A total of 2 business acquisitions were made during the financial year.
+
+
+####### HeatWork AS
+
+On 31 March 2023, Sdiptech acquired 81.6 per cent of shares in HeatWork
+AS, with subsidiaries in Sweden and Finland. HeatWork has 20 years of
+experience of development of specialised hydronic heating products. Its
+mobile heating plants are specially designed to meet the needs of many
+applications, such as energy production, agriculture and horticulture, pest
+control, construction, emergency response and municipal water
+protection. HeatWork focuses strongly on innovative, sustainable and
+qualitative solutions, and the technology helps to make a significant
+reduction in energy consumption, cost and CO2 emissions. The company
+has an annual turnover of NOK 120 million with good profitability, with an
+annual operating profit of about NOK 23 million at the time of acquisition.
+
+HeatWork operates globally, with a head office and production facilities in
+Narvik in Norway, and is a strong addition to the Group in respect of energy
+solutions. This company is Sdiptech's second business entity in Norway.
+HeatWork has 42 employees at the time of acquisition.
+
+At the transaction date, the company is valued at NOK 225 million on a
+cash- and debt-free basis. Financing is provided by own resources and
+bank credits. The final purchase price, including the redemption under
+option of the remaining 18.4 per cent of the company's shares, is dependent
+on the company's performance during the earn-out period. Under the
+agreement, Sdiptech can buy the remaining shares after 6 years, with the
+valuation of the remaining shares depending on the company's profit
+growth. At the time of acquisition, the value of the remaining shares is
+estimated to amount to SEK 46 million after present value calculation. The
+company is part of the Resource Efficiency business area.
+
+
+######## Kemi-tech AS
+
+Sdiptech acquired all shares in Kemi-tech A/S on 11 July 2023. Based in
+Hedensted in Denmark, Kemi-tech is a leading supplier of custom chemical
+products for industrial water treatment and specialises in chemical
+treatment of all types of water-bearing systems. The company's products
+ensure that steam boilers, cooling systems and district heating plants
+operate more efficiently, save energy and extend their service life. The
+company has an annual turnover of DKK 34 million, with an annual
+operating profit of around DKK 16 million at the time of acquisition. This
+company is Sdiptech's second business entity in Denmark, and its strong
+track record in the field of environmental solutions is an addition to
+Sdiptech's efforts to deliver sustainable and innovative technologies
+supported by long-term growth trends.
+
+At the transaction date, the company is valued at DKK 146 million on a cash-
+and debt-free basis. Financing is provided by own resources and bank
+credits. The final purchase price including earn-out costs, settled after the
+earn-out period ending in July 2027, will be between GBP 146 and 196
+million, depending on the company's performance during the earn-out
+period. A final total purchase price higher than the current value of DKK 146
+million assumes a higher than current level of earnings. Kemi-tech has 15
+employees at the time of acquisition.
+
+The estimated contingent consideration for Kemi-tech amounts to SEK 38
+million at the time of acquisition, after present value calculation. The
+assessment is made on the basis of an assessment of the likely outcome
+based on forecasts for the company, from the time of acquisition until the
+end of the period for the contingent consideration. Kemi-tech is part of the
+Resource Efficiency business area.
+
+
+## Acquired companies' net assets at the time of acquisition
 
 
 <table>
 <tr>
-<th rowspan="2">current and prior reporting periods.</th>
-<th>Share-based payments</th>
-<th rowspan="2">Tax losses £'000</th>
-<th rowspan="2">Provisions 000.3</th>
-<th rowspan="2">Related party transactions 000.3</th>
-<th>Other</th>
-<th>Total</th>
+<th></th>
+<th>2023</th>
+<th>2022</th>
 </tr>
 <tr>
-<th>000.3</th>
-<th>£'000</th>
-<th>£'000</th>
+<td>Net assets acquired</td>
+<td>85.4</td>
+<td>471.8</td>
 </tr>
 <tr>
-<td>At 1 January 2023</td>
-<td>1,064</td>
-<td>881</td>
-<td>9,945</td>
-<td>4,677</td>
-<td>729</td>
-<td>17,296</td>
+<td>Intangible assets identified on acquisition</td>
+<td>142.7</td>
+<td>407.4</td>
 </tr>
 <tr>
-<td>Recognised in OCI/equity for the year</td>
-<td>950</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>435</td>
-<td>1,385</td>
+<td>Goodwill</td>
+<td>295.2</td>
+<td>962.4</td>
 </tr>
 <tr>
-<td>Recognised in profit or loss for the year</td>
-<td>(669)</td>
-<td>6,384</td>
-<td>(2,200)</td>
-<td>(3,007)</td>
-<td>(1,177)</td>
-<td>(669)</td>
-</tr>
-<tr>
-<td>Exchange differences</td>
-<td>7</td>
-<td>30</td>
-<td>(420)</td>
-<td>(15)</td>
-<td>(100)</td>
-<td>(498)</td>
-</tr>
-<tr>
-<td>At 31 December 2023</td>
-<td>1,352</td>
-<td>7,295</td>
-<td>7,325</td>
-<td>1,655</td>
-<td>(113)</td>
-<td>17,514</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>At 1 January 2022</td>
-<td>2,077</td>
-<td>1,253</td>
-<td>4,458</td>
-<td>7,520</td>
-<td>3,997</td>
-<td>19,305</td>
-</tr>
-<tr>
-<td>Recognised in OCI/equity for the year</td>
-<td>(824)</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>(824)</td>
-</tr>
-<tr>
-<td>Recognised in profit or loss for the year</td>
-<td>(191)</td>
-<td>(443)</td>
-<td>5,198</td>
-<td>(3,458)</td>
-<td>(3,395)</td>
-<td>(2,289)</td>
-</tr>
-<tr>
-<td>Exchange differences</td>
-<td>2</td>
-<td>71</td>
-<td>289</td>
-<td>615</td>
-<td>127</td>
-<td>1,104</td>
-</tr>
-<tr>
-<td>At 31 December 2022</td>
-<td>1,064</td>
-<td>881</td>
-<td>9,945</td>
-<td>4,677</td>
-<td>729</td>
-<td>17,296</td>
+<td>Estimated purchase price</td>
+<td>523.3</td>
+<td>1,841.6</td>
 </tr>
 </table>
 
 
-The temporary differences shown under "Other" of (£0.1m) (2022: £0.7m) predominantly includes such differences in relation to
-fixed assets (£2.6m) (2022: £0.8m), differences between the Group GAAP, IFRS, and the local GAAP of each country in which
-PageGroup operates and differences between recognition of income and expense for accounting and tax purposes and other
-items of (£1.1m) (2022: £3.4m), IFRS 16 of £1.3m (2022: £1.1m) and other items of £2.3m (2022: £2.2m). The realisation of the
-deferred tax asset in respect of losses is dependent upon generating future taxable profits in the territories in which the deferred
-tax assets have arisen.
-
-The recognition of deferred income tax assets is supported by management's forecasts of future profitability of the relevant
-countries. Management consider these forecasts are sufficiently reliable to support recovery of these assets. Where the
-forecasts of future profits are insufficient to support recovery, no deferred income tax assets have been recognised.
-
-The net deferred tax asset of £17.5m (2022: £17.3m) includes £5.8m of deferred tax assets in relation to entities that have
-incurred an accounting loss in either 2023 and 2022. In line with the most recent budgets which forecast profits for these
-entities, management expects these losses to be substantially recovered within three years.
-
-At 31 December 2023, £41.3m (2022: £40.8m) of deductible temporary differences, unused tax losses and tax credits have
-not been recognised due to uncertainty over the taxable profits available to support the realisation of these attributes. The tax
-effected balances are £12.8m (2022: £12.3m).
-
-The balance includes gross unrecognised tax losses of £29.0m (2022: £26.8m) of which £23.5m have no expiry, £1.6m that will
-expire at various dates to 31 December 2028 with the remainder of £3.9m expiring at various dates to 31 December 2034. The
-single most material country which has unrecognised tax losses is Brazil with £21m (2022: £16m).
-
-The Group's overseas subsidiaries have net unremitted earnings of £161.8m (2022: £188.7m), resulting in temporary differences
-of £27.1m.(2022: £33.9m). No deferred tax has been provided in respect of these differences since the timing of the reversals
-can be controlled and it is probable that the temporary differences will not reverse in the foreseeable future.
+### Effect on cash flow
 
 
-## 19. CALLED-UP SHARE CAPITAL
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Cash and cash equivalents in the acquired operations</td>
+<td>25.6</td>
+<td>151.6</td>
+</tr>
+<tr>
+<td>Remuneration transferred</td>
+<td>-407.4</td>
+<td>-1,277.3</td>
+</tr>
+<tr>
+<td>Impact on the Group's cash and cash equivalents from the year's acquisitions</td>
+<td>-381.8</td>
+<td>-1,125.7</td>
+</tr>
+<tr>
+<td>Adjusted remuneration, previous years' acquisitions</td>
+<td>-21.6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Purchase prices paid for acquisitions in previous years</td>
+<td>-182.4</td>
+<td>-356.1</td>
+</tr>
+<tr>
+<td>Cash flow attributable to investments in operations</td>
+<td>-585.8</td>
+<td>-1,481.8</td>
+</tr>
+</table>
+
+
+## Contribution of the acquired entities to Group turnover and profit
+
+
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Turnover</td>
+<td>142.0</td>
+<td>525.8</td>
+</tr>
+<tr>
+<td>Profit contribution before acquisition-related costs and amortisation</td>
+<td>38.5</td>
+<td>149.8</td>
+</tr>
+<tr>
+<td>Transaction costs</td>
+<td>-5.5</td>
+<td>-20.7</td>
+</tr>
+<tr>
+<td>Amortisation and impairment of intangible assets</td>
+<td>-4.8</td>
+<td>-15.4</td>
+</tr>
+<tr>
+<td>Profit before tax</td>
+<td>28.2</td>
+<td>113.7</td>
+</tr>
+</table>
+
+
+Preliminary acquisition analyses were adjusted by SEK 21.6 (-13.4) million
+during the financial year, which refers to final access balances and net cash
+adjustments for Patol Ltd and Mecno Srl, which increased the Group's
+goodwill by SEK 21.6 million.
+
+
+### Valuation technique for contingent considerations
+
+The executive team makes an assessment of the recognised contingent
+consideration at each reporting period after the acquisition date. The
+valuation is based on an assessment of historical results, strategic plans
+and forecasts, as well as market data and other known information,
+financial and non-financial, that is deemed to be capable of affecting the
+contingent consideration. Information that is deemed to materially affect
+the contingent consideration-regardless of whether this relates to the
+impact of the macro or micro environment - is also included. A general
+growth rate of 6 per cent is assumed for the remaining term in cases where
+the contingent consideration extends beyond the established budget and
+strategic plan, which normally covers three years from the balance sheet
+date.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+70
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+#### Note 3, cont.
+
+The revaluation of the contingent considerations can occur both upwards -
+i.e. with an increase in the liability, driven by higher future estimated earnings
+in previous years' acquired entities - as well as downwards. The adjustment
+is recognised in the income statement under other income in the event of a
+decrease in the liability, and under other external charges in the event of an
+increase. Revaluation is carried out annually at the end of the financial year
+after the companies' strategic plan for the following year has been adopted,
+unless the conditions for any entity have changed significantly: this could
+require a revaluation during the current financial year. The total contingent
+consideration for the Group is discounted at a total level during the financial
+year, and at the end of the financial year is reversed to a present value
+calculation and discounting of the liability for future payments per
+acquisition.
+
+The discount rate used in the assessment has been adjusted during the
+financial year from three to four percentage points, which for the full year,
+given the closing debt, resulted in a reduction in the debt of SEK 26.9 (35.4)
+million. The adjustment of the discount rate occurs when the Group's
+borrowing rate has increased, on account of the increase in the policy rate.
+
+
+##### Acquisition analyses 2022
+
+A total of 7 business acquisitions were made during the financial year.
+
+Sdiptech AB (publ) acquired all shares in Agrosistemi Srl on 31 January
+2022. This company specialises in the treatment and recycling of biological
+sludge resulting from wastewater treatment and has over 20 years of
+experience. Located in Piacenza, Italy, the company has developed a
+patented treatment process used to remove harmful substances from
+sludge and convert it into high quality organic fertiliser products.
+Agrosistemi has an annual turnover of EUR 8.5 million, with EUR 2.0 million
+in EBIT. Agrosistemi is Sdiptech's first company in Italy and brings
+complementary focus areas and expertise in waste management and
+bioeconomy to the Group.
+
+At the date of the transaction, the company is valued at EUR 14 million on a
+cash- and debt-free basis, of which EUR 8.6 million is paid on the closing
+date and is financed with own funds and bank credits. The final purchase
+price, settled at the end of the earn-out period running until 31 December
+2029, will amount to between EUR 7.0 and 25.7 million, depending on the
+company's performance during the earn-out period. A final total purchase
+price higher than the current value of EUR 8.6 million assumes a higher than
+current level of earnings. Agrosistemi has 22 employees at the time of the
+acquisition.
+
+
+## Acquisition analyses 2022
+
+
+<table>
+<tr>
+<th>Net assets acquired</th>
+<th>Agrosistemi (1)</th>
+<th>TELUK (2)</th>
+<th>RDM (3)</th>
+<th>ELM (4)</th>
+<th>Patol (5)</th>
+<th>Mecno (6)</th>
+<th>Other acquisitions</th>
+<th>Total 2022</th>
+</tr>
+<tr>
+<td>Intangible assets</td>
+<td>5.1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1.6</td>
+<td>-</td>
+<td>6.7</td>
+</tr>
+<tr>
+<td>Tangible assets and right-of-use assets</td>
+<td>24.8</td>
+<td>0.6</td>
+<td>35.9</td>
+<td>45.0</td>
+<td>0.5</td>
+<td>133.8</td>
+<td>1.7</td>
+<td>242.3</td>
+</tr>
+<tr>
+<td>Other fixed assets</td>
+<td>1.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.1</td>
+<td>0.0</td>
+<td>1.1</td>
+</tr>
+<tr>
+<td>Stocks and work in progress</td>
+<td>-</td>
+<td>11.1</td>
+<td>59.8</td>
+<td>34.7</td>
+<td>9.3</td>
+<td>8.6</td>
+<td>4.5</td>
+<td>128.0</td>
+</tr>
+<tr>
+<td>Cash and cash equivalents</td>
+<td>42.9</td>
+<td>16.8</td>
+<td>27.2</td>
+<td>-</td>
+<td>43.6</td>
+<td>21.0</td>
+<td>0.1</td>
+<td>151.6</td>
+</tr>
+<tr>
+<td>Accounts receivable</td>
+<td>28.3</td>
+<td>27.5</td>
+<td>45.1</td>
+<td>40.8</td>
+<td>9.3</td>
+<td>41.8</td>
+<td>4.2</td>
+<td>197.0</td>
+</tr>
+<tr>
+<td>Other current assets</td>
+<td>14.7</td>
+<td>20.7</td>
+<td>53.3</td>
+<td>0.1</td>
+<td>3.0</td>
+<td>21.2</td>
+<td>0.3</td>
+<td>113.3</td>
+</tr>
+<tr>
+<td>Deferred tax liabilities</td>
+<td>-</td>
+<td>-</td>
+<td>-0.6</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-0.6</td>
+</tr>
+<tr>
+<td>Other non-current liabilities</td>
+<td>-5.8</td>
+<td>-9.6</td>
+<td>-</td>
+<td>-31.8</td>
+<td>-</td>
+<td>-111.0</td>
+<td>-</td>
+<td>-158.2</td>
+</tr>
+<tr>
+<td>Current tax liabilities</td>
+<td>-4.9</td>
+<td>-2.8</td>
+<td>-3.2</td>
+<td>-8.6</td>
+<td>-3.4</td>
+<td>-</td>
+<td>-</td>
+<td>-22.9</td>
+</tr>
+<tr>
+<td>Other current liabilities</td>
+<td>-26.6</td>
+<td>-23.1</td>
+<td>-34.2</td>
+<td>-34.8</td>
+<td>-4.8</td>
+<td>-57.9</td>
+<td>-5.1</td>
+<td>-186.5</td>
+</tr>
+<tr>
+<td>Net identifiable assets and liabilities</td>
+<td>79.5</td>
+<td>41.2</td>
+<td>183.3</td>
+<td>45.4</td>
+<td>57.5</td>
+<td>59.2</td>
+<td>5.7</td>
+<td>471.8</td>
+</tr>
+<tr>
+<td>Group goodwill</td>
+<td>72.7</td>
+<td>142.8</td>
+<td>286.7</td>
+<td>287.9</td>
+<td>36.3</td>
+<td>136.5</td>
+<td>21.1</td>
+<td>984.0</td>
+</tr>
+<tr>
+<td>Brands and trademarks</td>
+<td>14.2</td>
+<td>10.5</td>
+<td>17.7</td>
+<td>37.9</td>
+<td>3.9</td>
+<td>-</td>
+<td>-</td>
+<td>84.2</td>
+</tr>
+<tr>
+<td>Customer relations</td>
+<td>71.3</td>
+<td>55.0</td>
+<td>67.0</td>
+<td>33.8</td>
+<td>11.3</td>
+<td>42.2</td>
+<td>-</td>
+<td>280.6</td>
+</tr>
+<tr>
+<td>IP rights</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>28.2</td>
+<td>-</td>
+<td>14.4</td>
+<td>-</td>
+<td>42.6</td>
+</tr>
+<tr>
+<td>Deferred tax liabilities</td>
+<td>-20.5</td>
+<td>-12.4</td>
+<td>-16.1</td>
+<td>-22.0</td>
+<td>-2.9</td>
+<td>-13.6</td>
+<td>-</td>
+<td>-87.5</td>
+</tr>
+<tr>
+<td>Total estimated purchase price</td>
+<td>217.2</td>
+<td>237.1</td>
+<td>538.6</td>
+<td>411.2</td>
+<td>106.1</td>
+<td>238.8</td>
+<td>26.8</td>
+<td>1,775.8</td>
+</tr>
+<tr>
+<td>Remuneration transferred</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cash and cash equivalents</td>
+<td>103.2</td>
+<td>154.9</td>
+<td>440.4</td>
+<td>300.3</td>
+<td>97.7</td>
+<td>191.5</td>
+<td>10.9</td>
+<td>1,298.9</td>
+</tr>
+<tr>
+<td>Contingent consideration</td>
+<td>114.0</td>
+<td>82.2</td>
+<td>98.2</td>
+<td>110.9</td>
+<td>8.4</td>
+<td>47.3</td>
+<td>15.9</td>
+<td>476.9</td>
+</tr>
+<tr>
+<td>Total remuneration</td>
+<td>217.2</td>
+<td>237.1</td>
+<td>538.6</td>
+<td>411.2</td>
+<td>106.1</td>
+<td>238.8</td>
+<td>26.8</td>
+<td>1,775.8</td>
+</tr>
+<tr>
+<td>Liquidity impact on the Group</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cash and cash equivalents acquired</td>
+<td>42.9</td>
+<td>16.8</td>
+<td>27.2</td>
+<td>-</td>
+<td>43.6</td>
+<td>21.0</td>
+<td>0.1</td>
+<td>151.6</td>
+</tr>
+<tr>
+<td>Remuneration transferred</td>
+<td>-103.2</td>
+<td>-154.9</td>
+<td>-440.4</td>
+<td>-300.3</td>
+<td>-97.7</td>
+<td>-191.5</td>
+<td>-10.9</td>
+<td>-1,298.9</td>
+</tr>
+<tr>
+<td>Total cash impact</td>
+<td>-60.3</td>
+<td>-138.1</td>
+<td>-413.2</td>
+<td>-300.3</td>
+<td>-54.1</td>
+<td>-170.5</td>
+<td>-10.8</td>
+<td>-1,147.3</td>
+</tr>
+</table>
+
+(1) Agrosistemi S.r.l and Amaltea S.a.r.l.s
+
+(2) Temperature Electronics Ltd and TEL UK Ltd
+
+(3) Resource Data Management Group Ltd and subsidiaries
+(4) e-l-m Kragelund A/S
+
+(5) Patol Ltd and Linesense Ltd
+
+(6) Mecno Service S.r.l.
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+71
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+### Note 3, cont.
+
+Sdiptech acquired 91 per cent of shares in Temperature Electronics Ltd
+and TEL UK Ltd (TEL) on 25 March 2022. TEL has over 50 years of
+experience, specialising in the design and manufacture of electronic airflow
+controls and monitors. The company has an annual turnover of GBP 5.2
+million, with good profitability.
+
+At the transaction date, the company is valued at GBP 14 million on a cash-
+and debt-free basis. Financing is provided by own resources and bank
+credits. The final purchase price including earn-out costs for 91 per cent of
+the company's shares, settled after five years, will be between GBP 12.0
+and 17.5 million, depending on the company's performance during the earn-
+out period. A final total purchase price higher than the current value of GBP
+12 million assumes a higher than current level of earnings. Under the
+agreement, Sdiptech can purchase the remaining 9 per cent of shares
+between 2028 and 2034. The valuation of the remaining shares depends
+on the company's profit growth. TEL UK has 9 employees at the time of the
+acquisition.
+
+TEL UK is part of the Special Infrastructure Solutions business area.
+
+On 13 May 2022, Sdiptech acquired all shares in Resource Data
+Management Ltd (RDM), a specialised product supplier in cooling
+management and control and building management systems. RDM is an
+interesting addition to Sdiptech's cooling, air and climate control
+operations. Its customer segments and technology complement the
+Group's current market and offerings. Headquartered in Glasgow, RDM has
+an annual turnover of GBP 14 million and a pre-tax operating profit of GBP
+3.5 million.
+
+At the transaction date, the company is valued at GBP 30 million on a cash-
+and debt-free basis. Financing is provided by own resources and bank
+credits. The final purchase price including earn-out costs, settled after 2
+years, will be between GBP 30 and 41 million, depending on the company's
+performance during the earn-out period. A final total purchase price higher
+than the current value of GBP 30 million assumes a higher than current
+level of earnings. Of the initial purchase price of GBP 30 million, GBP 0.5
+million was paid with class B shares in Sdiptech AB (publ.) through an issue
+in kind of 21,321 new class B ordinary shares, which was decided by
+Sdiptech's Board of Directors on 5 July 2022. RDM has 130 employees at
+the time of the acquisition.
+
+RDM is part of the Special Infrastructure Solutions business area.
+
+Sdiptech acquired 80 per cent of shares in e-l-m- Kragelund A/S in
+Denmark (ELM) on 1 June 2022. ELM develops and manufactures
+innovative attachments for forklift trucks. ELM's head office is in Kragelund,
+near Horsens in Denmark, and the company has an operating profit of
+about DKK 32 million. ELM is Sdiptech's first business entity in Denmark
+and is part of the Special Infrastructure Solutions business area.
+
+At the date of the transaction, the company is valued at DKK 300 million
+and is financed with equity and bank loans. The final purchase price,
+including the redemption under option of the remaining 20 per cent of the
+company's shares, is dependent on the company's performance during the
+earn-out period. Under the agreement, Sdiptech can buy the remaining 20
+per cent of shares after 4 years, with the valuation of the remaining shares
+depending on the company's profit growth. ELM has 167 employees at the
+time of the acquisition.
+
+Sdiptech acquired all assets in Industrial Metal Products Inc (IMP), which
+specialises in niche road maintenance products in the US, on 28 October.
+IMP is Sdiptech's first acquisition in the US and an add-on acquisition to
+Hilltip Oy and its subsidiary, Hilltip Inc. The acquisition will have a limited
+effect on the Group's earnings and is included in the Hilltip Group, which is
+part of the Special Infrastructure Solutions business area, from October
+2022.
+
+At the date of the transaction, the business is valued at USD 750,000 and is
+financed with own funds. The final purchase price, settled at the end of the
+earn-out period running until 31 October 2027, will October between USD
+750,000 and 2,500,000 depending on the company's performance during
+the earn-out period. A final total purchase price higher than the current
+value assumes a higher level of earnings than the current one. IMP has 12
+employees at the time of the acquisition.
+
+Sdiptech acquired all shares in Patol Ltd and Linesense Fire Detection Ltd
+(Patol) on 9 November 2022. Patol and Linesense design, manufacture and
+supply niche fire safety products and systems with applications in a variety
+of infrastructure sectors, including power generation, waste recycling, road
+infrastructure, food production and data centres. The companies are
+headquartered in Reading, UK with an annual turnover in excess of GBP 3.2
+million and good profitability. Patol and Linesense (collectively "Patol") is
+Sdiptech's twelfth business entity in the UK, and it is part of the Special
+Infrastructure Solutions business area from November 2022.
+
+At the date of the transaction, the company is valued at GBP 7.3 million and
+is financed with equity and bank loans. The final purchase price, settled at
+the end of the earn-out period running until 31 March 2024, will be between
+GBP 7.3 and 8.0 million, depending on the company's performance during
+the earn-out period. A final total purchase price higher than the current
+value of GBP 7.3 million assumes a higher than current level of earnings.
+Patol and Linesense have 21 employees at the time of the acquisition.
+
+Sdiptech acquired all shares in Mecno Service Srl on 23 November 2022.
+Mecno designs, manufactures and sells specialist grinding machines for
+trams and metro trains, and provides rail grinding services using a unique
+proprietary technology. The company is located in Venice, Italy, and since
+2008 also has a presence in the monorail market, designing and
+manufacturing point switches and crossings for Translohr tramways.
+Strong international patents give Mecno Services' products a high degree
+of both quality and innovation. Mecno has an annual turnover of EUR 13
+million, with good profitability. The company is Sdiptech's second business
+entity in Italy, and from November is part of the Special Infrastructure
+Solutions business area.
+
+At the date of the transaction, the company is valued at EUR 17 million and is
+financed with equity and bank loans. The final purchase price, settled at the
+end of the earn-out period running until 31 December 2027, will amount to
+between EUR 17 and 22 million, depending on the company's performance
+during the earn-out period. A final total purchase price higher than the
+current value of EUR 17 million assumes a higher than current level of
+earnings. Mecno has 30 employees at the time of the acquisition.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+72
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 4 Segment reporting
+
+
+### Accounting policies
+
+The Group's segment reporting is based on the operating segments that
+reflect the Group's management structure and how financial information is
+regularly reviewed by Sdiptech's chief operating decision maker, who is
+responsible for allocating resources and evaluating the performance of the
+operating segments. This has been identified as the Group Executive Board
+at Sdiptech.
+
+The Group Executive Board monitors the performance of the organisation
+and makes decisions on the allocation of resources. Sdiptech's acquisition
+organisation maps markets and value chains in depth in the Group's
+selected business areas. Acquisition decisions and operational decisions
+are made and governance, control and follow-up are performed by the
+Group Executive Board through the respective Business Area Manager,
+with the support of other central functions. Companies within a given
+business area often have common customers, suppliers and market
+dynamics. This leads to potential revenue synergies (cross-selling, joint
+tenders for complex projects, etc.) and corresponding potential cost
+synergies (joint procurement, larger volume contracts with suppliers, etc.).
+The expertise within each company in the business area also creates
+synergies.
+
+The Group's operations are organisationally divided into two business
+areas, Resource Efficiency and Special Infrastructure Solutions.
+
+Under IFRS, the part of the business that does not constitute separate
+operating segments is referred to as Other segments. At Sdiptech,
+unallocated items known as central costs arising in the Group's holding
+company are included in this concept and consist of overheads for the
+Group's parent company, interest and dividend income, interest expenses,
+tax expenses, certain administrative expenses, etc.
+
+Operating segments are monitored on net sales, which include external and
+internal sales. Transactions between operational entities are based on the
+arm's length principle and are eliminated on consolidation. Internal sales
+between business areas are very limited and of non-material amounts, as
+shown in the elimination column in the table below. Adjusted EBITA is the
+Group's performance measure (see Definitions of key figures and
+explanations).
+
+Segment information is provided for the Group only, in accordance with
+IFRS 8.
+
+
+### Resource Efficiency
+
+Companies within Resource Efficiency provide niche products and services
+that help to bring about efficient and sustainable use of resources such as
+water, energy, minerals, forests and food.
+
+
+<table>
+<tr>
+<th colspan="11">Segment reporting</th>
+</tr>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Resource Efficiency</th>
+<th colspan="2">Special Infrastructure Solutions</th>
+<th colspan="2">Central Units</th>
+<th colspan="2">Eliminations</th>
+<th colspan="2">Total</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Net sales</td>
+<td>1,649.8</td>
+<td>1,269.8</td>
+<td>3,168.5</td>
+<td>2,235.4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4,818.3</td>
+<td>3,505.2</td>
+</tr>
+<tr>
+<td>Internal customers</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>29.3</td>
+<td>22.2</td>
+<td>-29.3</td>
+<td>-22.2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Adjusted EBITA</td>
+<td>366.2</td>
+<td>276.0</td>
+<td>622.8</td>
+<td>452.1</td>
+<td>-67.3</td>
+<td>-57.0</td>
+<td>-</td>
+<td>-</td>
+<td>921.6</td>
+<td>671.2</td>
+</tr>
+<tr>
+<td>Adjusted EBITA margin, %</td>
+<td>22.2%</td>
+<td>21.7%</td>
+<td>19.7%</td>
+<td>20.2%</td>
+<td>et</td>
+<td>et</td>
+<td>et</td>
+<td>et</td>
+<td>19.1%</td>
+<td>19.1%</td>
+</tr>
+<tr>
+<td>Amortisation of acquired intangible assets</td>
+<td>-31.5</td>
+<td>-25.1</td>
+<td>-57.7</td>
+<td>-39.9</td>
+<td>-0.3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-89.5</td>
+<td>-64.9</td>
+</tr>
+<tr>
+<td>Adjustment in respect of contingent considerations</td>
+<td>-</td>
+<td>-</td>
+<td>-2.2</td>
+<td>1.1</td>
+<td>19.1</td>
+<td>60.5</td>
+<td>-</td>
+<td>-</td>
+<td>16.9</td>
+<td>61.6</td>
+</tr>
+<tr>
+<td>Transaction costs</td>
+<td>-1.2</td>
+<td>-</td>
+<td>-0.1</td>
+<td>-1.5</td>
+<td>-12.3</td>
+<td>-20.7</td>
+<td>-</td>
+<td>-</td>
+<td>-13.6</td>
+<td>-22.2</td>
+</tr>
+<tr>
+<td>Other comparison- obstructing items</td>
+<td>-3.0</td>
+<td>-4.4</td>
+<td>-4.1</td>
+<td>-</td>
+<td>7.1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-4.4</td>
+</tr>
+<tr>
+<td>Operating profit</td>
+<td>330.5</td>
+<td>246.5</td>
+<td>558.7</td>
+<td>405.8</td>
+<td>-53.7</td>
+<td>-100.5</td>
+<td>0.0</td>
+<td>89.4</td>
+<td>835.5</td>
+<td>641.2</td>
+</tr>
+<tr>
+<td>Net financial items</td>
+<td>-4.0</td>
+<td>4.5</td>
+<td>-22.6</td>
+<td>-11.7</td>
+<td>-158.5</td>
+<td>-68.9</td>
+<td>-38.9</td>
+<td>-28.3</td>
+<td>-224.00</td>
+<td>-104.4</td>
+</tr>
+<tr>
+<td>Profit before tax</td>
+<td>326.5</td>
+<td>251.0</td>
+<td>536.1</td>
+<td>394.1</td>
+<td>-212.2</td>
+<td>-169.4</td>
+<td>-38.9</td>
+<td>61.1</td>
+<td>611.5</td>
+<td>536.8</td>
+</tr>
+<tr>
+<td>Goodwill</td>
+<td>1,800.4</td>
+<td>1,507.5</td>
+<td>2,825.4</td>
+<td>2,791.6</td>
+<td>0.1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4,625.9</td>
+<td>4,299.1</td>
+</tr>
+<tr>
+<td>Other assets</td>
+<td>2,106.8</td>
+<td>1,773.2</td>
+<td>2,990.7</td>
+<td>3,008.5</td>
+<td>674.3</td>
+<td>332.2</td>
+<td>-1,292.8</td>
+<td>-1,317.2</td>
+<td>4,479.0</td>
+<td>3,796.7</td>
+</tr>
+<tr>
+<td>Total assets</td>
+<td>3,907.2</td>
+<td>3,280.7</td>
+<td>5,816.1</td>
+<td>5,800.1</td>
+<td>674.4</td>
+<td>332.2</td>
+<td>-1,292.8</td>
+<td>-1,317.2</td>
+<td>9,104.9</td>
+<td>8,095.8</td>
+</tr>
+<tr>
+<td>Liabilities</td>
+<td>770.4</td>
+<td>520.4</td>
+<td>1,614.0</td>
+<td>1,659.5</td>
+<td>4,056.5</td>
+<td>3,711.1</td>
+<td>-1,292.8</td>
+<td>-1,317.2</td>
+<td>5,148.0</td>
+<td>4,573.9</td>
+</tr>
+<tr>
+<td>Other information</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Amortisation of intangible assets</td>
+<td>-54.9</td>
+<td>-35.2</td>
+<td>-72.0</td>
+<td>-52.0</td>
+<td>-0.4</td>
+<td>-10.3</td>
+<td>-0.2</td>
+<td>10.0</td>
+<td>-127.5</td>
+<td>-87.4</td>
+</tr>
+<tr>
+<td>of which attributable to acquisitions</td>
+<td>-31.5</td>
+<td>-25.1</td>
+<td>-57.7</td>
+<td>-39.9</td>
+<td>-0.3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>-89.5</td>
+<td>-65.0</td>
+</tr>
+<tr>
+<td>Depreciation of tangible assets</td>
+<td>-69.5</td>
+<td>-51.6</td>
+<td>-108.9</td>
+<td>-74.1</td>
+<td>-4.7</td>
+<td>-3.9</td>
+<td>-</td>
+<td>-</td>
+<td>-183.1</td>
+<td>-129.6</td>
+</tr>
+</table>
+
+
+### Special Infrastructure Solutions
+
+The Special Infrastructure Solutions business units provide niche products
+and services to meet specialised needs in terms of air and climate control,
+security and surveillance and transportation systems.
+
+
+### Central entities - Groupwide functions
+
+Groupwide functions consist of the Group's parent company, Sdiptech AB,
+and the Group's holding company and include revaluation of liabilities
+relating to additional purchase prices.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+73
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+#### Note 4, cont.
+
+
+##### Net turnover by market
+
+
+<table>
+<caption>Rights of use, tangible and intangible assets by market</caption>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Resource Efficiency</th>
+<th colspan="2">Special Infrastructure Solutions</th>
+<th colspan="2">Total</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Sweden</td>
+<td>489.8</td>
+<td>375.3</td>
+<td>444.5</td>
+<td>408.1</td>
+<td>934.3</td>
+<td>783.4</td>
+</tr>
+<tr>
+<td>UK</td>
+<td>775.9</td>
+<td>622.9</td>
+<td>1,229.2</td>
+<td>906.2</td>
+<td>2,005.2</td>
+<td>1,529.0</td>
+</tr>
+<tr>
+<td>Germany</td>
+<td>1.1</td>
+<td>0.3</td>
+<td>250.9</td>
+<td>181.2</td>
+<td>252.1</td>
+<td>181.4</td>
+</tr>
+<tr>
+<td>Croatia</td>
+<td>-</td>
+<td>0.1</td>
+<td>57.2</td>
+<td>50.9</td>
+<td>57.2</td>
+<td>51.0</td>
+</tr>
+<tr>
+<td>Austria</td>
+<td>0.0</td>
+<td>-</td>
+<td>10.5</td>
+<td>9.2</td>
+<td>10.5</td>
+<td>9.2</td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td>8.3</td>
+<td>7.5</td>
+<td>125.3</td>
+<td>77.1</td>
+<td>133.6</td>
+<td>84.6</td>
+</tr>
+<tr>
+<td>Norway</td>
+<td>125.8</td>
+<td>55.5</td>
+<td>94.6</td>
+<td>45.6</td>
+<td>220.4</td>
+<td>101.1</td>
+</tr>
+<tr>
+<td>Finland</td>
+<td>20.3</td>
+<td>0.8</td>
+<td>46.1</td>
+<td>41.9</td>
+<td>66.3</td>
+<td>42.7</td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td>30.0</td>
+<td>0.7</td>
+<td>100.5</td>
+<td>57.6</td>
+<td>130.6</td>
+<td>58.3</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>118.3</td>
+<td>95.0</td>
+<td>95.8</td>
+<td>44.5</td>
+<td>214.1</td>
+<td>139.4</td>
+</tr>
+<tr>
+<td>US</td>
+<td>0.1</td>
+<td>-</td>
+<td>245.0</td>
+<td>168.6</td>
+<td>245.1</td>
+<td>168.6</td>
+</tr>
+<tr>
+<td>Other countries in Europe</td>
+<td>24.2</td>
+<td>22.6</td>
+<td>218.3</td>
+<td>117.5</td>
+<td>242.5</td>
+<td>140.1</td>
+</tr>
+<tr>
+<td>Other countries outside Europe</td>
+<td>60.7</td>
+<td>89.2</td>
+<td>245.7</td>
+<td>127.0</td>
+<td>306.4</td>
+<td>216.2</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>1,654.5</td>
+<td>1,269.8</td>
+<td>3,163.7</td>
+<td>2,235.4</td>
+<td>4,818.2</td>
+<td>3,505.2</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Sweden</td>
+<td>216.5</td>
+<td>187.5</td>
+</tr>
+<tr>
+<td>UK</td>
+<td>899.7</td>
+<td>905.1</td>
+</tr>
+<tr>
+<td>Croatia</td>
+<td>23.7</td>
+<td>37.1</td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td>126.8</td>
+<td>134.9</td>
+</tr>
+<tr>
+<td>Norway</td>
+<td>129.0</td>
+<td>6.2</td>
+</tr>
+<tr>
+<td>Finland</td>
+<td>132.1</td>
+<td>93.2</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>266.9</td>
+<td>322.0</td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td>267.8</td>
+<td>167.1</td>
+</tr>
+<tr>
+<td>Other countries</td>
+<td>32.0</td>
+<td>29.1</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>2,094.6</td>
+<td>1,882.2</td>
+</tr>
+</table>
+
+
+## Note 5 Earnings
+
+
+### Accounting policies
+
+
+#### Sale of products
+
+Sdiptech's revenues consist predominantly of sales of goods that are
+recognised as revenue at a certain point in time. Revenue is recognised
+when the Group fulfils a performance obligation, which is the time when a
+promised product or service is delivered to the customer and the customer
+takes control of the product or service. Control is found to pass to the
+customer when the following indicators are regarded as being met, but is
+not limited to these: the customer is in physical possession, the company is
+contractually entitled to payment, the customer has accepted the
+goods/services, significant risks and rewards have passed to the
+customer, or legal title has passed to the customer. In the sale of goods,
+control usually passes to the customer when significant risks and benefits
+have been transferred, which is normally regulated by Incoterms. In the
+case of the sale of services, control usually passes to the customer once
+the customer has accepted the service provided. Revenue is measured on
+the basis of the consideration specified in the contract with the customer.
+
+
+#### Installation
+
+Some contracts include services such as the installation of a product.
+Assignments are deemed to constitute a combined performance obligation
+unless each product is distinctly separate within the framework of the
+contracts. The transaction price normally consists of fixed amounts. If it is
+anticipated that the assignment will result in a loss, the loss is then
+immediately recognised in the income statement.
+
+
+#### Service
+
+The Group also has a percentage of revenue from service and maintenance
+contracts. This revenue is recognised either directly if it relates to a separate
+delivery of a service or on a straight-line basis over the contract period if it
+relates to an ongoing service over a period.
+
+
+#### Revenue recognition over time
+
+The Group also recognises revenue from major projects where the
+company's performance does not create an asset with an alternative use for
+the company and the company is entitled to payment for work performed to
+date. These revenues are recognised over time. Revenue is recognised on
+an ongoing basis in an amount that represents the value transferred to the
+customer and that the company is entitled to invoice on an ongoing basis.
+Most of Sdiptech's revenue is recognised at one point in time. Increases or
+decreases in estimated revenues or expenses resulting from a change in
+estimate are recognised in the income statement in the period in which the
+circumstances became known.
+
+In fixed price contracts, the client pays the agreed price at agreed payment
+times. A contract asset is recognised if the products/services delivered
+exceed the payment. If the payments exceed the services delivered, a
+contractual liability is recognised.
+
+Variable payments such as discounts, credits, returns or similar are
+recognised on the basis of the probability of whether or not a significant
+reversal will occur using the expected value method or the most likely value
+method.
+
+Guarantees exist and are predominantly of the "assurance" type, i.e. the
+guarantee does not constitute a separate performance obligation and
+therefore does not affect revenue recognition, but is recognised as an
+expense or provision. The right of return for customers exists only to a very
+limited extent in the Group.
+
+The Group applies the relief rule of not capitalising costs to obtain contracts
+with customers, unless the contract extends beyond 12 months. The Group
+has no material assets arising from costs incurred to fulfil a contract, such as
+costs of obtaining contracts with customers, pre-contractual expenses and
+start-up costs.
+
+No one customer accounts for more than 10 per cent of the Group's total
+turnover.
+
+Payment terms within the Group vary between 30 and 120 days, with an
+average of 57 (62) days.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+74
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+Note 5, cont.
+
+
+## Turnover by revenue type
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Resource Efficiency</th>
+<th colspan="2">Special Infrastructure Solutions</th>
+<th colspan="2">Total</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Products</td>
+<td>1,155.8</td>
+<td>877.2</td>
+<td>1,661.8</td>
+<td>1,111.0</td>
+<td>2,817.7</td>
+<td>1,988.2</td>
+</tr>
+<tr>
+<td>Installation, direct</td>
+<td>299.5</td>
+<td>166.2</td>
+<td>292.0</td>
+<td>298.1</td>
+<td>591.5</td>
+<td>464.3</td>
+</tr>
+<tr>
+<td>Installation, over time</td>
+<td>18.3</td>
+<td>86.8</td>
+<td>378.5</td>
+<td>222.3</td>
+<td>396.8</td>
+<td>309.1</td>
+</tr>
+<tr>
+<td>Service, direct</td>
+<td>121.6</td>
+<td>97.2</td>
+<td>726.7</td>
+<td>509.0</td>
+<td>848.3</td>
+<td>606.2</td>
+</tr>
+<tr>
+<td>Service, over time</td>
+<td>54.6</td>
+<td>42.2</td>
+<td>109.6</td>
+<td>95.0</td>
+<td>164.2</td>
+<td>137.2</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>1,649.9</td>
+<td>1,269.8</td>
+<td>3,168.6</td>
+<td>2,235.4</td>
+<td>4,818.5</td>
+<td>3,505.2</td>
+</tr>
+<tr>
+<td>Primary revenue types</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Products</td>
+<td>1,155.8</td>
+<td>877.2</td>
+<td>1,661.8</td>
+<td>1,111.0</td>
+<td>2,817.7</td>
+<td>1,988.2</td>
+</tr>
+<tr>
+<td>Execution of services</td>
+<td>494.1</td>
+<td>392.6</td>
+<td>1,506.8</td>
+<td>1,124.4</td>
+<td>2,000.8</td>
+<td>1,517.0</td>
+</tr>
+<tr>
+<td>Direct sales</td>
+<td>1,577.0</td>
+<td>1,140.6</td>
+<td>2,680.6</td>
+<td>1,918.1</td>
+<td>4,257.5</td>
+<td>3,058.7</td>
+</tr>
+<tr>
+<td>Sales over time</td>
+<td>72.9</td>
+<td>129.0</td>
+<td>488.0</td>
+<td>317.3</td>
+<td>561.0</td>
+<td>446.3</td>
+</tr>
+</table>
+
+
+## Contractual assets and liabilities
+
+The Group recognises the following assets and liabilities in the balance
+sheet related to contracts with customers.
+
+
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Accounts receivable</td>
+<td>827.3</td>
+<td>687.0</td>
+</tr>
+<tr>
+<td>Accrued income</td>
+<td>170.1</td>
+<td>114.1</td>
+</tr>
+<tr>
+<td>Total contract assets</td>
+<td>997.4</td>
+<td>801.1</td>
+</tr>
+<tr>
+<td>Prepaid income</td>
+<td>-90.8</td>
+<td>-108.1</td>
+</tr>
+<tr>
+<td>Total contract liabilities</td>
+<td>906.6</td>
+<td>693.0</td>
+</tr>
+</table>
+
+
+Accrued income refers to the portion of income where performance
+obligations have been met but the invoice has been issued after the end of
+the period. Prepaid income refers to income that has been invoiced for a
+future period and where the income is recognised as the performance
+obligation is fulfilled, which includes service agreements.
+
+The Group's order backlog runs over shorter periods on average and, as of
+the balance sheet date, the Group has order backlogs of around SEK 100
+million extending over 12 months. As a result, the Group does not adjust the
+transaction price for the effects of a significant financing component.
+
+
+## Note 6 Other operating income
+
+Government grants are reported in the Balance Sheet as prepaid income
+when there is a reasonable assurance that the funding will be received and
+that the company will meet the conditions attached to the funding.
+Government grants related to assets are recognised as a deduction of the
+grant from the carrying amount of the asset.
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="4">Group Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Rental revenue</td>
+<td>0.2</td>
+<td>0.8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Gains on sale of fixed assets</td>
+<td>5.7</td>
+<td>2.1</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Insurance renumeration</td>
+<td>0.5</td>
+<td>2.4</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Revaluation of contingent considerations</td>
+<td>26.9</td>
+<td>61.6</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Sick pay benefits</td>
+<td>3.4</td>
+<td>1.3</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>State aid received</td>
+<td>6.8</td>
+<td>0.8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Exchange rate gains</td>
+<td>4.1</td>
+<td>0.8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Other items</td>
+<td>21.9</td>
+<td>10.1</td>
+<td>1.0</td>
+<td>0.7</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>69.5</td>
+<td>79.9</td>
+<td>1.0</td>
+<td>0.7</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+75
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 7 Remuneration to employees
+
+
+### Accounting policies
+
+Salaries, social security contributions, bonuses and other short-term employee benefits are recognised as an expense when the employee has rendered
+the service. On termination, a liability and an expense are recognised if it is likely that the offer will be taken up and a reliable estimate can be made. The
+Group's pension plans are essentially defined contribution plans for which insurance premiums are paid, and employees bear the risk in respect of the
+future pension level.
+
+
+### Remuneration to employees
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="3">2023</th>
+<th colspan="3">2022</th>
+</tr>
+<tr>
+<th>Senior executives</th>
+<th>Other employees</th>
+<th>Total</th>
+<th>Senior executives</th>
+<th>Other employees</th>
+<th>Total</th>
+</tr>
+<tr>
+<td>Group</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Salaries and remuneration</td>
+<td>70.4</td>
+<td>990.8</td>
+<td>1,061.2</td>
+<td>73.4</td>
+<td>698.4</td>
+<td>771.8</td>
+</tr>
+<tr>
+<td>Of which variable remuneration</td>
+<td>7.0</td>
+<td>134.2</td>
+<td>141.2</td>
+<td>4.9</td>
+<td>75.6</td>
+<td>80.5</td>
+</tr>
+<tr>
+<td>Social security costs</td>
+<td>18.1</td>
+<td>196.1</td>
+<td>214.2</td>
+<td>16.4</td>
+<td>196.5</td>
+<td>212.9</td>
+</tr>
+<tr>
+<td>of which pension costs</td>
+<td>6.7</td>
+<td>55.3</td>
+<td>62.0</td>
+<td>4.2</td>
+<td>64.5</td>
+<td>68.7</td>
+</tr>
+<tr>
+<td>Parent company</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Salaries and remuneration</td>
+<td>20.3</td>
+<td>18.4</td>
+<td>38.7</td>
+<td>18.1</td>
+<td>12.5</td>
+<td>30.6</td>
+</tr>
+<tr>
+<td>Of which variable remuneration</td>
+<td>5.4</td>
+<td>3.4</td>
+<td>8.8</td>
+<td>2.0</td>
+<td>0.7</td>
+<td>2.7</td>
+</tr>
+<tr>
+<td>Social security costs</td>
+<td>6.7</td>
+<td>12.0</td>
+<td>18.7</td>
+<td>5.6</td>
+<td>9.2</td>
+<td>14.8</td>
+</tr>
+<tr>
+<td>of which pension costs</td>
+<td>3.9</td>
+<td>2.6</td>
+<td>6.5</td>
+<td>3.4</td>
+<td>1.8</td>
+<td>5.1</td>
+</tr>
+</table>
+
+
+Of the Group's pension costs, SEK 4.2 (3.4) million related to the Board of Directors and Chief Executive Officers. The group of other senior executives in
+the parent company is made up of 5 (5) individuals.
+
+
+### Remuneration to the parent company's CEO and other senior executives (SEK thousand)
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">CEO, Jakob Holm (1)</th>
+<th colspan="2">Other senior executives</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Basic salary</td>
+<td>4,768</td>
+<td>4,553</td>
+<td>10,128</td>
+<td>9,266</td>
+</tr>
+<tr>
+<td>Performance-related pay</td>
+<td>1,643</td>
+<td>699</td>
+<td>3,790</td>
+<td>1,261</td>
+</tr>
+<tr>
+<td>Other benefits</td>
+<td>5</td>
+<td>5</td>
+<td>219</td>
+<td>243</td>
+</tr>
+<tr>
+<td>Pension costs</td>
+<td>1,441</td>
+<td>1,383</td>
+<td>2,426</td>
+<td>1,972</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>7,858</td>
+<td>6,641</td>
+<td>16,564</td>
+<td>12,742</td>
+</tr>
+</table>
+
+
+(1) Bengt Lejdström took over as Chief Executive Officer on 15 December 2023.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+76
+
+
+<table>
+<caption>Number of employees</caption>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">2023</th>
+<th colspan="2">2022</th>
+</tr>
+<tr>
+<th>Total</th>
+<th>Of whom women</th>
+<th>Total</th>
+<th>Of whom women</th>
+</tr>
+<tr>
+<td>Parent company</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sweden</td>
+<td>21</td>
+<td>10</td>
+<td>18</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Group companies</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sweden</td>
+<td>386</td>
+<td>50</td>
+<td>363</td>
+<td>48</td>
+</tr>
+<tr>
+<td>UK</td>
+<td>999</td>
+<td>187</td>
+<td>936</td>
+<td>213</td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td>221</td>
+<td>27</td>
+<td>184</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td>67</td>
+<td>12</td>
+<td>58</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Norway</td>
+<td>61</td>
+<td>6</td>
+<td>19</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Croatia</td>
+<td>237</td>
+<td>33</td>
+<td>275</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Finland</td>
+<td>68</td>
+<td>4</td>
+<td>64</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>65</td>
+<td>15</td>
+<td>58</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Other countries</td>
+<td>176</td>
+<td>30</td>
+<td>152</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Total in Group companies</td>
+<td>2,280</td>
+<td>364</td>
+<td>2,109</td>
+<td>363</td>
+</tr>
+<tr>
+<td>Group total</td>
+<td>2,301</td>
+<td>374</td>
+<td>2,127</td>
+<td>369</td>
+</tr>
+</table>
+
+
+### Remuneration to the parent company's Board of Directors, Chief Executive Officer and other senior executives
+
+The Annual General Meeting resolved in accordance with the nomination
+committee's proposal that a total of SEK 1,990,000 shall be paid in
+remuneration to the Board of Directors. Of this fee, each Board member
+shall receive SEK 290,000 per Board member and SEK 830,000 shall go to
+the Chairman.
+
+The Annual General Meeting further resolved that remuneration for work
+within the company's Audit Committee shall be paid at a rate of SEK
+160,000 to the Chairman and SEK 55,000 per member (one to two
+members). For the company's Investment Committee, a fee of SEK 50,000
+shall be paid to the Chairman and SEK 50,000 per member (one to two
+members). For the company's Remuneration Committee, a fee of SEK
+40,000 shall be paid to the Chairman and SEK 20,000 per member (one
+member).
+
+Guidelines for remuneration and other terms of employment for senior
+executives were adopted at the 2023 Annual General Meeting.
+The guidelines are to be applied to remuneration agreed and changes made
+to remuneration already agreed after the adoption of the guidelines by the
+2023 Annual General Meeting.
+
+.
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+#### Note 7, cont.
+
+
+## Remuneration to the parent company's Board of Directors (SEK thousand)
+
+
+<table>
+<tr>
+<th>Directors' fees/base salary</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Jan Samuelsson, Chairman</td>
+<td>908</td>
+<td>873</td>
+</tr>
+<tr>
+<td>Urban Doverholt, member</td>
+<td>336</td>
+<td>326</td>
+</tr>
+<tr>
+<td>Johnny Alvarsson, member</td>
+<td>352</td>
+<td>341</td>
+</tr>
+<tr>
+<td>Birgitta Henriksson, member</td>
+<td>341</td>
+<td>329</td>
+</tr>
+<tr>
+<td>Eola Änggård Runsten, member</td>
+<td>446</td>
+<td>432</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>2,382</td>
+<td>2,301</td>
+</tr>
+</table>
+
+
+## Gender distribution on the Board and Group Executive Board, percentage of women
+
+
+<table>
+<tr>
+<th></th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>Board</td>
+<td>40%</td>
+<td>40%</td>
+</tr>
+<tr>
+<td>Other senior executives</td>
+<td>17%</td>
+<td>17%</td>
+</tr>
+</table>
+
+
+### Preparation and decision-making process in respect of remuneration to the Board of Directors, the CEO and the Group Executive Board
+
+The guidelines that were applicable during the 2023 financial year for
+remuneration to senior executives were adopted at the 2023 Annual
+General Meeting and essentially correspond to the guidelines presented in
+the proposal for future years. The principle for remuneration to the Board of
+Directors, the CEO and the Group Executive Board is that this should be
+competitive.
+
+The Nomination Committee submits a proposal to the Annual General
+Meeting regarding remuneration for the Board of Directors. Remuneration
+to the Board of Directors is paid as decided by the Annual General Meeting.
+With regard to remuneration to the CEO, the Group Executive Board and
+other senior Group executives, the Board of Directors has appointed a
+Remuneration Committee comprising the Chairman of the Board of
+Directors and one of the members of the Board of Directors, with the CEO
+as rapporteur. The CEO, Group Executive Board and other senior
+executives receive a fixed salary, variable remuneration and normal
+employment benefits. There are also pension benefits and incentive
+programmes as described below. The Remuneration Committee considers
+the guidelines on remuneration for senior executives as adopted by the
+Annual General Meeting of Sdiptech AB.
+
+
+### Long-term incentive schemes
+
+The purpose of the incentive programmes, and the reason for deviating
+from the shareholders' preferential rights, is to create conditions for
+retaining and recruiting talented staff to the Group, to increase participants'
+motivation, encourage loyalty to the company and alignment with the
+company's shareholders, and to promote personal share ownership in the
+company and thereby promote shareholder value and the company's long-
+term value creation.
+
+At an Extraordinary General Meeting on 5 March 2018 in Stockholm, it was
+unanimously decided in accordance with the Board's proposal to
+implement an incentive programme through the issue of warrants and
+approval of the transfer of warrants. The incentive programme was aimed
+at employees of the parent company. There are no requirements for
+continued employment associated with the programme. With deviation
+from the shareholders' preferential rights, the warrants are subscribed for
+by a wholly owned subsidiary with the right and obligation for the subsidiary
+to transfer the warrants to participants in the incentive programme.
+
+The programme included 756,000 warrants divided into three series:
+252,000 series 2018/2021 warrants, 252,000 series 2018/2022 warrants
+and 252,000 series 2018/2023 warrants. The purchase price for shares on
+exercising the option was calculated as corresponding to 120 per cent of
+the volume-weighted average of the price paid for the Company's class B
+share on NASDAQ Stockholm during a specified period in 2018, where the
+premium for the call options has to correspond to the market value of the
+call options according to an external independent valuation in accordance
+with the Black & Scholes model. Series 2018/2021 was redeemed in March
+2021 and newly issued shares were subscribed for, whereby the Group
+received SEK 13.3 million in equity. Series 2018/2022 was redeemed in
+March 2022 and newly issued shares were subscribed for, whereby the
+Group received SEK 14.5 million in equity. Series 2018/2023 was
+redeemed in March 2023 and newly issued shares were subscribed for,
+whereby the Group received SEK 14.4 million in equity.
+
+The 2021 Annual General Meeting decided on a new incentive programme
+of Series B warrants for managers and senior executives. This programme
+comprises 350,000 warrants. The exercise price was set at 126 per cent of
+the volume-weighted average price paid for Sdiptech's class B share for
+the period from 19 May 2021 up to and including 1 June 2021, where the
+premium for the call options has to correspond to the market value of the
+call options according to an external independent valuation in accordance
+with the Black & Scholes model. It can be redeemed on three occasions
+from June 2024 until 30 November 2024.
+
+The 2023 Annual General Meeting decided on a new incentive programme
+of Series B warrants for managers and senior executives. This programme
+comprises 350,000 warrants. The exercise price was set at 126 per cent of
+the average share price during the measurement period from 23 May 2023
+to 5 June 2023, where the premium for the call options has to correspond
+to the market value of the call options according to an external independent
+valuation in accordance with the Black & Scholes model. It can be
+redeemed on three occasions from June 2026 until 30 November 2026.
+
+Upon full exercise of all outstanding warrants, the increase in the
+company's share capital will amount to a maximum of SEK 17,500 relating
+to series 2021/2024 and 2023/2026, corresponding to a dilution of a
+maximum of around 1.8 per cent of shares and around 1.3 per cent of votes.
+
+
+### Outstanding share options
 
 
 <table>
@@ -4518,960 +2848,4071 @@ can be controlled and it is probable that the temporary differences will not rev
 <th colspan="2">2022</th>
 </tr>
 <tr>
-<th>000.3</th>
-<th>Number of shares</th>
-<th>000.3</th>
-<th>Number of shares</th>
+<th>Exercise price (1)</th>
+<th>Number of options</th>
+<th>Exercise price (1)</th>
+<th>Number of options</th>
 </tr>
 <tr>
-<td>Allotted, called-up and fully paid ordinary shares of 1p each</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>As of 1 January</td>
+<td>324.3</td>
+<td>528,071</td>
+<td>201.8</td>
+<td>750,581</td>
 </tr>
 <tr>
-<td>At 1 January</td>
-<td>3,286</td>
-<td>328,618,774</td>
-<td>3,286</td>
-<td>328,618,774</td>
+<td>Allotments</td>
+<td>326</td>
+<td>305,150</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>Shares issued</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>Recovered</td>
+<td>-</td>
+<td>-</td>
+<td>377.7</td>
+<td>-6,410</td>
 </tr>
 <tr>
-<td>At 31 December</td>
-<td>3,286</td>
-<td>328,618,774</td>
-<td>3,286</td>
-<td>328,618,774</td>
+<td>Forfeited</td>
+<td>75.2</td>
+<td>-190,590</td>
+<td>67.1</td>
+<td>-216,100</td>
+</tr>
+<tr>
+<td>As of 31 December</td>
+<td>398.2</td>
+<td>642,631</td>
+<td>324.3</td>
+<td>528,071</td>
 </tr>
 </table>
 
-
-At the last AGM held on 1 June 2023, the Company's Directors were authorised to allot shares up to a nominal value of
-£1,095,396, so a total authorised capital of 438,158,365 shares representing a nominal value of £4,381,584.
-
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-169
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-170
----
+(1) The exercise price is calculated as an average of the exercise price for issued warrants
 
 
-### Share option plans
-
-The Group has share option awards currently outstanding under a Share Option Scheme (SOS). These plans are described
-below.
-
-At 31 December 2023 the following options had been granted and remained outstanding in respect of the Company's ordinary
-shares of 1p under the Michael Page Share Option Scheme. The Group has no legal or constructive obligation to repurchase
-or settle the options in cash.
+### Outstanding share options at year-end have the following expiry dates and exercise prices
 
 
 <table>
 <tr>
-<th>Year of grant</th>
-<th>Balance at 1 January 2023</th>
-<th>Granted in year</th>
-<th>Exercised in year</th>
-<th>Lapsed in year</th>
-<th>No. of options outstand- ing at 31 December 2023</th>
-<th>Base EPS/OP range+</th>
-<th>Exercise price per share</th>
-<th>Exercise period</th>
+<th>Maturity</th>
+<th>Exercise price (SEK)</th>
+<th>2023</th>
+<th>2022</th>
 </tr>
 <tr>
-<td>2013 (Note 1)*</td>
-<td>149,500</td>
-<td>–</td>
-<td>(137,500)</td>
-<td>(12,000)</td>
-<td>–</td>
-<td>OP range</td>
-<td>442.0p</td>
-<td>March 2016 - March 2023</td>
+<td>11 March 2022</td>
+<td>67.10</td>
+<td>-</td>
+<td>14,332,368</td>
 </tr>
 <tr>
-<td>2014 (Note 1)*</td>
-<td>403,333</td>
-<td>–</td>
-<td>(10,000)</td>
-<td>(20,000)</td>
-<td>373,333</td>
-<td>OP range</td>
-<td>484.0p</td>
-<td>March 2017 - March 2024</td>
+<td>1 June - 30 November 2024</td>
+<td>463.00</td>
+<td>156,320,375</td>
+<td>156,320,375</td>
 </tr>
 <tr>
-<td>2015 (Note 1)*</td>
-<td>295,000</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>295,000</td>
-<td>OP range</td>
-<td>526.0p-534.0p</td>
-<td>March 2018 - March 2025</td>
+<td>1 June - 30 November 2026</td>
+<td>326.40</td>
+<td>99,600,960</td>
+<td>-</td>
 </tr>
 <tr>
-<td>2016 (Note 1)*</td>
-<td>145,000</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>145,000</td>
-<td>OP range</td>
-<td>406.0p-427.0p</td>
-<td>March 2019 - March 2026</td>
-</tr>
-<tr>
-<td>2017 (Note 1)*</td>
-<td>175,000</td>
-<td>–</td>
-<td>(20,000)</td>
-<td>–</td>
-<td>155,000</td>
-<td>OP range</td>
-<td>435.44p</td>
-<td>March 2020 - March 2027</td>
-</tr>
-<tr>
-<td>2018 (Note 1)*</td>
-<td>1,349,865</td>
-<td>–</td>
-<td>–</td>
-<td>(55,000)</td>
-<td>1,294,865</td>
-<td>OP range</td>
-<td>529.0p</td>
-<td>March 2021 - March 2028</td>
-</tr>
-<tr>
-<td>2019 (Note 1)</td>
-<td>1,613,570</td>
-<td>–</td>
-<td>(23,999)</td>
-<td>(75,898)</td>
-<td>1,513,673</td>
-<td>OP range</td>
-<td>458.2p-473.80p</td>
-<td>March 2022 - March 2029</td>
-</tr>
-<tr>
-<td>2020 (Note 1)</td>
-<td>1,676,111</td>
-<td>–</td>
-<td>(423,800)</td>
-<td>(8,400)</td>
-<td>1,243,911</td>
-<td>OP range</td>
-<td>332.0p-387.47p</td>
-<td>March 2023 - March 2030</td>
-</tr>
-<tr>
-<td>2021 (Note 1)</td>
-<td>1,838,192</td>
-<td>–</td>
-<td>–</td>
-<td>(51,667)</td>
-<td>1,786,525</td>
-<td>OP range</td>
-<td>480.1p</td>
-<td>March 2024 - March 2031</td>
-</tr>
-<tr>
-<td>2022 (Note 1)</td>
-<td>2,185,000</td>
-<td>–</td>
-<td>–</td>
-<td>(105,000)</td>
-<td>2,080,000</td>
-<td>OP range</td>
-<td>492.8p-509p</td>
-<td>March 2025 - March 2032</td>
-</tr>
-<tr>
-<td>2023 (Note 1)</td>
-<td>–</td>
-<td>2,601,500</td>
-<td>–</td>
-<td>(80,000)</td>
-<td>2,521,500</td>
-<td>OP range</td>
-<td>439.6p</td>
-<td>March 2026 - March 2033</td>
-</tr>
-<tr>
-<td>Total 2023</td>
-<td>9,830,571</td>
-<td>2,601,500</td>
-<td>(615,299)</td>
-<td>(407,965)</td>
-<td>11,408,807</td>
+<td>Total</td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Weighted average exercise price 2023 (£)</td>
-<td>4.61</td>
-<td>4.40</td>
-<td>3.69</td>
-<td>4.74</td>
-<td>4.61</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Total 2022</td>
-<td>7,886,861</td>
-<td>2,185,000</td>
-<td>(121,288)</td>
-<td>(120,002)</td>
-<td>9,830,751</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Weighted average exercise price 2022 (£)</td>
-<td>4.52</td>
-<td>4.94</td>
-<td>4.57</td>
-<td>4.42</td>
-<td>4.61</td>
-<td></td>
-<td></td>
-<td></td>
+<td>255,921,335</td>
+<td>170,652,743</td>
 </tr>
 </table>
 
-\* These options have fully vested
 
-t The Operating Profit ranges for each award are fully disclosed in Note 1 of this Note. 6, 125,316 options were exercisable at the end of 2023 at a weighted
-average exercise price of £4.56 (2022: £4.42). The weighted average share price at the date of exercise was £3.69 (2022: £4.57).
+As of the balance sheet date, 87,500 warrants are held by the Group's Chief
+Executive Officer, Bengt Lejdström, and 182,860 warrants by other senior
+executives.
 
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+77
+---
 
-## Note 1
-
-
-### Share Option Scheme
-
-Executive Directors of the Company are not eligible to participate in this plan. Any exercises of awards made under this plan are
-settled by shares held in the Employee Benefit Trust.
-
-This share option scheme was created in 2009 to provide an effective plan under which to grant awards from 2009 onwards. It was
-the Board's view that grants made under the existing ESOS, which would have required an increase over the 2008 base earnings per
-share of at least 3% per annum above the growth in the UK Retail Price Index by 2011, would not be achievable due to the impact
-of the global downturn on the Group's EPS and thus would not provide the required retention incentive. Further grants under the
-SOS have been made in each year from 2011. The performance conditions for these grants are also linked directly to the Group's
-Operating Profit.
-
-For grants between 2012 and 2015, if Operating Profit is in excess of £50m, a proportion of the award equivalent to the amount
-of Operating Profit achieved will vest up to a maximum of 100% if the Operating Profit is £100m or more. As Operating Profit of
-£118.3m was achieved in 2017, the performance criteria have been fully achieved and these awards have fully vested.
-
-For the 2016 grant, if Operating Profit is in excess of £75m, 2% of the award will vest for every additional £1m of Operating Profit
-achieved, up to a maximum of 100% at Operating Profit of £125m or more. As Operating Profit of £142.5m was achieved in 2018,
-the performance criteria have been fully achieved and these awards have fully vested.
-
-For the 2017 grant, if Operating Profit is in excess of £50m, 25% of the award will vest, 1% of the award will vest for every additional
-£1m of Operating Profit achieved, up to a maximum of 100% at Operating Profit of £125m or more. As Operating Profit of £146.7m
-was achieved in 2019, the performance criteria have been fully achieved and these awards have fully vested.
-
-For the 2018 grant, if Operating Profit is in excess of £75m, 25% of the award will vest. 1% of the award will vest for every
-additional £1m of Operating Profit achieved, up to a maximum of 100% at Operating Profit of £150m or more. As Operating
-Profit of £168.5m was achieved in 2021, the performance criteria have been fully achieved and these awards have fully vested.
-
-For the 2019 grant, if Operating Profit is in excess of £100m, 1% of the award will vest for every additional £1m of Operating
-Profit achieved, up to a maximum of 100% at Operating Profit of £200m or more. As Operating Profit of £196.1m was achieved
-in 2022, 96% of the performance criteria have been achieved and these awards have partially vested.
-
-For the 2020 grant, if Operating Profit is in excess of £100m, 1% of the award will vest for every additional £1m of Operating
-Profit achieved, up to a maximum of 100% at Operating Profit of £200m or more. As Operating Profit of £196.1m was achieved
-in 2022, 96% of the performance criteria have been achieved and these awards have partially vested.
-
-For the 2021 grant, if Operating Profit is in excess of £75m, 25% of the award will vest. 1% of the award will vest for every
-additional £1m of Operating Profit achieved, up to a maximum of 100% at Operating Profit of £150m or more. As Operating
-Profit of £118.8m was achieved in 2023, 68% of the performance criteria have been achieved and these awards have partially
-vested.
-
-For the 2022 grant, if Operating Profit is in excess of £125m, 25% of the award will vest. 1% of the award will vest for every
-additional £1m of Operating Profit achieved, up to a maximum of 100% at Operating Profit of £200m or more.
-
-For the 2023 grant, if Operating Profit is in excess of £125m, 1% of the award will vest for every additional £1m of Operating
-Profit achieved, up to a maximum of 100% at Operating Profit of £225m or more.
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
 
 
-### Other share-based payment plans
+## Note 8 Remuneration to auditors
 
-The Company also operates a Management Incentive Plan for the Executive Directors and senior employees and a Long-Term
-Incentive Plan for the Chief Executive Officer, Chief Financial Officer and other senior employees. Details of these plans are
-disclosed in the Directors' Remuneration Report and are settled by the physical delivery of shares, currently satisfied by shares
-held in the Employee Benefit Trust, to the extent that service and performance conditions are met. Movements on these plans
-are shown below:
+Audit assignments refer to the examination of the annual report and accounting records and the administration of
+the Board of Directors and the Chief Executive Officer, other tasks incumbent on the company's auditor and advice
+or other assistance resulting from observations made during such examination or the performance of such other
+tasks. Everything else is divided into tax consultations and other assignments.
+
+The Annual General Meeting on 22 May 2023 resolved by re-election to appoint PwC Sweden as the company's
+auditor.
+
+
+### Remuneration to auditors
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Audit engagement</td>
+<td>-4.8</td>
+<td>-4.2</td>
+<td>-2.0</td>
+<td>-1.9</td>
+</tr>
+<tr>
+<td>Audit activities in addition to the tasks of the audit engagement</td>
+<td>-0.2</td>
+<td>-0.1</td>
+<td>-0.2</td>
+<td>-0.1</td>
+</tr>
+<tr>
+<td>Total PWC</td>
+<td>-5.0</td>
+<td>-4.3</td>
+<td>-2.2</td>
+<td>-2.0</td>
+</tr>
+<tr>
+<td>Other agencies</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Audit engagement</td>
+<td>-7.4</td>
+<td>-4.8</td>
+<td>-1.9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Audit activities in addition to the tasks of the audit engagement</td>
+<td>-0.5</td>
+<td>-0.5</td>
+<td>-</td>
+<td>-0.6</td>
+</tr>
+<tr>
+<td>Tax advice</td>
+<td>-0.6</td>
+<td>-0.8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Other services</td>
+<td>-1.1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total Other agencies</td>
+<td>-9.6</td>
+<td>-6.1</td>
+<td>-1.9</td>
+<td>-0.6</td>
+</tr>
+</table>
+
+
+## Note 9 Financial income and financial expenses
+
+
+### Financial income and expenses
+
+Financial income consists mainly of interest income on bank deposits and dividends from associated companies.
+
+Financial expenses consist of interest expenses to credit institutions and discount rates for lease liabilities and
+contingent considerations. The contingent considerations are classified as interest-bearing when they are
+measured at present value, but they do not give rise to any actual interest payments that affect the Group's cash
+flow. Financial income consists mainly of interest income on bank deposits and dividends from associated
+companies.
+
+Financial items also include realised and unrealised translation differences on internal and external loans in foreign
+currency, as well as currency futures and currency interest rate futures in GBP, EUR and NOK. The Other financial
+expenses item includes costs related to borrowing.
+
+Interest received amounts to SEK 4.7 (1.5) million. All interest income relates to financial assets measured at
+amortised cost. Interest paid amounts to SEK 159.6 (73.3) million. Interest expenses are attributable to both
+financial liabilities measured at amortised cost and financial liabilities measured at fair value through profit or loss
+
+
+<table>
+<tr>
+<th colspan="5">Financial income and expenses</th>
+</tr>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Other interest income and similar items</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Interest income and similar items</td>
+<td>4.7</td>
+<td>1.5</td>
+<td>0.0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Interest income from Group companies</td>
+<td>-</td>
+<td>-</td>
+<td>14.3</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>Exchange rate differences</td>
+<td>-</td>
+<td>4.9</td>
+<td>-</td>
+<td>16.6</td>
+</tr>
+<tr>
+<td>Other items</td>
+<td>1.8</td>
+<td>0.2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total financial income</td>
+<td>6.5</td>
+<td>6.7</td>
+<td>14.3</td>
+<td>19.6</td>
+</tr>
+<tr>
+<td>Interest expenses and similar items</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Interest expense from credit institutions</td>
+<td>-159.6</td>
+<td>-73.3</td>
+<td>-18.2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Discount rate for lease liabilities</td>
+<td>-12.7</td>
+<td>-5.3</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Interest rate component revaluation of contingent considerations at fair value</td>
+<td>-39.0</td>
+<td>-30.0</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Interest expense from Group companies</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-0.3</td>
+</tr>
+<tr>
+<td>Exchange rate differences</td>
+<td>-14.0</td>
+<td>-</td>
+<td>-0.4</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Other items</td>
+<td>-5.2</td>
+<td>-2.4</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total financial costs</td>
+<td>-230.5</td>
+<td>-111.1</td>
+<td>-18.6</td>
+<td>-0.3</td>
+</tr>
+<tr>
+<td>Net financial items</td>
+<td>-224.0</td>
+<td>-104.4</td>
+<td>-4.3</td>
+<td>19.4</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+78
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 10 Taxes
+
+
+### Accounting policies
+
+Deferred tax assets are recognised insofar as it is probable that future taxable profits will be available against which
+the temporary differences and tax losses can be utilised. In the Group, only significant deferred tax assets are held
+by the parent company.
+
+
+### Tax expenses for the year
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Current tax</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Current tax expenses</td>
+<td>-172.7</td>
+<td>-130.1</td>
+<td>-1.8</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Actual tax attributed to previous year</td>
+<td>-11.3</td>
+<td>0.4</td>
+<td>-</td>
+<td>0.6</td>
+</tr>
+<tr>
+<td>Deferred tax</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Deferred tax related to temporary differences</td>
+<td>-1.7</td>
+<td>-6.3</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Deferred tax relating to leases</td>
+<td>1.0</td>
+<td>0.3</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Deferred tax relating to internal profit in inventory</td>
+<td>2.2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Deferred tax relating to amortisation of acquired intangible assets</td>
+<td>16.6</td>
+<td>27.0</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total recognised tax expense</td>
+<td>-165.8</td>
+<td>-108.6</td>
+<td>-1.8</td>
+<td>0.6</td>
+</tr>
+</table>
+
+
+### Reconciliation of effective tax
+
+The Group's weighted average effective tax rate with the current geographical mix is around 23.4 (19) per cent. The
+relationship between tax at the average tax rate and recognised tax for the Group is shown in the following table.
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Profit before tax</td>
+<td>611.5</td>
+<td>536.8</td>
+<td>7.6</td>
+<td>30.0</td>
+</tr>
+<tr>
+<td>Tax according to average tax rate for the Group 23.4% (19.0), parent company 20.6% (20.6)</td>
+<td>-142.8</td>
+<td>-101.9</td>
+<td>-1.6</td>
+<td>-6.2</td>
+</tr>
+<tr>
+<td>Tax effects of:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Other non-taxable income</td>
+<td>5.8</td>
+<td>13.1</td>
+<td>-</td>
+<td>4.1</td>
+</tr>
+<tr>
+<td>Deduction for issue expenses</td>
+<td>0.1</td>
+<td>1.9</td>
+<td>0.1</td>
+<td>1.9</td>
+</tr>
+<tr>
+<td>Non-deductible expenses</td>
+<td>-17.3</td>
+<td>-21.7</td>
+<td>-0.4</td>
+<td>-0.2</td>
+</tr>
+<tr>
+<td>Actual tax attributed to previous year</td>
+<td>-11.3</td>
+<td>0.4</td>
+<td>-</td>
+<td>0.6</td>
+</tr>
+<tr>
+<td>Use of previously non-capitalised loss carryforwards</td>
+<td>-0.3</td>
+<td>-0.5</td>
+<td>-</td>
+<td>0.4</td>
+</tr>
+<tr>
+<td>Total actual tax recognised</td>
+<td>-165.8</td>
+<td>-108.7</td>
+<td>-1.8</td>
+<td>0.6</td>
+</tr>
+</table>
+
+
+Sdiptech AB's capital assets in the form of shares in subsidiaries and associated companies constitute what are
+known as business interests, according to the definition in Chapter 24 (13) to (16) of the Income Tax Act. As a
+general rule, a capital gain on the disposal of business interests is tax-free. At the same time, the general rule is that
+capital losses on business interests are not deductible. Tax losses are recognised as deferred tax assets in the
+balance sheet. The Group has capitalised tax losses in the balance sheet to a value of around SEK 25 million before
+tax. Most of the losses relate to the parent company and are to some extent covered by Group contribution
+restrictions, which affects the time frame for utilisation to an estimated one to five years.
+
+
+### Deferred tax
+
+The item deferred taxes in the consolidated balance sheet relates to tax expense on untaxed reserves, as well as
+acquired intangible assets, deferred tax on leases and deferred tax attributable to tax losses.
+
+
+<table>
+<caption>Net deferred tax at year-end, Group</caption>
+<tr>
+<th rowspan="2"></th>
+<th colspan="3">2023-12-31</th>
+<th colspan="3">2022-12-31</th>
+</tr>
+<tr>
+<th>Receivables</th>
+<th>Liabilities</th>
+<th>Net</th>
+<th>Receivables</th>
+<th>Liabilities</th>
+<th>Net</th>
+</tr>
+<tr>
+<td>Deferred tax on loss carryforwards</td>
+<td>3.4</td>
+<td>-</td>
+<td>3.4</td>
+<td>5.7</td>
+<td>-</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>Untaxed reserves</td>
+<td>-</td>
+<td>-5.7</td>
+<td>-5.7</td>
+<td>-</td>
+<td>-4.1</td>
+<td>-4.1</td>
+</tr>
+<tr>
+<td>Leases</td>
+<td>39.9</td>
+<td>-38.0</td>
+<td>1.9</td>
+<td>23.5</td>
+<td>-22.6</td>
+<td>0.9</td>
+</tr>
+<tr>
+<td>Deferred tax, intangible assets</td>
+<td>-</td>
+<td>-211.5</td>
+<td>-211.5</td>
+<td>-</td>
+<td>-199.0</td>
+<td>-199.0</td>
+</tr>
+<tr>
+<td>Other</td>
+<td>2.2</td>
+<td>-29.1</td>
+<td>-26.9</td>
+<td>-</td>
+<td>-17.5</td>
+<td>-17.5</td>
+</tr>
+<tr>
+<td>Deferred tax, net, at year-end</td>
+<td>45.5</td>
+<td>-284.3</td>
+<td>-238.8</td>
+<td>29.2</td>
+<td>-243.2</td>
+<td>-214.0</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+79
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+#### Note 10, cont.
+
+
+<table>
+<tr>
+<th>2023-12-31</th>
+<th>Opening amount</th>
+<th>Recognised in the income statement</th>
+<th>Acquisitions and disposals</th>
+<th>Translation effect</th>
+<th>Closing amount</th>
+</tr>
+<tr>
+<td>Deferred tax on loss carryforwards</td>
+<td>5.7</td>
+<td>-0.6</td>
+<td>0.1</td>
+<td>0.3</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>Untaxed reserves</td>
+<td>-4.1</td>
+<td>-1.2</td>
+<td>-0.4</td>
+<td>-</td>
+<td>-5.7</td>
+</tr>
+<tr>
+<td>Leases</td>
+<td>0.8</td>
+<td>1.0</td>
+<td>0.2</td>
+<td>-</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>Deferred tax on acquired intangible assets</td>
+<td>-199.0</td>
+<td>17.8</td>
+<td>-31.4</td>
+<td>1.1</td>
+<td>-211.5</td>
+</tr>
+<tr>
+<td>Other</td>
+<td>-17.5</td>
+<td>-11.8</td>
+<td>0.2</td>
+<td></td>
+<td>-29.1</td>
+</tr>
+<tr>
+<td>Deferred tax, net</td>
+<td>-214.1</td>
+<td>5.2</td>
+<td>-31.3</td>
+<td>1.4</td>
+<td>-238.8</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<th>2022-12-31</th>
+<th>Opening amount</th>
+<th>Recognised in the income statement</th>
+<th>Acquisitions and disposals</th>
+<th>Translation effect</th>
+<th>Closing amount</th>
+</tr>
+<tr>
+<td>Deferred tax on loss carryforwards</td>
+<td>7.6</td>
+<td>-2.1</td>
+<td>0.2</td>
+<td>-</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>Untaxed reserves</td>
+<td>-11.3</td>
+<td>7.2</td>
+<td>-</td>
+<td>-</td>
+<td>-4.1</td>
+</tr>
+<tr>
+<td>Leases</td>
+<td>0.5</td>
+<td>0.4</td>
+<td>-</td>
+<td>-</td>
+<td>0.9</td>
+</tr>
+<tr>
+<td>Deferred tax, intangible assets</td>
+<td>-125.2</td>
+<td>12.6</td>
+<td>-87.5</td>
+<td>1.1</td>
+<td>-199.0</td>
+</tr>
+<tr>
+<td>Other</td>
+<td>-5.4</td>
+<td>-11.0</td>
+<td>-0.6</td>
+<td>-0.5</td>
+<td>-17.5</td>
+</tr>
+<tr>
+<td>Deferred tax, net</td>
+<td>-133.8</td>
+<td>7.0</td>
+<td>-87.9</td>
+<td>0.6</td>
+<td>-214.0</td>
+</tr>
+</table>
+
+
+## Note 11 Earnings per share
+
+
+### Earnings per ordinary share before and after dilution
+
+
+<table>
+<tr>
+<th>(SEK)</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Profit for the year attributable to the parent company's shareholders (SEK million)</td>
+<td>444.2</td>
+<td>427.1</td>
+</tr>
+<tr>
+<td>Dividend to preference shareholders (SEK million)</td>
+<td>-14.0</td>
+<td>-14.0</td>
+</tr>
+<tr>
+<td>Profit for the year attributable to the parent company's ordinary shareholders (SEK million)</td>
+<td>430.2</td>
+<td>413.1</td>
+</tr>
+<tr>
+<td>Weighted average number of ordinary shares outstanding during the year before dilution</td>
+<td>37,960,086</td>
+<td>35,828,726</td>
+</tr>
+<tr>
+<td>Effect of share options</td>
+<td>-</td>
+<td>140,897</td>
+</tr>
+<tr>
+<td>Weighted average number of ordinary shares outstanding during the year after dilution</td>
+<td>37,960,086</td>
+<td>35,969,623</td>
+</tr>
+<tr>
+<td>Earnings per average number of ordinary shares before dilution</td>
+<td>11.33</td>
+<td>11.53</td>
+</tr>
+<tr>
+<td>Earnings per average number of ordinary shares after dilution</td>
+<td>11.33</td>
+<td>11.48</td>
+</tr>
+</table>
+
+
+The average weighted number of shares amounted to 37,960,086 (35,828,726) and has been affected by the new
+share issue in November 2022 and the redemption of warrants. The total number of ordinary shares increased by
+190,590 shares during the year.
+
+Earnings per share are calculated as profit after tax attributable to the parent company's shareholders less
+dividends to preference shareholders, divided by the weighted number of outstanding ordinary shares.
+
+Earnings per share after dilution are calculated by adjusting the weighted number of ordinary shares plus the
+dilutive effect of dilution. Warrants under incentive programmes are included in the calculation only if the closing
+price exceeds the subscription price.
+
+The preference share is excluded from the calculation, as the preference share in its format only entitles the holder
+to a dividend of SEK 8 per year: see Note 22 for more information.
+
+Earnings per share after dilution refers to incentive programmes. Please refer to Note 7 for information on the
+programme.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+80
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 12 Goodwill
+
+
+### Accounting policies
+
+Goodwill represents the future economic benefits arising from assets that
+are not individually identifiable, and is recognised separately by the Group
+on acquisition. Goodwill is calculated as the part of the purchase price that
+exceeds the fair value of the percentage of the acquired company's assets
+that the Group acquires on the acquisition date. The cash flows from these
+individual acquisitions are directly and indirectly influenced by the
+coordination that takes place within the segment led by the segment
+manager. A subsidiary therefore contributes to the cash flows of other
+entities within the segment in accordance with IAS 36:81. Therefore, these
+groups of cash-generating entities are aggregated within the segment to
+which they belong for the purpose of monitoring goodwill under IAS 36:82.
+The two business areas represent the lowest level in Sdiptech at which
+goodwill is monitored in the internal governance of the Group. The groups
+of cash-generating entities are not larger than the company's operating
+segments.
+
+Under IFRS 3, the cost of acquisition is equal to the sum of the
+consideration paid, the value of the non-controlling interest in the
+acquisition and the fair value of the previously held interest in the acquired
+subsidiary. Goodwill arising from the acquisition of foreign entities outside
+the Eurozone is treated as an asset of the foreign entity and translated at
+the exchange rate prevailing on the balance sheet date.
+
+
+### Impairment testing of non-financial assets
+
+Under IFRS, goodwill is not amortised but tested annually in accordance
+with IAS 36. Sdiptech tests goodwill for impairment at least annually by
+calculating the value in use of the cash-generating entities on the basis of
+the grouping of the cash-generating entities.
+
+The future cash flows that each group of cash-generating entities is
+expected to generate are discounted in order to determine the value in use
+of the asset. The companies' strategic plan for the next three years
+constitutes the basis for future cash flows; for the period thereafter, growth
+is assumed based on a generally assessed sustainable GDP growth of 2
+per cent (2). Where the calculation indicates that the value in use is less
+than the carrying amount, the impairment test results in an impairment loss.
+The impairment assessment also takes into account additional volatility so
+as to ensure that no reasonably possible changes in the above-mentioned
+inputs are deemed to result in impairment.
+
+The sales forecast is based on assessments of factors such as order
+intake, the economy and market conditions. The forecast of operating
+expenses is based on assessments of gross margin and the development
+of significant cost items for running the companies' operations, such as
+premises, current wage agreements and previous annual levels of gross
+margin and overheads, adapted to an expectation for the coming year on
+the basis of aspects such as those mentioned for the sales forecast.
+
+Anticipated investments in working capital and fixed assets are linked to
+historical data to which specific investment needs of a material nature are
+added on the basis of the strategic plan. Consideration is also given to
+lease assets and liabilities under IFRS 16 that are included in the
+impairment assessment. Significant factors expected to affect future
+outcomes are taken into account in addition to financial projections.
+Forecasts and assessments are made per group of cash flow generating
+entities.
+
+Estimated cash flows for cash-generating entities are discounted using a
+discount rate of 8.7 (8.5) per cent after tax. The cash-generating entities
+operate in several countries. The operational risk in the cash flows is
+considered to be similar, which is why the same discount rate (WACC) has
+been used. In terms of financial risk, the operations are in related industries
+and so the optimal financing structure is deemed to be similar.
+
+The calculation for the year shows that the value in use exceeds the
+carrying amount, while a sensitivity assessment shows that the remaining
+goodwill value would still be defended if the discount rate were to be
+increased by 2 pp. The result of the impairment test for the year is that no
+impairment has been recognised during the financial year (0).
+
+The corporate executive believes that no reasonable changes in the
+significant assumptions made will cause the estimated aggregate
+recoverable amount of the entities above to be less than their aggregate
+carrying amount.
+
+Gains and losses on the disposal of a subsidiary include the goodwill
+attributable to the entity sold. If the Group's share of the net fair value of the
+investment exceeds its cost, after revaluation, the difference is recognised
+directly in the income statement.
+
+The Group's goodwill of SEK 4,625.9 (4,299.0) million relates to the core
+business.
+
+
+### Group goodwill
 
 
 <table>
 <tr>
 <th></th>
-<th>LTIP/ESIP</th>
-<th>MIP</th>
+<th>2023</th>
+<th>2022</th>
 </tr>
 <tr>
-<td>As at 1 January 2023</td>
-<td>607,990</td>
-<td>2,369,265</td>
+<td>Opening acquisition cost</td>
+<td>4,299.1</td>
+<td>3,183.3</td>
 </tr>
 <tr>
-<td>Granted</td>
-<td>303,566</td>
-<td>1,043,446</td>
+<td>Investments</td>
+<td>295.3</td>
+<td>962.2</td>
 </tr>
 <tr>
-<td>Lapsed</td>
-<td>–</td>
-<td>(430,995)</td>
+<td>Adjustment of preliminary acquisition analysis*</td>
+<td>21.6</td>
+<td>12.8</td>
 </tr>
 <tr>
-<td>Exercised</td>
-<td>(221,016)</td>
-<td>(548,085)</td>
+<td>Translation difference for the year</td>
+<td>9.9</td>
+<td>140.7</td>
 </tr>
 <tr>
-<td>As at 31 December 2023</td>
-<td>690,540</td>
-<td>2,433,631</td>
+<td>Closing acquisition cost</td>
+<td>4,625.9</td>
+<td>4,299.1</td>
 </tr>
 </table>
 
+*See Note 3 Business combinations for a specification
 
-### Share option valuation and measurement
 
-In 2023, options were granted on 16 March with the estimated fair value of £0.92 (2022: granted on 15 March with the
-estimated fair value of £0.97). Share options are granted under service and non-market performance conditions. These
-conditions are not taken into account in the fair value measurement at grant date. There are no market conditions associated
-with the share option grants. The options outstanding at 31 December 2023 have an exercise price in the range of 332p to
-534p and a weighted average contractual life of 6.7 years. The fair values of options and other share awards granted during the
-year were calculated using the Black-Scholes option pricing model. The inputs into the model were as follows:
+## Allocation of goodwill between segments
 
 
 <table>
 <tr>
-<th rowspan="2"></th>
-<th colspan="2">Share Option Plans</th>
-<th colspan="2">Management Incentive Plan</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
+<th></th>
 <th>2023</th>
 <th>2022</th>
 </tr>
 <tr>
-<td>Share price (£)</td>
-<td>4.40</td>
-<td>4.92</td>
-<td>4.40</td>
-<td>4.92</td>
+<td>Resource Efficiency</td>
+<td>1,800.4</td>
+<td>1,507.4</td>
 </tr>
 <tr>
-<td>Average exercise price (£)</td>
-<td>4.40</td>
-<td>4.92</td>
-<td>Nil</td>
-<td>Nil</td>
-</tr>
-<tr>
-<td>Weighted average fair value (£)</td>
-<td>0.92</td>
-<td>0.97</td>
-<td>3.58</td>
-<td>3.93</td>
-</tr>
-<tr>
-<td>Expected volatility</td>
-<td>38.31%</td>
-<td>38.14%</td>
-<td>38.31%</td>
-<td>38.14%</td>
-</tr>
-<tr>
-<td>Expected life</td>
-<td>5 years</td>
-<td>5 years</td>
-<td>3 years</td>
-<td>3 years</td>
-</tr>
-<tr>
-<td>Risk free rate</td>
-<td>4.69%</td>
-<td>1.76%</td>
-<td>4.69%</td>
-<td>1.76%</td>
-</tr>
-<tr>
-<td>Expected dividend yield</td>
-<td>6.87%</td>
-<td>5.82%</td>
-<td>6.87%</td>
-<td>5.82%</td>
+<td>Special Infrastructure Solutions</td>
+<td>2,825.4</td>
+<td>2,791.6</td>
 </tr>
 </table>
 
 
-Expected volatility was determined by reference to historical volatility of the Company's share price in the last 36 months. The
-expected life used in the model has been adjusted, based on management's best estimate, for the effects of non-transferability,
-exercise restrictions and behavioural considerations. Expectations of early exercise are incorporated into the Black-Scholes
-option pricing model.
+## Note 13 Other intangible assets
 
-The Group recognised total expenses of £5.5m, excluding social security, (2022: £6.0m) related to share-based payment
-transactions during the year.
 
-171 PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-172
-ADDITIONAL INFORMATION
-FINANCIAL STATEMENTS
-CORPORATE GOVERNANCE
-STRATEGIC REPORT
+### Accounting policies
+
+Intangible assets include capitalised development costs, IT software,
+patents, trademarks, licences and other rights. These are broken down into
+acquired intangible assets and intangible assets generated internally
+
+
+### Development costs
+
+The Group conducts certain development activities in the form of
+development and patenting of both products and technologies.
+Development expenditure is recognised as development costs in the
+income statement as incurred. If the requirements for internally generated
+intangible assets under IAS 38 are met, the development that has taken
+place is capitalised and included in the Other intangible assets item. The
+standard requires development costs to relate to identifiable and unique
+assets controlled by the Group. Capitalisation occurs if it is technically
+feasible to complete the asset, if the intention is to use or sell the asset, if it
+can be demonstrated that future economic benefits are likely, and if the
+expenditure can be measured reliably.
+
+
+### Other intangible assets
+
+Acquired intangible assets must be recognised separately from goodwill if
+they meet the definition of an asset, if they are either separable or arise
+from contracts or other legal rights and if their fair value can be measured
+reliably.
+
+The Group identifies and measures intangible assets in major acquisitions
+on the basis of customer-related, brand or technology-based intangible
+assets and assesses the useful life of the asset. A simplified approach is
+adopted for smaller acquisitions whereby the most significant value is
+identified. Trade names, service marks, certification marks, customer
+records, order or production backlogs, long-term contracts with customers
+and related customer relationships are typical customer-related and brand
+assets. Technology-based intangible assets normally consist of patented
+technology and software. The valuation of contracts with customers and
+related customer relationships at fair value is based on the proportion of
+these which is expected to be retained and the expected remaining cash
+flow from the customer.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+81
 ---
 
-
-# 20. RESERVES
-
-
-## Share premium
-
-The share premium account has been established to represent the excess of proceeds over the nominal value for all share issues,
-including the excess of the exercise share price over the nominal value of the shares on the exercise of share options.
-
-
-## Capital redemption reserve
-
-The capital redemption reserve relates to the cancellation of the Company's own shares.
-
-
-## Reserve for shares held in the Employee Benefit Trust
-
-At 31 December 2023, the reserve for shares held in the employee benefit trust consisted of 14,883, 172 ordinary shares (2022:
-12,359,110 ordinary shares) held for the purpose of satisfying awards made under the Management Incentive Share Plan, the ESIP
-and the SOS, representing 4.5% of the called-up share capital with a market value of £72.5m (2022: £57.0m).
-
-There are 13,236,001 (2022: 10,712,614) of these shares held in the trust on which dividends are waived.
-
-
-## Currency translation reserve
-
-Since first-time adoption of the International Financial Reporting Standards, the currency translation reserve comprises all foreign
-exchange differences arising from the translation of the financial statements of foreign operations that are integral to the operations
-of the Company.
-
-
-## 21. CASH AND CASH EQUIVALENTS
-
-
-<table>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Group</th>
-<th colspan="2">Company</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Cash at bank and in hand</td>
-<td>90,138</td>
-<td>131,480</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Short-term deposits</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Cash and cash equivalents</td>
-<td>90,138</td>
-<td>131,480</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Cash and cash equivalents in the statement of cash flows</td>
-<td>90,138</td>
-<td>131,480</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>Net funds</td>
-<td>90,138</td>
-<td>131,480</td>
-<td>–</td>
-<td>–</td>
-</tr>
-</table>
-
-
-The Group operates multi-currency cash concentration and notional cash pools, and an interest enhancement facility. The Eurozone
-subsidiaries and the UK-based Group Treasury subsidiary participate in the cash concentration arrangement, the Group Treasury
-subsidiary retains the notional cash pool and the Asia Pacific subsidiaries operate the interest enhancement facility. The structures
-facilitate interest compensation of cash whilst supporting working capital requirements.
-
-
-# 22. FINANCIAL RISK MANAGEMENT
-
-The Group has exposure to the following risks from its use of financial instruments:
-
-(i) credit risk
-
-(ii) liquidity risk
-
-(iii) market risk
-
-This note presents information about the Group's exposure to each of the above risks, the Group's objectives, policies and
-processes for measuring and managing risk, and the Group's management of capital. Further quantitative disclosures are included
-throughout these consolidated financial statements.
-
-The Board of Directors has overall responsibility for the establishment and oversight of the Group's risk management framework.
-
-The Group's risk management policies are established to identify and analyse the risks faced by the Group, to set appropriate risk
-limits and controls, and to monitor risks and adherence to limits. Risk management policies and systems are reviewed regularly to
-reflect changes in market conditions and the Group's activities. The Group, through its training and management standards and
-procedures, aims to develop a disciplined and constructive control environment in which all employees understand their roles and
-obligations.
-
-The Audit Committee oversees how management monitors compliance with the Group's risk management policies and procedures
-and reviews the adequacy of the risk management framework in relation to the risks faced by the Group. The Audit Committee
-is assisted in its oversight role by Internal Audit. Internal Audit undertakes both regular and ad hoc reviews of risk management
-controls and procedures, the results of which are reported to the Audit Committee.
-
-
-## (i) Credit risk
-
-Credit risk is the risk of financial loss to the Group if a client or counterparty to a financial instrument fails to meet its contractual
-obligations, and arises principally from the Group's receivables from clients. Management has a credit policy in place and the
-exposure to credit risk is monitored on an ongoing basis.
-
-At the balance sheet date there were no significant concentrations of credit risk. The maximum exposure to credit risk is
-represented by the carrying amount of each financial asset in the balance sheet.
-
-
-### Trade and other receivables
-
-Total trade receivables (net of allowances) held by the Group at 31 December 2023 amounted to £270.5m (2022: £307.8m).
-
-An initial credit period is made available on invoices. No interest is charged on trade receivables from the date of the invoice
-during this credit period. An impairment analysis is performed at each reporting date using a provision matrix to measure the
-expected credit losses. The Group has established a provision matrix that is based on its historical credit loss experience
-adjusted for forward-looking factors specific to the debtors and the economic environment.
-
-Included in the Group's trade receivables balance are debtors with a carrying amount of £106.0m (2022: £127.3m) that are past
-due at the reporting date for which the Group has not provided as the amounts are still considered recoverable. The Group does
-not hold any collateral over these balances. The days' sales of these receivables at the year end is 42 days in excess of the initial
-credit period (2022: 45 days).
-
-In the table below, the provision includes expected credit losses.
-
-The ageing of trade receivables at the reporting date was:
-
-
-<table>
-<tr>
-<th rowspan="3"></th>
-<th colspan="3">2023</th>
-<th colspan="3">2022</th>
-</tr>
-<tr>
-<th>Gross trade receivables</th>
-<th>Provision</th>
-<th>Net trade receivables</th>
-<th>Gross trade receivables</th>
-<th>Provision</th>
-<th>Net trade receivables</th>
-</tr>
-<tr>
-<th>000.3</th>
-<th>000.3</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Not past due</td>
-<td>165,572</td>
-<td>(1,066)</td>
-<td>164,506</td>
-<td>181,728</td>
-<td>(1,155)</td>
-<td>180,573</td>
-</tr>
-<tr>
-<td>Past due 0-30 days</td>
-<td>62,744</td>
-<td>(405)</td>
-<td>62,339</td>
-<td>71,646</td>
-<td>(456)</td>
-<td>71,190</td>
-</tr>
-<tr>
-<td>Past due 31-150 days</td>
-<td>41,406</td>
-<td>(29)</td>
-<td>41,377</td>
-<td>53,350</td>
-<td>(339)</td>
-<td>53,011</td>
-</tr>
-<tr>
-<td>More than 150 days</td>
-<td>11,930</td>
-<td>(9,644)</td>
-<td>2,286</td>
-<td>14,070</td>
-<td>(11,010)</td>
-<td>3,060</td>
-</tr>
-<tr>
-<td></td>
-<td>281,652</td>
-<td>(11,144)</td>
-<td>270,508</td>
-<td>320,794</td>
-<td>(12,960)</td>
-<td>307,834</td>
-</tr>
-</table>
-
-
-The Group's exposure to credit risk is influenced mainly by the individual characteristics of each client. The demographics of
-the Group's client base, including the country in which clients operate, also has an influence on credit risk. The geographic
-diversification of the Group's revenue also reduces the concentration of credit risk.
-
-The majority of the Group's clients have been transacting with the Group for several years, with losses rarely occurring. In
-monitoring client credit risk, clients are grouped according to their credit characteristics, including geographic location, industry,
-ageing profile, maturity and existence of previous financial difficulties.
-
-Movement in the allowance for expected credit losses
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>000.3</th>
-</tr>
-<tr>
-<td>Balance at beginning of the year</td>
-<td>12,960</td>
-<td>11,086</td>
-</tr>
-<tr>
-<td>Expected credit losses recognised on receivables</td>
-<td>35,114</td>
-<td>25,265</td>
-</tr>
-<tr>
-<td>Amounts written off as uncollectable</td>
-<td>(3,278)</td>
-<td>(2,914)</td>
-</tr>
-<tr>
-<td>Amounts recovered/reversed during the year</td>
-<td>(33,652)</td>
-<td>(20,477)</td>
-</tr>
-<tr>
-<td>Balance at end of the year</td>
-<td>11,144</td>
-<td>12,960</td>
-</tr>
-</table>
-
-
-The allowance for expected credit losses represents a provision for debts which the Group estimate may be irrecoverable,
-including £6.7m (2022: £6.7m) of debts in litigation.
-
-The impairment recognised represents the difference between the carrying amount of these trade receivables and the present
-value of the expected liquidation proceeds. The Group does not hold any collateral over these balances.
-
-STRATEGIC REPORT
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY GROUP
 CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-173
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-174
----
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
 
 
-### Exposure to credit risk
+### Note 13, cont.
 
-The maximum exposure to credit risk for receivables at the reporting date by geographic region was:
+Trademarks are valued using a discounted cash flow analysis according to
+the relief from royalty method.
+
+Other intangible assets are recognised if it is probable that the future
+economic benefits attributable to the asset will flow to the Group and that
+the cost of the asset can be measured reliably.
+
+Intangible assets normally have a limited useful life. These assets are
+recognised at cost less accumulated depreciation and any accumulated
+impairment losses.
+
+Amortisation of intangible assets
+
+Amortisation is recognised in profit or loss on a straight-line basis over the
+estimated useful life of the intangible assets at cost less accumulated
+amortisation and any accumulated impairment losses. Goodwill is not
+amortised.
+
+The following depreciation periods are applied:
+IPR, patents and licences: 5-15 years Trademarks: 5-25 years
+Customer relations: 3-15 years
+R&D: 5-20 years
+Software: 5-10 years
+
+
+### Impairment testing of intangible assets
+
+Assets that are depreciated or impaired are reviewed for impairment
+whenever events or changes in circumstances indicate that the carrying
+amount may not be recoverable. The impairment made corresponds to the
+amount by which the book value of the asset exceeds its recovery value.
+The recovery value is the highest of asset's fair value minus sales costs and
+value in use. For intangible assets, the testing period was the remaining
+expected economic life of the asset.
+
+For intangible assets, an assessment is made at each balance sheet date as
+to whether a reversal should take place. Impairment loss is only reversed to
+the extent that the asset's carrying amount after reversal does not exceed
+the carrying amount that the asset would have had if impairment had not
+been recognised-accounting for depreciation or amortisation that would
+have occurred.
+
+The year's increase in intangible assets relates mainly to acquired intangible
+assets: see Note 3 Business combinations. Moreover, intangible assets
+have increased due to the capitalisation of research and development for
+proprietary products and services. Other intangible assets include
+software.
+
+
+## Intangible assets
 
 
 <table>
 <tr>
-<th rowspan="3"></th>
-<th colspan="2">Net trade receivables</th>
+<th rowspan="3">Acquisition value</th>
+<th rowspan="3">Note</th>
+<th colspan="7">Group</th>
+<th rowspan="2">Parent company Other intangible assets</th>
 </tr>
 <tr>
-<th>2023</th>
-<th>2022</th>
+<th colspan="3">Acquired intangible assets</th>
+<th colspan="4">Internally generated intangible assets</th>
 </tr>
 <tr>
-<th>000.3</th>
-<th>000.3</th>
+<th>IPR, patents and licences</th>
+<th>Brands and trademarks</th>
+<th>Customer relations</th>
+<th>Capitalised expenditure for R&amp;D</th>
+<th>Patents and licences</th>
+<th>Other</th>
+<th>Total</th>
+<th>Software</th>
 </tr>
 <tr>
-<td>EMEA</td>
-<td>171,473</td>
-<td>191,699</td>
-</tr>
-<tr>
-<td>United Kingdom</td>
-<td>36,521</td>
-<td>45,101</td>
-</tr>
-<tr>
-<td>Asia Pacific</td>
-<td>27,903</td>
-<td>32,027</td>
-</tr>
-<tr>
-<td>Americas</td>
-<td>34,611</td>
-<td>39,007</td>
-</tr>
-<tr>
+<td>As of 1 January 2022</td>
 <td></td>
-<td>270,508</td>
-<td>307,834</td>
-</tr>
-</table>
-
-
-The fair values of trade and other receivables are not materially different to those disclosed above and in note 14. There is no
-material effect on pre-tax profit if the instruments are accounted for at fair value or amortised cost.
-
-
-## (ii) Liquidity risk management
-
-Ultimate responsibility for liquidity risk management rests with the Board, which has built an appropriate liquidity risk management
-framework that aims to ensure that the Group has sufficient cash or credit facilities at all times to meet all current and forecast
-liabilities as they fall due. It is the Directors' intention to continue to finance the activities and development of the Group from
-retained earnings.
-
-Cash surpluses were invested in short-term deposits, with any working capital requirements being provided from Group cash
-resources, Group facilities, or by local overdraft facilities. The Group also operates a multi-currency notional cash pool to facilitate
-interest and balance compensation of cash and bank overdrafts.
-
-The following are the contractual maturities of financial liabilities:
-
-
-<table>
-<tr>
-<th>2023</th>
-<th>Less than 1 month 000.3</th>
-<th>1-3 months 000.3</th>
-<th>3-12 months 000.3</th>
-<th>More than 12 months 000.3</th>
+<td>202.5</td>
+<td>206.2</td>
+<td>228.9</td>
+<td>89.5</td>
+<td>2.6</td>
+<td>79.3</td>
+<td>809.0</td>
+<td>0.9</td>
 </tr>
 <tr>
-<td>Lease liabilities</td>
-<td>2,832</td>
-<td>5,664</td>
-<td>25,487</td>
-<td>84,641</td>
-</tr>
-<tr>
-<td>Trade payables</td>
-<td>6,915</td>
-<td>1,451</td>
-<td>16</td>
+<td>Investments</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>60.3</td>
+<td>3.6</td>
+<td>6.8</td>
+<td>70.7</td>
 <td>-</td>
 </tr>
 <tr>
-<td>Accruals and other payables</td>
-<td>124,431</td>
-<td>29,368</td>
-<td>36,116</td>
-<td>9,111</td>
+<td>Via business combinations</td>
+<td>3</td>
+<td>44.5</td>
+<td>87.8</td>
+<td>279.3</td>
+<td>5.4</td>
+<td>2.0</td>
+<td>0.6</td>
+<td>419.6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Retirements</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-0.1</td>
+<td>-</td>
+<td>-0.1</td>
+<td>-0.2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reclassification</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2.0</td>
+<td>-</td>
+<td>-1.7</td>
+<td>0.3</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Translation difference</td>
+<td></td>
+<td>7.1</td>
+<td>10.2</td>
+<td>10.1</td>
+<td>2.2</td>
+<td>0.1</td>
+<td>6.2</td>
+<td>35.9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>As of 1 January 2023</td>
+<td></td>
+<td>254.1</td>
+<td>304.2</td>
+<td>518.3</td>
+<td>159.3</td>
+<td>8.3</td>
+<td>91.1</td>
+<td>1,335.3</td>
+<td>0.9</td>
+</tr>
+<tr>
+<td>Investments</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>51.9</td>
+<td>-</td>
+<td>14.3</td>
+<td>66.2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Via business combinations</td>
+<td>3</td>
+<td>25.7</td>
+<td>42.2</td>
+<td>68.3</td>
+<td>16.3</td>
+<td>9.6</td>
+<td>0.2</td>
+<td>162.3</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Retirements</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-0.4</td>
+<td>-</td>
+<td>-</td>
+<td>-0.4</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reclassification</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>23.5</td>
+<td>-</td>
+<td>-11.7</td>
+<td>11.8</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Translation difference</td>
+<td></td>
+<td>2.1</td>
+<td>2.3</td>
+<td>4.1</td>
+<td>1.8</td>
+<td>-</td>
+<td>-0.1</td>
+<td>10.2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>As of 31 December 2023</td>
+<td></td>
+<td>281.9</td>
+<td>348.7</td>
+<td>590.7</td>
+<td>252.4</td>
+<td>17.9</td>
+<td>93.8</td>
+<td>1,585.4</td>
+<td>0.9</td>
+</tr>
+<tr>
+<td>Accumulated depreciation</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>As of 1 January 2022</td>
+<td></td>
+<td>-30.3</td>
+<td>-12.1</td>
+<td>-16.5</td>
+<td>-55.7</td>
+<td>-1.7</td>
+<td>-28.0</td>
+<td>-144.3</td>
+<td>-0.7</td>
+</tr>
+<tr>
+<td>Depreciation/amortisation for the year</td>
+<td></td>
+<td>-21.4</td>
+<td>-17.0</td>
+<td>-21.8</td>
+<td>-14.6</td>
+<td>-0.6</td>
+<td>-5.4</td>
+<td>-80.8</td>
+<td>-0.1</td>
+</tr>
+<tr>
+<td>Retirements</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0.1</td>
+<td>0.1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reclassification</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-0.5</td>
+<td>-</td>
+<td>-0.5</td>
+<td>-1.0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Translation difference</td>
+<td></td>
+<td>-1.5</td>
+<td>-0.9</td>
+<td>-1.2</td>
+<td>-1.6</td>
+<td>-0.2</td>
+<td>-2.5</td>
+<td>-7.9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>As of 1 January 2023</td>
+<td></td>
+<td>-53.2</td>
+<td>-30.0</td>
+<td>-39.5</td>
+<td>-72.4</td>
+<td>-2.5</td>
+<td>-36.3</td>
+<td>-233.9</td>
+<td>-0.8</td>
+</tr>
+<tr>
+<td>Depreciation/amortisation for the year</td>
+<td></td>
+<td>-25.3</td>
+<td>-22.1</td>
+<td>-38.0</td>
+<td>-31.7</td>
+<td>-1.6</td>
+<td>-6.7</td>
+<td>-125.4</td>
+<td>-0.1</td>
+</tr>
+<tr>
+<td>Retirements</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0.2</td>
+<td>-</td>
+<td>-</td>
+<td>0.2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reclassification</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-5.5</td>
+<td>-</td>
+<td>-0.4</td>
+<td>-5.9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Translation difference</td>
+<td></td>
+<td>0.3</td>
+<td>0.4</td>
+<td>1.6</td>
+<td>0.3</td>
+<td>0.1</td>
+<td>0.2</td>
+<td>2.9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>As of 31 December 2023</td>
+<td></td>
+<td>-78.2</td>
+<td>-51.7</td>
+<td>-75.9</td>
+<td>-109.1</td>
+<td>-4.0</td>
+<td>-43.2</td>
+<td>-362.1</td>
+<td>-0.8</td>
+</tr>
+<tr>
+<td>Book value</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2022-12-31</td>
+<td></td>
+<td>200.9</td>
+<td>274.2</td>
+<td>478.8</td>
+<td>86.9</td>
+<td>5.8</td>
+<td>54.9</td>
+<td>1,101.6</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>2023-12-31</td>
+<td></td>
+<td>203.7</td>
+<td>297.0</td>
+<td>514.8</td>
+<td>143.3</td>
+<td>13.9</td>
+<td>50.6</td>
+<td>1,223.5</td>
+<td>0.1</td>
 </tr>
 </table>
 
 
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+82
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 14 Fixed assets
+
+
+### Accounting policies
+
+Tangible assets acquired by Group companies are recognised at cost.
+Assets coming into the Group in connection with the acquisition of new
+subsidiaries are recognised at fair value at the date of acquisition. They are
+amortised on a pro rata basis over their estimated useful life, adjusted for
+any impairment and disposal costs.
+
+The value in the consolidated statement of financial position represents
+expenses less grants and subsidies received, and less accumulated
+depreciation and any impairment losses. Interest costs on loans for funding
+the construction of such assets are capitalised as part of the acquisition
+cost when the facility is completed.
+
+
 <table>
 <tr>
-<th rowspan="2">2022</th>
-<th>Less than 1 month</th>
-<th>1-3 months</th>
-<th>3-12 months</th>
-<th>More than 12 months</th>
+<th rowspan="2">Acquisition value</th>
+<th rowspan="2">Note</th>
+<th colspan="2">Group</th>
+<th></th>
+<th>Parent company</th>
 </tr>
 <tr>
-<th>000.3</th>
-<th>000.3</th>
-<th>£'000</th>
-<th>000.3</th>
+<th>Offices and industrial buildings</th>
+<th>Equipment, tools, fixtures and fittings</th>
+<th>Total</th>
+<th>Equipment, tools, fixtures and fittings</th>
 </tr>
 <tr>
-<td>Lease liabilities</td>
-<td>3,432</td>
-<td>5,503</td>
-<td>24,547</td>
-<td>81,685</td>
+<td>As of 1 January 2022</td>
+<td></td>
+<td>68.3</td>
+<td>279.5</td>
+<td>347.8</td>
+<td>2.9</td>
 </tr>
 <tr>
-<td>Trade payables</td>
-<td>10,547</td>
-<td>349</td>
-<td>191</td>
-<td>–</td>
+<td>Investments</td>
+<td></td>
+<td>20.5</td>
+<td>64.7</td>
+<td>85.2</td>
+<td>0.2</td>
 </tr>
 <tr>
-<td>Accruals and other payables</td>
-<td>154,942</td>
-<td>26,657</td>
-<td>34,969</td>
-<td>14,259</td>
+<td>Via business combinations</td>
+<td>3</td>
+<td>45.2</td>
+<td>85.8</td>
+<td>131.0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Sales/disposals</td>
+<td></td>
+<td>-</td>
+<td>-8.7</td>
+<td>-8.7</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reclassification</td>
+<td></td>
+<td>-</td>
+<td>10.4</td>
+<td>10.4</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Translation difference</td>
+<td></td>
+<td>2.5</td>
+<td>10.1</td>
+<td>12.6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>As of 1 January 2023</td>
+<td></td>
+<td>136.5</td>
+<td>441.8</td>
+<td>578.3</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td>Investments</td>
+<td></td>
+<td>3.1</td>
+<td>132.9</td>
+<td>136.0</td>
+<td>0.2</td>
+</tr>
+<tr>
+<td>Via business combinations</td>
+<td>3</td>
+<td>1.6</td>
+<td>10.1</td>
+<td>11.7</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Sales/disposals</td>
+<td></td>
+<td>-9.8</td>
+<td>-41.7</td>
+<td>-51.5</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reclassification</td>
+<td></td>
+<td>-</td>
+<td>-17.3</td>
+<td>-17.3</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Translation difference</td>
+<td></td>
+<td>-</td>
+<td>2.9</td>
+<td>2.9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>As of 31 December 2023</td>
+<td></td>
+<td>131.4</td>
+<td>528.7</td>
+<td>660.1</td>
+<td>3.3</td>
+</tr>
+<tr>
+<td>Accumulated depreciation</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>As of 1 January 2022</td>
+<td></td>
+<td>-8.4</td>
+<td>-99.7</td>
+<td>-108.1</td>
+<td>-1.4</td>
+</tr>
+<tr>
+<td>Depreciation/amortisation for the year</td>
+<td></td>
+<td>-6.6</td>
+<td>-59.8</td>
+<td>-66.4</td>
+<td>-0.5</td>
+</tr>
+<tr>
+<td>Sales/disposals</td>
+<td></td>
+<td>-</td>
+<td>10.7</td>
+<td>10.7</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reclassification</td>
+<td></td>
+<td>-0.1</td>
+<td>-2.3</td>
+<td>-2.4</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Translation difference</td>
+<td></td>
+<td>-1.9</td>
+<td>-6.7</td>
+<td>-8.6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>As of 1 January 2023</td>
+<td></td>
+<td>-17.0</td>
+<td>-157.8</td>
+<td>-174.8</td>
+<td>-1.9</td>
+</tr>
+<tr>
+<td>Depreciation/amortisation for the year</td>
+<td></td>
+<td>-8.6</td>
+<td>-80.1</td>
+<td>-88.7</td>
+<td>-0.5</td>
+</tr>
+<tr>
+<td>Sales/disposals</td>
+<td></td>
+<td>1.1</td>
+<td>35.0</td>
+<td>36.1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reclassification</td>
+<td></td>
+<td>-0.4</td>
+<td>-1.3</td>
+<td>-1.7</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Translation difference</td>
+<td></td>
+<td>0.1</td>
+<td>0.3</td>
+<td>0.4</td>
+<td>-</td>
+</tr>
+<tr>
+<td>As of 31 December 2023</td>
+<td></td>
+<td>-24.8</td>
+<td>-203.9</td>
+<td>-228.7</td>
+<td>-2.4</td>
+</tr>
+<tr>
+<td>Book value</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2022-12-31</td>
+<td></td>
+<td>119.5</td>
+<td>284.0</td>
+<td>403.5</td>
+<td>1.2</td>
+</tr>
+<tr>
+<td>2023-12-31</td>
+<td></td>
+<td>106.6</td>
+<td>324.8</td>
+<td>431.4</td>
+<td>0.9</td>
 </tr>
 </table>
 
 
-The above are the contractual cashflows before discounting at the incremental borrowing rate.
+Land is considered to have an indefinite useful life and is not amortised, but
+is tested at least annually for impairment. Amortisation for other assets is
+based on the following expected useful lives:
 
-Capital is equity attributable to the equity holders of the Parent. The primary objective of the Group's capital management is to
-ensure that it maintains a strong credit rating and healthy capital ratios to support the business and maximise Shareholder value.
-The Group manages its capital structure and makes adjustments to it in light of changes in economic conditions. To maintain or
-adjust the capital structure, the Group may adjust the dividend payment to Shareholders, return capital to Shareholders through
-share repurchases with subsequent cancellation, or issue new shares. No changes were made in the objectives, policies or
-processes for managing capital during the years ended 31 December 2023 and 31 December 2022.
-
-
-## (iii) Market risk and sensitivity analysis
-
-The Group's activities expose it primarily to the financial risks of changes in foreign currency exchange rates and interest rates,
-but these risks are not deemed to be material. However, a sensitivity analysis showing hypothetical fluctuations in Sterling against
-the Group's main exposure currencies is shown on the next page. There has been no material change in the Group's exposure to
-market risks or the manner in which it manages and measures the risk.
+The cost of tangible assets is depreciated over their estimated useful life,
+which results in the following average depreciation periods for the Group:
+Equipment, tools, fixtures and fittings: 3-15 years
+Office and industrial buildings: 25-50 years
 
 
-### Interest rate risk management
+#### Impairment and reversal of impairment of tangible assets
 
-Borrowings are arranged at floating rates, thus exposing the Group to cash flow interest rate risk. The Group does not consider this
-risk as significant. The benchmark rates for determining floating rate liabilities are based on relevant national LIBOR equivalents.
-
-
-### Currency rate risk
-
-The Group publishes its results in Sterling and conducts its business in many foreign currencies. As a result, the Group is subject
-to foreign currency exchange risk due to exchange rate movements. The Group is exposed to foreign currency exchange risk
-as a result of transactions in currencies other than the functional currencies of some of its subsidiaries and the translation of the
-results and underlying net assets of foreign subsidiaries.
-
-The main functional currencies of the Group are Sterling, Euro, Chinese Renminbi, Swiss Franc, Singapore Dollar, Hong Kong
-Dollar, Australian Dollar and US Dollar. The Group does not have material transactional currency exposures. The Group is
-exposed to foreign currency translation differences in accounting for its overseas operations. The Group policy is not to hedge
-translation exposure.
-
-In certain cases, where the Company gives or receives short-term loans to and from other Group companies with different
-reporting currencies, it may use foreign exchange rate derivatives to manage the currency exposure that arises on these loans.
-It is the Group's policy not to seek to designate these derivatives as hedges.
-
-All derivative financial instruments are classified as derivatives at fair value through the income statement. The Group does not
-use derivatives for speculative purposes. All transactions in derivative financial instruments are undertaken to manage the risks
-arising from underlying business activities.
-
-Information on the fair value of derivative financial instruments held at the balance sheet date is shown in the table below. Net
-losses of £1.8m (2022: gains of £3.4m) have been included as part of the foreign exchange losses for the year (note 3).
-
-Fair values are not adjusted for credit risk, as required by IFRS 13, because credit impact is not material given the low fair value
-levels. All derivative instruments are classified as level 2 instruments.
+Assets that are depreciated or impaired are reviewed for impairment
+whenever events or changes in circumstances indicate that the carrying
+amount may not be recoverable.
 
 
-#### Derivative financial instruments
+## Note 15 Leases
+
+
+### Accounting policies
+
+When a contract is signed, the Group must assess whether the contract is,
+or contains, a lease. A contract is, or contains, a lease if the contract
+conveys the right to control the use of a specific asset for a specified period
+of time in exchange for payment (see Note 23 in respect of lease liabilities)
+and there is no substantive right of exchange.
+
+At the start of the lease or on reassessment of a lease containing multiple
+components, lease and non-lease components, the Group allocates the
+consideration under the lease to each component based on the stand-
+alone price. Expenditure related to non-lease components is expensed.
+Components that cannot be separated are recognised as a single lease
+component. Lease terms are negotiated on the basis of individual
+assessments and include a variety of conditions.
+
+Sdiptech has chosen to apply two relief rules in connection with lease
+accounting; no right-of-use asset and lease liability are recognised for
+leases with a term of less than 12 months, or if the agreement relates to an
+underlying asset of low value. Lease payments for these leases are
+recognised as an expense on a straight-line basis over the lease term.
+For impairment testing, see the section entitled Impairment and reversal of
+impairment in Note 14.
+
+
+### Leases where the Group is the lessee
+
+The Group has many small and medium-sized subsidiaries in various
+countries and locations. As a result, there are a large number of contracts
+and many different terms and conditions. There are no individually
+significant leases for the Group.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+83
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+### Note 15, cont.
+
+
+#### Premises
+
+Sdiptech has about 70 rental agreements related to premises for
+warehouses and offices. Lease agreements normally have a duration of
+between 3 and 20 years, the duration varying between types of premises,
+but also to a large extent between different geographical regions.
+Extension options exist to varying degrees as part of statutory security of
+tenure in some markets. The assessment of whether the extension option
+will be exercised is assessed on the balance sheet date on the basis of
+whether it can be assessed with reasonable certainty that the contract will
+be extended, given a number of parameters linked to the individual
+company's development and growth, such as investments made in the
+premises.
+
+The Group has variable lease payments in its lease agreements, such as
+property tax, VAT and other variable property costs such as maintenance
+costs, electricity, heating and water, etc. These are excluded from the lease
+liability calculation insofar as the costs can be easily separated from the
+rental cost. None of the leases include significant variable lease payments.
+
+
+#### Vehicles
+
+The Group leases vehicles with lease periods that normally run for 3-5
+years. Most of the leases run until the end date of the underlying lease
+agreement. Extension options exist only to an insignificant extent. There
+are also residual value guarantees in some instances. These are treated as
+part of the asset and liability if it is deemed likely that they will be utilised.
+
+
+#### Other contracts
+
+There are also other leases such as machinery and IT equipment, with
+lease periods of between two and ten years.
+
+
+#### Leases where the Group is the lessor
+
+There are a few entities in the Group that offer rental of products, in addition
+to sales. Revenue from the rental of goods is recognised on a straight-line
+basis over the lease term. There is also one company that has an
+agreement regarding the rental of part of the office premises on the
+balance sheet date, which is not considered to be the companies' operating
+activities; revenue for remuneration is recognised under other income. The
+contracts are deemed immaterial for the Group.
+
+
+<table>
+<caption>Right-of-use assets</caption>
+<tr>
+<th rowspan="2">Acquisition value</th>
+<th colspan="5">Group</th>
+</tr>
+<tr>
+<th>Premises</th>
+<th>Vehicles</th>
+<th>Machinery</th>
+<th>Other</th>
+<th>Total</th>
+</tr>
+<tr>
+<td>As of 1 January 2022</td>
+<td>203.4</td>
+<td>78.8</td>
+<td>3.8</td>
+<td>6.8</td>
+<td>292.8</td>
+</tr>
+<tr>
+<td>New acquisitions</td>
+<td>56.8</td>
+<td>21.3</td>
+<td>0.2</td>
+<td>0.2</td>
+<td>78.5</td>
+</tr>
+<tr>
+<td>Acquisition of business</td>
+<td>24.7</td>
+<td>9.6</td>
+<td>125.7</td>
+<td>-</td>
+<td>160.0</td>
+</tr>
+<tr>
+<td>Disposals and retirements</td>
+<td>-4.9</td>
+<td>-10.9</td>
+<td>-</td>
+<td>-1.1</td>
+<td>-16.9</td>
+</tr>
+<tr>
+<td>Translation differences for the year</td>
+<td>6.9</td>
+<td>1.1</td>
+<td>-</td>
+<td>0.1</td>
+<td>8.1</td>
+</tr>
+<tr>
+<td>As of 1 January 2023</td>
+<td>286.9</td>
+<td>99.9</td>
+<td>129.6</td>
+<td>6.0</td>
+<td>522.4</td>
+</tr>
+<tr>
+<td>New acquisitions</td>
+<td>99.6</td>
+<td>22.9</td>
+<td>10.8</td>
+<td>0.8</td>
+<td>134.1</td>
+</tr>
+<tr>
+<td>Acquisition of business</td>
+<td>51.6</td>
+<td>1.3</td>
+<td>-</td>
+<td>-</td>
+<td>52.9</td>
+</tr>
+<tr>
+<td>Disposals and retirements</td>
+<td>-</td>
+<td>-1.0</td>
+<td>-37.1</td>
+<td>-5.2</td>
+<td>-43.3</td>
+</tr>
+<tr>
+<td>Translation differences for the year</td>
+<td>1.2</td>
+<td>0.1</td>
+<td>-0.3</td>
+<td>-</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>As of 31 December 2023</td>
+<td>439.3</td>
+<td>123.2</td>
+<td>103.0</td>
+<td>1.6</td>
+<td>667.1</td>
+</tr>
+<tr>
+<td>Accumulated depreciation</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>As of 1 January 2022</td>
+<td>-59.4</td>
+<td>-33.2</td>
+<td>-1.5</td>
+<td>-2.9</td>
+<td>-96.9</td>
+</tr>
+<tr>
+<td>Depreciation and amortisation for the year</td>
+<td>-40.7</td>
+<td>-18.5</td>
+<td>-2.6</td>
+<td>-2.2</td>
+<td>-64.0</td>
+</tr>
+<tr>
+<td>Disposals and retirements</td>
+<td>4.9</td>
+<td>13.3</td>
+<td>-</td>
+<td>1.1</td>
+<td>19.3</td>
+</tr>
+<tr>
+<td>Translation differences for the year</td>
+<td>-1.7</td>
+<td>-0.6</td>
+<td>-1.4</td>
+<td>-</td>
+<td>-3.7</td>
+</tr>
+<tr>
+<td>As of 1 January 2023</td>
+<td>-96.9</td>
+<td>-39.0</td>
+<td>-5.5</td>
+<td>-3.9</td>
+<td>-145.3</td>
+</tr>
+<tr>
+<td>Depreciation and amortisation for the year</td>
+<td>-54.3</td>
+<td>-26.9</td>
+<td>-10.9</td>
+<td>-2.4</td>
+<td>-94.5</td>
+</tr>
+<tr>
+<td>Reclassifications</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>Disposals and retirements</td>
+<td>12.7</td>
+<td>-6.4</td>
+<td>-</td>
+<td>5.2</td>
+<td>11.5</td>
+</tr>
+<tr>
+<td>Translation differences for the year</td>
+<td>0.4</td>
+<td>0.3</td>
+<td>0.3</td>
+<td>-</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>As of 31 December 2023</td>
+<td>-138.1</td>
+<td>-72.0</td>
+<td>-16.1</td>
+<td>-1.1</td>
+<td>-227.3</td>
+</tr>
+</table>
+
+
+### Contractual maturities of lease liabilities
 
 
 <table>
 <tr>
-<th rowspan="3"></th>
-<th colspan="2">Derivatives at fair value</th>
-</tr>
-<tr>
-<th rowspan="2">2023 Em</th>
+<th></th>
+<th>2023</th>
 <th>2022</th>
 </tr>
 <tr>
-<th>Em</th>
+<td>Maturity date within 1 year</td>
+<td>100.5</td>
+<td>93.5</td>
 </tr>
 <tr>
-<td>Derivative assets</td>
-<td>1.3</td>
+<td>Maturity date within 1-2 years</td>
+<td>77.8</td>
+<td>63.3</td>
+</tr>
+<tr>
+<td>Maturity date within 2-5 years</td>
+<td>130.8</td>
+<td>107.2</td>
+</tr>
+<tr>
+<td>Maturity date over 5 years</td>
+<td>133.1</td>
+<td>103.3</td>
+</tr>
+<tr>
+<td>Total contractual cash flows</td>
+<td>442.2</td>
+<td>367.3</td>
+</tr>
+</table>
+
+
+### Amounts recognised in the consolidated income statement
+
+
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Income from subletting of right-of-use assets</td>
+<td>0.2</td>
+<td>0.8</td>
+</tr>
+<tr>
+<td>Amortisation of leases</td>
+<td>-85.7</td>
+<td>-65.6</td>
+</tr>
+<tr>
+<td>Interest expense on lease liabilities</td>
+<td>-12.7</td>
+<td>-5.3</td>
+</tr>
+<tr>
+<td>Expenses for short-term leases</td>
+<td>-1.8</td>
+<td>-1.0</td>
+</tr>
+<tr>
+<td>Low value leasing costs</td>
+<td>-0.3</td>
+<td>-0.2</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>-100.3</td>
+<td>-71.3</td>
+</tr>
+</table>
+
+
+### Parent company
+
+The parent company applies the exemption in RFR2, whereby the
+company's rental contracts are recognised as operating leases: these
+contracts include rental contracts for head office and vehicles.
+
+
+### Non-cancellable lease payments amount to:
+
+
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Within 1 year</td>
+<td>4.2</td>
+<td>3.9</td>
+</tr>
+<tr>
+<td>2-5 years</td>
+<td>2.5</td>
+<td>4.1</td>
+</tr>
+<tr>
+<td>Total payment commitments</td>
+<td>6.7</td>
+<td>8.0</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>The cost of operating leases of assets for the year amounts to:</td>
+<td>4.3</td>
+<td>3.8</td>
+</tr>
+<tr>
+<td>Of which rental of premises</td>
+<td>3.5</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td>Of which vehicles</td>
+<td>0.8</td>
+<td>0.7</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+84
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 16 Participations in Group companies
+
+
+### Specification of the parent company's direct holdings of shares in Group companies
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>At the beginning of the year</td>
+<td>44.4</td>
+<td>69.6</td>
+</tr>
+<tr>
+<td>Mergers</td>
+<td>-</td>
+<td>-0.5</td>
+</tr>
+<tr>
+<td>Disposals</td>
+<td>-0.2</td>
+<td>-24.7</td>
+</tr>
+<tr>
+<td>Total value of acquisitions</td>
+<td>44.2</td>
+<td>44.4</td>
+</tr>
+<tr>
+<td>Impairments</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>At the beginning of the year</td>
+<td>-44.0</td>
+<td>-43.8</td>
+</tr>
+<tr>
+<td>Impairments for the year</td>
+<td>-</td>
+<td>-0.2</td>
+</tr>
+<tr>
+<td>Accumulated impairments</td>
+<td>-44.0</td>
+<td>-44.0</td>
+</tr>
+<tr>
+<td>Carrying amount at year-end</td>
+<td>0.1</td>
+<td>0.3</td>
+</tr>
+</table>
+
+
+### Specification of the parent company's direct holdings of shares in Group companies
+
+
+<table>
+<tr>
+<th rowspan="2">Name, registered office</th>
+<th colspan="4">Capital share(1)</th>
+<th colspan="2">Number of shares(1)</th>
+<th>Carrying amount in the parent company</th>
+</tr>
+<tr>
+<th>Town/city</th>
+<th>Company registration number</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+<th>2023-12-31</th>
+</tr>
+<tr>
+<td>Sdip A AB</td>
+<td>Stockholm</td>
+<td>559142-5110</td>
+<td>100%</td>
+<td>100%</td>
+<td>500</td>
+<td>500</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>Sdip Holdings AB</td>
+<td>Stockholm</td>
+<td>559185-5696</td>
+<td>100%</td>
+<td>100%</td>
+<td>50,000</td>
+<td>50,000</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>Sdip Crescent d.o.o.</td>
+<td>Zagreb</td>
+<td>06502018711</td>
+<td>100%</td>
+<td>100%</td>
+<td>1</td>
+<td>1</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>Sicada AB</td>
+<td>Stockholm</td>
+<td>559100-1762</td>
+<td>-</td>
+<td>100%</td>
+<td>-</td>
+<td>50,000</td>
+<td>-</td>
+</tr>
+</table>
+
+
+### Specification of the parent company's indirect holdings of shares in Group companies
+
+
+<table>
+<tr>
+<th>Name, registered office</th>
+<th>Company registration number</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>Sweden</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Castella Entreprenad AB</td>
+<td>556614-4043</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Centralbyggarna i Åkersberga AB</td>
+<td>556642-7984</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Centralmontage i Nyköping AB</td>
+<td>556709-3413</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Cliff Models AB</td>
+<td>556587-9193</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Cryptify AB</td>
+<td>556896-9090</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Eurotech Sire System AB</td>
+<td>556342-1071</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Frigotech AB</td>
+<td>556448-7121</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Hansa Vibrations- och Omgivningskontroll AB</td>
+<td>559076-6092</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>HeatWork Sweden AB</td>
+<td>556720-9571</td>
+<td>100%</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Hydrostandard Mätteknik Nordic AB</td>
+<td>559002-9947</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>KSS Klimat- &amp; Styrsystem Aktiebolag</td>
+<td>556522-1255</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>KSS Klimat &amp; Styrsystem AB Uppsala</td>
+<td>556890-3172</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>KSS Klimat och Styrsystem Syd AB</td>
+<td>559298-6656</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Medicvent AB</td>
+<td>556867-2249</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>One Stop Europe AB</td>
+<td>559332-1341</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Polyproject Environment AB</td>
+<td>556908-6282</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Pure Water Scandinavia AB</td>
+<td>556613-8037</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Rolec Services AB</td>
+<td>559451-2823</td>
+<td>100%</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Sdip Aguapura AB</td>
+<td>559182-0542</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Dinamito AB</td>
+<td>559076-0996</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Glacio AB</td>
+<td>559074-5963</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Holding 1 AB</td>
+<td>559136-4194</td>
+<td>-</td>
+<td>100%</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+85
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 16, cont.
+
+
+<table>
+<tr>
+<th>Name, registered office</th>
+<th>Company registration number</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>Sweden, cont.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sdip Klimkontrolo AB</td>
+<td>559134-9435</td>
+<td>-</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Metro AB</td>
+<td>559016-4272</td>
+<td>-</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Modelo AB</td>
+<td>559066-5641</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Monto AB</td>
+<td>559131-0874</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Multev AB</td>
+<td>559169-2214</td>
+<td>-</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Purigado AB</td>
+<td>559086-4343</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Sinuso AB</td>
+<td>559084-7868</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Stratosfero AB</td>
+<td>559131-0866</td>
+<td>-</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Stucco AB</td>
+<td>559022-1452</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Storadio Aero AB</td>
+<td>556569-9419</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Strömsfors 1:3 Norrköping AB</td>
+<td>556959-5449</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Thors Trading AB</td>
+<td>556277-0320</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Topas Vatten AB</td>
+<td>556400-0247</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Topas Vatten Service AB</td>
+<td>556819-9920</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Torslanda Maskin AB</td>
+<td>556871-8737</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Torslanda Personaluthyrning AB</td>
+<td>556839-3994</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Unipower AB</td>
+<td>556390-7491</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Vera Klippan AB</td>
+<td>556198-1746</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Finland</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ficon Oy</td>
+<td>3147471-9</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>HeatWork Oy</td>
+<td>555</td>
+<td>100%</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Oy Hilltip Ab</td>
+<td>3108511-5</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Norway</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Agder Industri-Automasjon AS</td>
+<td>976853970</td>
+<td>51%</td>
+<td>51%</td>
+</tr>
+<tr>
+<td>HeatWork A/S</td>
+<td>555</td>
+<td>100%</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Rogaland Industri Automasjon AS</td>
+<td>920325637</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Atlanta AS</td>
+<td>820839412</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ELM Kragelund AS</td>
+<td>11477607</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Kemi-tech ApS</td>
+<td>555</td>
+<td>100%</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kemi-tech A/S</td>
+<td>555</td>
+<td>100%</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CERTUS Technologies Holding B.V.</td>
+<td>73261955</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>CERTUS Port Automation B.V.</td>
+<td>58796762</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Orange B.V.</td>
+<td>84091398</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<th>Name, registered office</th>
+<th>Company registration number</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>United Kingdom</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Alerter Group Ltd</td>
+<td>04078512</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Auger Site Investigations Ltd</td>
+<td>3088958</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Elasta Ltd</td>
+<td>06314494</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>G.A.H. (Refrigeration Products) Ltd</td>
+<td>04710309</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>G.A.H. (Refrigeration) Ltd</td>
+<td>02778816</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>IDE Rental Ltd</td>
+<td>09188454</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>IDE Systems Ltd</td>
+<td>04973527</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>IDE Systems (Holdings) Ltd</td>
+<td>09197148</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Ingelby Ltd</td>
+<td>12104532</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Movebla Ltd</td>
+<td>11103233</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Multitech Site Holdings Ltd</td>
+<td>08949049</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Multitech Site Services Ltd</td>
+<td>3595923</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>One Stop Europe Ltd</td>
+<td>09374556</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Optyma Holding Ltd</td>
+<td>8055507</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Optyma Security Systems Ltd</td>
+<td>3151296</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Patol Holdings Ltd</td>
+<td>14398047</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Patol Ltd</td>
+<td>1341651</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Linesense Fire Detection Ltd</td>
+<td>10155155</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>RedSpeed International Ltd</td>
+<td>5152563</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>RedSpeed UK Ltd</td>
+<td>10027452</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Resource Data Management Group Ltd</td>
+<td>SC472830</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Resource Data Management Ltd</td>
+<td>SC208148</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Rolec Services Ltd</td>
+<td>2294468</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Aliro Ltd</td>
+<td>11102789</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>SdipCharge Ltd</td>
+<td>13182326</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Holdings UK Ltd</td>
+<td>12631252</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip Kimra Ltd</td>
+<td>11726181</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Sdip RoadSpeed Ltd</td>
+<td>11722499</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Temperature Electronics Holdings Ltd</td>
+<td>13891420</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Temperature Electronics Ltd</td>
+<td>00968772</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>TEL UK Ltd</td>
+<td>05096645</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Wake Power Distribution Ltd</td>
+<td>11463510</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Water Treatment Products Holding Ltd</td>
+<td>10485079</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Water Treatment Products Ltd</td>
+<td>3896797</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+86
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+### Note 16, cont.
+
+
+<table>
+<tr>
+<th>Name, registered office</th>
+<th>Company registration number</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>Italy</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sdip Italia S.r.l.</td>
+<td>12025040960</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Agrosistemi S.R.L.</td>
+<td>1439280338</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Amaltea S.A.R.L.S</td>
+<td>1718160334</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Mecno Services Srl</td>
+<td>03876500277</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Croatia</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Metus doo dizala</td>
+<td>24690129373</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Miconic doo</td>
+<td>555</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Bosnia</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Metus Bosnia</td>
+<td>4272175160005</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Serbia</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Metus Serbia</td>
+<td>21228796</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Germany</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>GAH Europe GmbH</td>
+<td>HRB 128370</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Hilltip GmbH</td>
+<td>HRB 26891</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>US</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Hilltip Inc</td>
+<td>7772738</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Resouce Data Management-USA Inc</td>
+<td>480422400022</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Israel</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Certus Imaging Technologies Ltd</td>
+<td>515940559</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Taiwan</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Resource Data Management Taiwan CO Ltd</td>
+<td></td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>Malaysia</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Resource Data Management Asia Sdn Bhd</td>
+<td>897998-H</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>New Zealand</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>RedSpeed NZ Ltd</td>
+<td>8423242</td>
+<td>100%</td>
+<td>100%</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+87
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 17 Financial risks and risk management
+
+
+### Financial instruments
+
+Financial instruments recognised on the asset side in the consolidated
+balance sheet include trade receivables, short-term investments and cash
+and cash equivalents. Liabilities include loans, contingent considerations,
+other current liabilities and trade payables.
+
+Transaction costs related to financial assets and liabilities recognised at fair
+value in the income statement are expensed directly in the income
+statement. Trade receivables without a significant financing component are
+valued at the transaction price.
+
+
+### Classification and valuation
+
+Financial instruments are classified in different categories. Financial assets
+are classified on the basis of the company's business model for managing
+the financial assets and the characteristics of the contractual cash flows
+from the financial asset.
+
+The Group's categorisation of financial instruments is as follows:
+
+They are financial assets if the maturity or expected holding period is
+longer than one year.
+
+Financial assets valued at accrued acquisition cost
+This category mainly comprises trade receivables, other current
+receivables and cash and cash equivalents. Assets are recognised at
+amortised cost less any provision for impairment. Amounts are not
+discounted when the effect is not material.
+
+This category also includes financial investments and non-current
+receivables that are managed within a business model that can be
+described as "held to maturity", which means collecting the contractual
+cash flows from the financial assets. The contractual cash flows from all
+receivables within the category of financial assets measured at amortised
+cost are considered solely to be payments of principal and interest on the
+outstanding principal amount.
+
+A loss allowance is assessed for financial assets measured at amortised
+cost. For all these financial assets, with the exception of trade receivables,
+an assessment of the loss allowance is made on the basis of 12 months of
+expected credit losses, or on the expected credit losses for the remaining
+term if the credit risk has increased significantly since initial recognition.
+The assessment is made at the balance sheet date.
+
+For trade receivables, a simplified method is applied whereby a loss
+allowance is recognised corresponding to the expected credit losses for
+the remaining term of the contract.
+
+Companies estimate and evaluate credit risk using available information on
+historical credit events, current circumstances and forecasts of future
+developments. Impairment losses are recognised on a separate line in the
+income statement.
+
+Financial assets measured at fair value through other comprehensive
+income
+
+Sdiptech currently has no financial assets related to a business model in
+this category.
+
+Financial liabilities measured at fair value through profit or loss
+Liabilities for contingent additional purchase prices arising in business
+combinations are measured at fair value through profit or loss, including put
+options whereby Group companies are obliged to purchase their own
+equity instruments and then pay proceeds corresponding to the fair value
+of the equity instrument. The valuation of these belongs to valuation level 3,
+where the valuation is based on the expected future financial performance
+of the acquired business as assessed by the corporate executive.
+
+Sdiptech has agreements on currency futures in GBP and EUR, currency
+interest rate futures in GBP, EUR and NOK and interest rate futures in SEK
+and EUR in order to balance the currency and interest rate exposure. The
+fair value of forward contracts is determined on the basis of the forward
+exchange rate on the balance sheet date. The derivatives mature within 12
+months and are recognised at fair value through the income statement
+under financial income and expenses.
+
+Financial liabilities measured at amortised cost
+
+This category includes all financial liabilities other than those measured at
+fair value through profit or loss. Loans to credit institutions as well as bonds,
+trade payables and certain other operating liabilities are included in this
+category. These are recognised at amortised cost, and any difference
+between the borrowing amount (net of transaction costs) and the
+repayment amount is recognised in profit or loss over the period of the loan
+using the effective interest method. Trade payables have short maturities
+and are measured at nominal value without discounting.
+
+
+### Risks and uncertainty factors
+
+
+#### Financial risks
+
+Sdiptech is exposed to financial risks of various kinds through its activities:
+
+. Liquidity risk and financing risk
+
+. Interest rate risk
+
+. Currency risk
+
+. Customer and counterparty risk
+
+
+#### Financial policy
+
+Sdiptech's Board of Directors has adopted the company's financial policy.
+This policy sets out the company's financial strategy and internal
+responsibilities. The policy also regulates factors such as how funding,
+liquidity management and currency risk are managed within the Group, as
+well as the limitations to be considered regarding counterparties.
+
+Overview of the Group's financial assets and liabilities
+Sdiptech has used generally accepted methods to calculate the fair value
+of the Group's financial instruments as at 31 December 2023 and 2022.
+Promissory notes and contingent considerations refer to different types of
+obligations to the selling party and are linked to conditions based on the
+performance of the acquired companies over a certain period following the
+acquisition. The liabilities are recognised at the present value of the
+expected outflows, and revaluations are recognised in profit or loss. For
+more information, please see Note 3.
+
+The book value has been assumed to be a good approximation of the
+amortised cost or all other financial assets and liabilities, such as cash and
+cash equivalents, trade receivables and trade payables.
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Financial assets valued at accrued acquisition cost</th>
+<th colspan="2">Financial assets measured at fair value through the income statement</th>
+</tr>
+<tr>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>Assets in the statement of financial position</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Shares and other securities</td>
+<td>-</td>
+<td>-</td>
+<td>5.5</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>Non-current receivables</td>
+<td>3.1</td>
 <td>3.2</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>Derivative liabilities</td>
-<td>(0.3)</td>
-<td>(0.4)</td>
+<td>Accounts receivable</td>
+<td>827.3</td>
+<td>687.0</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>Net derivative assets / (liabilities)</td>
+<td>Other receivables</td>
+<td>62.7</td>
+<td>47.7</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Cash and cash equivalents</td>
+<td>557.0</td>
+<td>383.2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>1,450.1</td>
+<td>1,121.2</td>
+<td>5.5</td>
+<td>5.5</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+88
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+Note 17, cont.
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Financial liabilities measured at amortised cost</th>
+<th colspan="2">Financial liabilities measured at fair value through profit or loss</th>
+</tr>
+<tr>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>Liabilities in the statement of financial position</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Current liabilities to credit institutions</td>
+<td>115.1</td>
+<td>100.7</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Long-term liabilities to credit institutions</td>
+<td>2,758.7</td>
+<td>1,932.9</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Accounts payable</td>
+<td>329.8</td>
+<td>257.7</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Liabilities related to contingent considerations</td>
+<td>-</td>
+<td>-</td>
+<td>1,193.0</td>
+<td>1,266.0</td>
+</tr>
+<tr>
+<td>Other current liabilities</td>
+<td>156.4</td>
+<td>60.3</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>3,359.9</td>
+<td>2,351.5</td>
+<td>1,193.0</td>
+<td>1,266.0</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Opening book value</td>
+<td>1,266.0</td>
+<td>1,131.4</td>
+</tr>
+<tr>
+<td>Liabilities incurred during the year</td>
+<td>84.6</td>
+<td>476.9</td>
+</tr>
+<tr>
+<td>Purchase prices paid</td>
+<td>-185.8</td>
+<td>-356.1</td>
+</tr>
+<tr>
+<td>Revaluation through operating result</td>
+<td>-16.2</td>
+<td>-61.6</td>
+</tr>
+<tr>
+<td>Interest costs (discounting effect)</td>
+<td>38.7</td>
+<td>30.0</td>
+</tr>
+<tr>
+<td>Exchange rate differences</td>
+<td>5.7</td>
+<td>45.5</td>
+</tr>
+<tr>
+<td>Closing book value</td>
+<td>1,193.0</td>
+<td>1,266.0</td>
+</tr>
+</table>
+
+
+Contingent considerations refer to different types of obligations to the
+selling party that are linked to conditions based on the performance of the
+acquired companies over a certain period following the acquisition. These
+liabilities are recognised at the present value of the expected outflows. See
+Note 3 for valuation techniques for contingent considerations.
+
+The valuation of the financial year noted increases in the expected
+outcome from a number of entities, which resulted in an adjustment of the
+increased liability. This has been recognised in the income statement
+under Other external costs. All obligations at the balance sheet date fall
+due within 1-8 years.
+
+
+### Credit risk in respect of receivables Credit risks in trade receivables.
+
+Credit risk exposure to customers is continuously assessed within the
+Group; the credit risk is varied, as the customer base within the Group
+ranges from private to government operations. The Group's exposure to
+individual customers is small, and risk diversification is deemed to be good.
+Total trade receivables on the balance sheet date amounted to SEK 827.3
+(687.0) million, corresponding to an increase of 20 per cent, which largely
+comes from comparable entities. Provisions for future credit losses
+
+amount to SEK 10.4 (6.3) million. Receivables older than 60 days past due
+amount to SEK 54.6 (50.8) million. Provision and utilisation of the provision
+for doubtful trade receivables have been recognised in the income
+statement. Age analysis of trade receivables and provisions for expected
+credit losses are presented in Note 19.
+
+Trade receivables and other receivables are assessed at each balance
+sheet date according to estimated credit risk and, if necessary, provisions
+are made according to assessed credit risk in accordance with IFRS 9. In
+addition to age analysis, the basis for assessment is made up of credit
+information, the customer's established payment patterns and other
+available information affecting credit, such as lost contracts, changes in
+management functions and other company-specific information. A
+macroeconomic assessment is also made of the future industry and
+country-specific outlook for the Group's customers. No loss allowance has
+been recognised for other receivables as the assessment corresponding
+to 12 months of expected credit losses is deemed to be immaterial.
+
+Credit risk in treasury management mainly arises from the investment of
+cash and cash equivalents; no surplus liquidity was available for investment
+during the financial year, and no credit risk is deemed to exist.
+
+
+### Liquidity risk and financing risk
+
+Liquidity risk is the risk that the Group may encounter difficulties in meeting
+its obligations associated with financial liabilities, while financing risk is the
+risk that the financing of the Group's capital requirements is made more
+difficult or more expensive. Bank financing on the balance sheet date
+consists of what is known as a revolving credit facility (RCF) of SEK 800
+million with Nordea and an agreement on a cash pool for efficient cash
+management within the Group and its companies. The Group renewed its
+credit agreements in 2022. These agreements, with two different financial
+institutions, run for three years with an option to extend. During the period,
+the Group increased its agreed long-term credit line by SEK 500 million to a
+total of SEK 2,600 million and GBP 36 million, corresponding to about SEK
+460 million. The total utilised credit volume as at 31 December 2023, within
+this credit line, totalled SEK 1,823.4 million. The Group's interest-bearing
+liabilities and maturities are shown in Note 23.
+
+In August, Sdiptech issued senior secured sustainability-linked bonds of
+SEK 600 million under a framework of SEK 1,000 million. These bonds
+carry a variable interest rate of 3m Stibor +4.90 per cent and mature in
+August 2027. The link to the Group's sustainability goals affects the final
+redemption amount at maturity, depending on the outcome.
+
+The Group seeks to achieve a reasonable balance between equity, debt
+financing and liquidity so that the Group secures financing at a reasonable
+cost of capital. At year-end, interest-bearing liabilities amounted to 44.7
+(44.3) per cent of the balance sheet total. Interest-bearing liabilities also
+include contingent considerations where the underlying liabilities do not
+bear interest, but are discounted in the Group and are viewed as a financial
+liability.
+
+
+### Interest rate risk
+
+Interest rate risk is the risk that unfavourable changes in interest rates will
+have an excessive impact on the Group's net financial position and results.
+
+The company may have invested in interest-bearing assets whose value
+changes when interest rates change.
+
+The cost of the company's borrowing changes when interest rates change.
+Options to fix the interest rate for all or part of a loan are evaluated at regular
+intervals. However, all of the Group's bank loans carried variable interest
+rates at 3 to 6-month intervals at year-end, as in the previous year. The
+Group also has agreements on interest rate swaps, corresponding to
+around 25 per cent of the agreed credit volume, with a 2 to 3-year maturity.
+Part of the contracted credit volume is linked to the Group's sustainability
+goals, which may increase or decrease the contracted interest margin
+depending on the outcome.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+89
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+#### Note 17, cont.
+
+Sdiptech has no long-term surplus liquidity and does not normally invest
+funds in anything other than short-term bank deposits. There is therefore
+no significant interest rate risk in the Group's short-term investments.
+Hence changes in interest rates mainly affect the company's borrowing
+costs.
+
+The Group measures interest rate risk as the change, based on liabilities to
+credit institutions at year-end, given a 1 per cent increase in interest rates
+on a full-year basis. According to this calculation, the interest rate risk on
+the balance sheet date is expected to result in around SEK 12.8 (15.4)
+million in higher interest expenses, including the effect of interest rate
+futures.
+
+
+### Currency risk
+
+Currency risk is the risk that unfavourable changes in exchange rates will
+affect the Group's earnings and equity measured in SEK. The Group's
+currency risks are mainly linked to the foreign subsidiaries, which have
+income and expenses in currencies other than the individual company's
+functional currency (what is known as transaction exposure), and through
+the translation exposure that arises when foreign subsidiaries' assets and
+liabilities are translated into the parent company's functional currency.
+
+The Group's earnings are most sensitive to changes in the GBP/SEK
+exchange rate. A 10 per cent change in the average exchange rate of all
+currencies against the Swedish krona would have an impact of SEK 75.3
+(58.2) million on the Group's operating profit and SEK 45.6 (44.8) million on
+the Group's profit before tax, excluding unrealised currency effects of
+internal and external loans and currency futures.
+
+Sdiptech has entered into agreements on currency futures in GBP and
+EUR in order to balance the currency exposure. These volumes totalled the
+equivalent of around SEK 402 million and SEK 355 million respectively at
+the end of the period. Derivatives are recognised at fair value under
+financial income and expenses in the income statement.
+
+
+### Currency exposure in operating result
+
+
+<table>
+<tr>
+<th></th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>GBP</td>
+<td>42.8</td>
+<td>39.9</td>
+</tr>
+<tr>
+<td>EUR</td>
+<td>16.6</td>
+<td>12.7</td>
+</tr>
+<tr>
+<td>NOK</td>
+<td>3.1</td>
+<td>0.7</td>
+</tr>
+<tr>
+<td>DKK</td>
+<td>7.7</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>Other currencies</td>
+<td>5.1</td>
+<td>3.4</td>
+</tr>
+</table>
+
+
+In an international Group like Sdiptech, it is important to offer customers
+and suppliers payment options in their own currency. This means that the
+Group is constantly takes foreign exchange risk with both trade receivables
+and trade payables in foreign currencies. However, the risk exposure is
+
+limited as most of the sales of products and services related to
+infrastructure take place locally in each country in which Sdiptech's
+operations are located and operate.
+
+The total currency exposure of the Group is shown in the following table of
+the Group's gross exposure. The Group's assets and liabilities are shown
+for each underlying accounting currency, of which the Group's central debt
+is included in the SEK item below. A 10 per cent strengthening of SEK
+against EUR would affect equity by around SEK -13.2 (-26.8) million. A 10
+per cent strengthening of SEK against GBP would affect equity by SEK
+-101.7 (-55.6) million when translating the currency exposure of net
+investments in foreign subsidiaries.
+
+
+<table>
+<caption>Gross exposure in foreign currency (SEK million)</caption>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Gross assets</th>
+<th colspan="2">Gross liabilities</th>
+</tr>
+<tr>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>GBP</td>
+<td>4,607.3</td>
+<td>4,483.2</td>
+<td>3,567.7</td>
+<td>3,733.4</td>
+</tr>
+<tr>
+<td>EUR</td>
+<td>2,056.4</td>
+<td>1,797.4</td>
+<td>1,907.8</td>
+<td>1,675.6</td>
+</tr>
+<tr>
+<td>SEK</td>
+<td>9,978.0</td>
+<td>8,879.3</td>
+<td>7,322.7</td>
+<td>6,286.6</td>
+</tr>
+<tr>
+<td>Other currencies</td>
+<td>826.0</td>
+<td>626.8</td>
+<td>712.8</td>
+<td>569.2</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>17,467.7</td>
+<td>15,786.7</td>
+<td>13,511.0</td>
+<td>12,264.8</td>
+</tr>
+</table>
+
+
+#### Foreign currency loans and swaps presented in SEK (SEK million)
+
+
+<table>
+<tr>
+<th rowspan="2">Currency</th>
+<th colspan="2">Gross liabilities</th>
+</tr>
+<tr>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>GBP</td>
+<td>1,493.0</td>
+<td>1,581.4</td>
+</tr>
+<tr>
+<td>EUR</td>
+<td>865.5</td>
+<td>356.1</td>
+</tr>
+<tr>
+<td>NOK</td>
+<td>172.7</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>2,531.2</td>
+<td>1,937.5</td>
+</tr>
+</table>
+
+
+##### Translation exposure in the statement of financial position
+
+A single subsidiary should not normally have any translation risk in its own
+balance sheet. This means that a subsidiary's foreign currency assets and
+liabilities shall be balanced. Moreover, subsidiaries usually borrow in their
+own currency. In practice, this is only relevant when loans are raised in
+connection with the acquisition, and in the case of loans between
+subsidiaries and the parent company. Since a large part of the Group's
+assets in the form of equity are in foreign Group companies, a form of
+currency hedging is carried out by allocating the Group's loans partly to
+foreign currency, which in turn corresponds to a certain part of the loans
+raised when acquiring foreign Group companies. The translation exposure
+
+in the Group's equity may be significant for certain periods with strong
+exchange rate fluctuations. The largest exposures are in GBP and EUR.
+
+The table below shows the breakdown of currency exposure in equity for
+the most significant currencies. The exposures are in GBP and EUR. The
+table below shows, in local currency, the breakdown of currency exposure
+in equity for the most significant currencies.
+
+
+### Currency exposure in equity
+
+
+<table>
+<tr>
+<th></th>
+<th>2023-12-31</th>
+<th>2022-12-31</th>
+</tr>
+<tr>
+<td>GBP million</td>
+<td>127.6</td>
+<td>123.3</td>
+</tr>
+<tr>
+<td>EUR million</td>
+<td>38.7</td>
+<td>26.4</td>
+</tr>
+<tr>
+<td>NOK million</td>
+<td>117.3</td>
+<td>30.9</td>
+</tr>
+<tr>
+<td>HRK million</td>
+<td>0.0</td>
+<td>52.9</td>
+</tr>
+<tr>
+<td>DKK million</td>
+<td>94.0</td>
+<td>37.5</td>
+</tr>
+</table>
+
+
+The impact of the year's translation differences is shown in other
+comprehensive income.
+
+
+## Note 18 Inventories
+
+
+### Accounting policies
+
+Inventories are recognised at the lower of cost and net realisable value
+where cost is determined by the first-in-first-out (FIFO) principle, or by a
+weighted average value if it can be assumed to be close to the FIFO value.
+The cost of finished goods and work in progress consists of commodities,
+direct labour costs, depreciation, other direct costs and overheads related
+to the goods, but not interest costs. Net realisable value is the estimated
+selling price in the ordinary course of business less costs of completion
+and sale.
+
+Depreciation deductions are also made for finished goods and spare parts
+that are old, obsolete or have a low turnover rate. Such impairment loss is
+deducted from the book value of the inventory in the consolidated
+statement of financial position.
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Commodities and consumables</td>
+<td>458.6</td>
+<td>427.9</td>
+</tr>
+<tr>
+<td>Finished products and finished stocks</td>
+<td>186.9</td>
+<td>134.5</td>
+</tr>
+<tr>
+<td>Total inventories</td>
+<td>645.5</td>
+<td>562.4</td>
+</tr>
+</table>
+
+
+Inventories increased by 15 per cent during the financial year, with entities
+acquired during the year accounting for about 60 per cent of the increase.
+SEK 4.7 million was written off for obsolescence during the year.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+90
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 19 Trade receivables
+
+
+### Accounting policies
+
+Trade receivables are initially recognised at fair value and then adjusted to the value expected to be received after
+an assessment of the provision for expected credit losses based on a forward-looking and objective review of all
+outstanding amounts at the end of the period. A simplified procedure has been introduced for trade receivables in
+accordance with IFRS 9, whereby the provisions recognised under other external costs in the consolidated income
+statement are based on expected credit losses over the remaining life of the receivables. Recovery of amounts
+previously written off is credited to other external charges in the income statement.
+
+The trade receivables item consists of many smaller amounts as the Group consists of more than 60 operating
+companies. The Group's trade receivables are classified as current assets as they normally have a remaining
+service life of less than 6 months.
+
+The cost of customer losses and doubtful debts recognised in the income statement amounts to SEK 5.8 (9.0)
+million net.
+
+Collateral is not normally held for trade receivables. The Group's customers consist of a good spread from private
+players to large companies, municipalities and public authorities, with low credit risk for the Group, which is
+reflected in the history, and the credit quality of outstanding trade receivables is deemed to be very good. There are
+no significant credit concentrations. Provisions for doubtful trade receivables are made individually in accordance
+with internal regulations and normally when receivables are more than 60 days past due. The provision for doubtful
+debts and doubtful debt losses is included in Other external costs.
+
+
+<table>
+<caption>Note 20 Prepayments and accrued income</caption>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Accounts receivable not due for payment</td>
+<td>549.7</td>
+<td>415.0</td>
+</tr>
+<tr>
+<td>Accounts receivable less than 30 days past due</td>
+<td>188.7</td>
+<td>179.0</td>
+</tr>
+<tr>
+<td>Accounts receivable less than 31-60 days past due</td>
+<td>44.7</td>
+<td>48.4</td>
+</tr>
+<tr>
+<td>Accounts receivable less than 61-90 days past due</td>
+<td>14.0</td>
+<td>15.7</td>
+</tr>
+<tr>
+<td>Trade receivables more than 90 days past due</td>
+<td>40.3</td>
+<td>35.1</td>
+</tr>
+<tr>
+<td>Subtotal, trade receivables</td>
+<td>837.4</td>
+<td>693.2</td>
+</tr>
+<tr>
+<td>Provisions for doubtful debts</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Opening balance reserve for doubtful debts</td>
+<td>-6.2</td>
+<td>-7.1</td>
+</tr>
+<tr>
+<td>Provision for doubtful debts through profit or loss</td>
+<td>-3.2</td>
+<td>-4.7</td>
+</tr>
+<tr>
+<td>Reversed reserves</td>
+<td>0.2</td>
+<td>4.0</td>
+</tr>
+<tr>
+<td>Recognised losses</td>
+<td>-0.9</td>
+<td>1.6</td>
+</tr>
+<tr>
+<td>Closing balance reserve for doubtful debts</td>
+<td>-10.1</td>
+<td>-6.2</td>
+</tr>
+<tr>
+<td>Total trade receivables</td>
+<td>827.3</td>
+<td>687.0</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Prepaid rent/leasing</td>
+<td>11.3</td>
+<td>8.8</td>
+<td>0.9</td>
+<td>0.9</td>
+</tr>
+<tr>
+<td>Prepaid insurance</td>
+<td>11.1</td>
+<td>9.3</td>
+<td>0.2</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>Accrued income</td>
+<td>170.1</td>
+<td>114.1</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Advance payments</td>
+<td>7.8</td>
 <td>1.0</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Prepaid credit fees</td>
+<td>14.4</td>
+<td>5.9</td>
+<td>11.0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Other items</td>
+<td>33.9</td>
+<td>41.4</td>
+<td>2.0</td>
+<td>1.8</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>248.6</td>
+<td>180.5</td>
+<td>14.1</td>
 <td>2.8</td>
 </tr>
 </table>
 
 
-### Sensitivity analysis - currency risk
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+91
+---
 
-A 10% strengthening of Sterling against the following currencies at 31 December 2023 would have increased/(decreased) equity
-and profit or loss by the amounts shown below. This is reflective of the exchange rates movements experienced by the Group
-over the last 3 years. This analysis is applied currency by currency in isolation, i.e. ignoring the impact of currency correlation,
-and assumes that all other variables, in particular interest rates, remain constant. The analysis is performed on the same basis
-for 2022. The amounts generated from the sensitivity analysis are forward-looking estimates of market risk assuming certain
-adverse market conditions occur. Actual results in the future may differ materially from those projected, due to developments in
-the global financial markets which may cause fluctuations in interest and exchange rates to vary from the hypothetical amounts
-disclosed in the table below, which therefore should not be considered a projection of likely future events and losses.
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 21 Supplementary information, cash flow statement and cash and cash equivalents
+
+
+### Cash and cash equivalents
+
+Cash and cash equivalents in the balance sheet include cash in banks and
+available cash.
+
+Cash and cash equivalents in the balance sheet and cash flow statement
+include cash and bank balances as shown in the table below.
 
 
 <table>
 <tr>
-<th rowspan="3"></th>
-<th colspan="2">Equity</th>
-<th colspan="2">Profit before tax</th>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
 </tr>
 <tr>
 <th>2023</th>
@@ -5480,304 +6921,1145 @@ disclosed in the table below, which therefore should not be considered a project
 <th>2022</th>
 </tr>
 <tr>
-<th>£'000</th>
-<th>000.3</th>
-<th>000.3</th>
-<th>000.3</th>
+<td>Cash and bank</td>
+<td>557.0</td>
+<td>383.2</td>
+<td>7.2</td>
+<td>3.5</td>
 </tr>
 <tr>
-<td>Euro</td>
-<td>(9,521)</td>
-<td>(12,682)</td>
-<td>1,524</td>
-<td>(2,102)</td>
+<td>Total</td>
+<td>557.0</td>
+<td>383.2</td>
+<td>7.2</td>
+<td>3.5</td>
+</tr>
+</table>
+
+
+### Interest paid and received
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
 </tr>
 <tr>
-<td>Australian Dollar</td>
-<td>(1,143)</td>
-<td>(1,741)</td>
-<td>735</td>
-<td>(356)</td>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
 </tr>
 <tr>
-<td>Swiss Franc</td>
-<td>(411)</td>
-<td>(597)</td>
-<td>154</td>
-<td>(76)</td>
+<td>Interest received</td>
+<td>4.7</td>
+<td>1.5</td>
+<td>14.3</td>
+<td>3.1</td>
 </tr>
 <tr>
-<td>Chinese Renminbi</td>
-<td>(768)</td>
-<td>(1,016)</td>
-<td>194</td>
-<td>169</td>
+<td>Interest paid</td>
+<td>-172.3</td>
+<td>-78.6</td>
+<td>-18.2</td>
+<td>-0.3</td>
 </tr>
 <tr>
-<td>Hong Kong Dollar</td>
-<td>(490)</td>
-<td>(720)</td>
-<td>168</td>
-<td>292</td>
+<td>Total</td>
+<td>-167.6</td>
+<td>-77.1</td>
+<td>-3.9</td>
+<td>2.8</td>
+</tr>
+</table>
+
+
+### Adjustments for items not included in cash flow
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
 </tr>
 <tr>
-<td>Singapore Dollar</td>
-<td>(1,566)</td>
-<td>(1,560)</td>
-<td>(58)</td>
-<td>274</td>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
 </tr>
 <tr>
-<td>United States Dollar</td>
-<td>(1,847)</td>
-<td>(1,741)</td>
-<td>(483)</td>
-<td>(973)</td>
+<td>Depreciation and write- down of assets</td>
+<td>310.6</td>
+<td>217.1</td>
+<td>0.6</td>
+<td>0.8</td>
+</tr>
+<tr>
+<td>Unrealised exchange- rate differences</td>
+<td>-28.6</td>
+<td>-24.6</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Other provisions</td>
+<td>0.5</td>
+<td>1.8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Revaluation of contingent considerations</td>
+<td>22.6</td>
+<td>-34.2</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>Other</td>
-<td>(2,759)</td>
-<td>(3,184)</td>
-<td>185</td>
-<td>(246)</td>
+<td>10.00</td>
+<td>11.5</td>
+<td>-</td>
+<td>0.3</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>315.1</td>
+<td>171.6</td>
+<td>0.6</td>
+<td>1.1</td>
 </tr>
 </table>
 
-A 10% weakening of Sterling against the above currencies at 31 December would have had a similar but opposite effect on the
-above currencies to the amounts shown above, on the basis that all other variables remain constant.
+
+## Note 22 Share capital and other contributed capital
 
 
-STRATEGIC REPORT
-CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-PageGroup Annual Report and Accounts 2023 176
-PageGroup Annual Report and Accounts 2023
-175
+### Share capital
+
+Ordinary shares are classified as equity. Transaction costs directly
+attributable to the issue of new shares are recognised in equity as a
+deduction from the issue proceeds.
+
+Preference shares are classified as equity. Sdiptech has the option of
+deciding on the redemption of preference shares. Dividends on preference
+shares require a resolution of the general meeting. Holders of preference
+shares have no right to call for redemption or claim dividends.
+
+
+### Earnings per share
+
+The calculation of earnings per share is based on the consolidated profit
+for the year attributable to the parent company's shareholders, and on the
+weighted average number of shares outstanding during the year. When
+calculating diluted earnings per share, the average number of shares is
+adjusted to take into account the effects of dilutive potential ordinary
+shares, which relate to share-based payment programmes issued to
+employees during the reported periods. Dilution occurs only when the
+exercise price is lower than the market price and increases as the
+difference increases.
+
+
+### Group
+
+The shares have a quota value of SEK 0.025 per share. Each class B
+ordinary share carries one vote, while each class A ordinary share carries
+10 votes.
+
+
+### Shares
+
+Sdiptech's shares have been issued in accordance with Swedish law and
+are registered with Euroclear Sweden AB, "Euroclear", in electronic form.
+Euroclear also maintains the company's share register. The company's
+shares are denominated in SEK and are fully paid up.
+
+According to the Articles of Association, the company's share capital must
+amount to a minimum of SEK 500,000 and a maximum of SEK 2,000,000,
+divided into a minimum of 20,000,000 and a maximum of 80,000,000
+shares. According to the Articles of Association, the company can issue
+three classes of shares: ordinary shares, class B ordinary shares and
+preference shares. Of these, there are a total of 1,424,000 class A ordinary
+shares (ISIN: SE0003756741), 36,567,938 class B ordinary shares (ISIN:
+SE0003756758) and 1,750,000 preference shares as at 31 December
+2023. As of 31 December 2023, the share capital in Sdiptech amounted to
+SEK 993,548 divided into 39,741,938 shares, each with a quota value of
+SEK 0.025.
+
+
+<table>
+<caption>Number of ordinary shares</caption>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Opening balance at 1 January</td>
+<td>37,801,348</td>
+<td>35,363,927</td>
+<td>37,801,348</td>
+<td>35,363,927</td>
+</tr>
+<tr>
+<td>New share issue</td>
+<td>190,590</td>
+<td>2,416,100</td>
+<td>190,590</td>
+<td>2,416,100</td>
+</tr>
+<tr>
+<td>Issue in kind</td>
+<td>-</td>
+<td>21,321</td>
+<td>-</td>
+<td>21,321</td>
+</tr>
+<tr>
+<td>Closing balance at 31 December</td>
+<td>37,991,938</td>
+<td>37,801,348</td>
+<td>37,991,938</td>
+<td>37,801,348</td>
+</tr>
+</table>
+
+
+<table>
+<caption>Number of preference shares</caption>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Opening balance at 1 January</td>
+<td>1,750,000</td>
+<td>1,750,000</td>
+<td>1,750,000</td>
+<td>1,750,000</td>
+</tr>
+<tr>
+<td>Closing balance at 31 December</td>
+<td>1,750,000</td>
+<td>1,750,000</td>
+<td>1,750,000</td>
+<td>1,750,000</td>
+</tr>
+</table>
+
+
+### Management of capital
+
+The business that Sdiptech conducts can be described in simple terms as
+a technology group that acquires and develops companies within
+infrastructure. The business has grown continuously over the past decade,
+and has shown good profitability. The business is organised into the
+Resource Efficiency and Special Infrastructure Solutions business areas.
+
+In recent years, Sdiptech's focus on infrastructure with in-depth market
+insight and technical expertise, combined with expertise in company
+development and an ambition for long-term ownership, has enabled the
+company to grow through favourable acquisitions of several entrepreneur-
+led and industry-leading companies in these business areas, in addition to
+organic growth.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+92
 ---
 
-
-# 23. COMMITMENTS AND CONTINGENT LIABILITIES
-
-
-## Capital Commitments
-
-The Group had Enil contractual capital commitments as at 31 December 2023 relating to property, plant and equipment (2022: £nil).
-The Group had Enil contractual capital commitments as at 31 December 2023 relating to computer software (2022: £nil).
-
-
-## Guarantees
-
-Subsidiary undertakings within the Group have provided unsecured guarantees of £9.9m (2022: £9.0m) in the ordinary course of
-business. It is not anticipated that any material liabilities will arise from these contingent liabilities.
-
-The Company has provided guarantees amounting to £3.9m (2022: £4.0m) in respect of bank and other facilities of subsidiaries in
-the ordinary course of business.
-
-The Company is the named Guarantor in respect of the £80m Multicurrency Revolving Credit Facility Agreement maturing
-9 December 2027 where Michael Page Recruitment Group Limited is the named Borrower. The Facility was undrawn as at
-31 December 2023 (2022: undrawn).
-
-
-## VAT Group registration
-
-As a result of Group registration for UK VAT purposes, the Company is contingently liable for VAT liabilities arising in other
-companies within the VAT group which at 31 December 2023 amounted to £3.1m (2022: £6.7m).
-
-
-# 24. EVENTS AFTER THE BALANCE SHEET DATE
-
-There have been no material events after the balance sheet date that require disclosure.
-
-
-# 25. RELATED PARTY TRANSACTIONS
-
-
-## Identity of related parties
-
-The Company has a related party relationship with its Directors and members of the Executive Committee, and subsidiaries
-(Note 13).
-
-
-## Transactions with key management personnel
-
-Key management personnel are deemed to be the Directors and members of the Executive Committee as detailed in the
-biographies on pages 83 to 89. The remuneration of Directors and members of the Executive Committee is determined by the
-Remuneration Committee having regard to the performance of individuals and market trends. The transactions for the year were:
-
-
-### Related party transactions
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Wages and salaries</td>
-<td>7,878</td>
-<td>8,608</td>
-</tr>
-<tr>
-<td>Social security costs</td>
-<td>894</td>
-<td>860</td>
-</tr>
-<tr>
-<td>Short-term benefits</td>
-<td>422</td>
-<td>525</td>
-</tr>
-<tr>
-<td>Pension costs - defined contribution plans</td>
-<td>71</td>
-<td>230</td>
-</tr>
-<tr>
-<td>Share-based payments</td>
-<td>4,194</td>
-<td>3,152</td>
-</tr>
-<tr>
-<td></td>
-<td>13,459</td>
-<td>13,375</td>
-</tr>
-</table>
-
-
-### Company
-
-Transactions between the Company and its subsidiaries, which are related parties of the Company, have been eliminated on
-consolidation. Details of transactions between the Parent Company and subsidiary undertakings are shown below.
-
-
-<table>
-<tr>
-<th rowspan="3"></th>
-<th colspan="2">Dividends received</th>
-<th colspan="2">Amounts owed by related parties</th>
-<th colspan="2">Amounts owed to related parties</th>
-</tr>
-<tr>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-<th>2023</th>
-<th>2022</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>000.3</th>
-<th>000.3</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Transactions</td>
-<td>97,936</td>
-<td>163,331</td>
-<td>1,157,419</td>
-<td>1,081,498</td>
-<td>1,392,889</td>
-<td>1,314,866</td>
-</tr>
-</table>
-
-
-## FIVE-YEAR SUMMARY
-
-
-<table>
-<tr>
-<th rowspan="2"></th>
-<th>2019</th>
-<th>2020</th>
-<th>2021</th>
-<th>2022</th>
-<th>2023</th>
-</tr>
-<tr>
-<th>£'000</th>
-<th>000.3</th>
-<th>£'000</th>
-<th>£'000</th>
-<th>£'000</th>
-</tr>
-<tr>
-<td>Revenue</td>
-<td>1,653,948</td>
-<td>1,304,791</td>
-<td>1,643,740</td>
-<td>1,990,287</td>
-<td>2,010,303</td>
-</tr>
-<tr>
-<td>Gross profit</td>
-<td>855,450</td>
-<td>610,249</td>
-<td>877,720</td>
-<td>1,076,294</td>
-<td>1,007,132</td>
-</tr>
-<tr>
-<td>Operating profit</td>
-<td>146,669</td>
-<td>17,028</td>
-<td>168,510</td>
-<td>196,079</td>
-<td>118,815</td>
-</tr>
-<tr>
-<td>Profit before tax</td>
-<td>144,245</td>
-<td>15,544</td>
-<td>166,645</td>
-<td>194,366</td>
-<td>117,436</td>
-</tr>
-<tr>
-<td>Profit attributable to equity holders</td>
-<td>103,445</td>
-<td>(5,742)</td>
-<td>118,356</td>
-<td>139,012</td>
-<td>77,068</td>
-</tr>
-<tr>
-<td>Conversion+</td>
-<td>17.1%</td>
-<td>2.8%</td>
-<td>19.2%</td>
-<td>18.2%</td>
-<td>11.8%</td>
-</tr>
-<tr>
-<td>Basic earnings per share (pence)</td>
-<td>32.2</td>
-<td>(1.8)</td>
-<td>37.2</td>
-<td>43.7</td>
-<td>24.4</td>
-</tr>
-</table>
-
-t Operating profit as a percentage of gross profit.
-
-
-STRATEGIC REPORT
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
 CORPORATE GOVERNANCE
-FINANCIAL STATEMENTS
-ADDITIONAL INFORMATION
-177
-PageGroup Annual Report and Accounts 2023
-PageGroup Annual Report and Accounts 2023
-178
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+#### Note 22, cont.
+
+In order to strengthen the company's financial preparedness to conduct
+acquisitions of the nature described above, the company's Board of
+Directors made a decision on 11 February 2015 to offer institutional
+investors and the general public in Sweden the opportunity to subscribe for
+preference shares corresponding to SEK 100 million, with deviation from
+shareholders' preferential rights. This offer was extended on 19 February
+2015 to include 1,750,000 preference shares corresponding to SEK 175
+million. The offer was directed to the general public and institutional
+investors and expired on 20 February 2015. Around 1,800 private
+individuals and institutional investors were allocated preference shares in
+Sdiptech within the framework of the offer. Sdiptech received SEK 175
+million in total before issue costs.
+
+In February 2016, additional raising of capital was carried out in the form of
+a directed share issue to key personnel at Sdiptech and shareholders in the
+related company Serendipity Ixora AB. A total of 1,076,924 class B ordinary
+shares were issued at a price of SEK 65 per share, whereby the company
+received SEK 70,000,060 and the share capital increased by SEK
+26,923.1.
+
+Sdiptech's class B ordinary share was listed on First North Premier on 12
+May 2017, and at the same time a new share issue of SEK 500 million
+(before costs) was carried out in order to finance future acquisitions.
+
+On 9 June 2020, a directed cash issue of 3,364,182 class B shares took
+place at a subscription price of SEK 105.00 per share. The Directed New
+Share Issue provided the company with proceeds of around SEK 353
+million before deduction of issue costs.
+
+On 3 March 2021, 222,100 class B shares were subscribed for through a
+new issue attributable to the exercise of warrants in the first of the three
+series introduced as a long-term incentive programme for Sdiptech
+managers and senior executives, and adopted in accordance with the
+extraordinary general meeting on 5 March 2018 (see also Note 6). This
+issue provided the company with SEK 13.3 million in equity.
+
+On 9 March 2021, a directed cash issue of 1,500,000 class B shares took
+place at a subscription price of SEK 315 per share. The Directed New Share
+Issue provided the company with proceeds of around SEK 473 million
+before deduction of issue costs.
+
+On 8 March 2022, 216,100 class B shares were subscribed for through a
+new issue attributable to the exercise of warrants in the second of the three
+series introduced as a long-term incentive programme for managers and
+senior executives in Sdiptech and adopted in accordance with the
+extraordinary general meeting on 5 March 2018 (see further Note 6). This
+issue provided the company with SEK 14.5 million in equity.
+
+On 5 July 2022, a share issue in kind of 21,321 class B shares took place.
+This issue took place as part of the purchase price for the acquisition of
+Resource Data Management Ltd (see Note 3). The value of the shares was
+calculated at GBP 500,000, which at the time of acquisition corresponded
+to SEK 6,170,510.61 or SEK 289.41 per share. Payment has been made
+through the contribution of shares in RDM at an equivalent value.
+
+On 16 November 2022, a directed cash issue of 2,200,000 class B shares
+took place at a subscription price of SEK 230 per share. The directed share
+issue took place with deviation from the existing owners' preferential rights
+following a decision made by the Board of Directors based on the
+authorisation from the Annual General Meeting on 18 May 2022. The
+Directed New Share Issue provides the company with proceeds of around
+SEK 506 million before deduction of issue costs.
+
+On 3 March 2023, 190,590 class B shares were subscribed for through a
+new issue attributable to the exercise of warrants in the third of the three
+series introduced as a long-term incentive programme for managers and
+senior executives in Sdiptech and adopted in accordance with the
+extraordinary general meeting on 5 March 2018 (see also Note 7). This
+issue provided the company with SEK 14.4 million in equity.
+
+
+### Terms of preference share
+
+In March 2015, 1,750,000 preference shares were issued at an issue price
+of SEK 100 per share. Dividends amount to SEK 8 per year, divided into
+quarterly payments. The redemption price is SEK 120 for 0-24 months
+after issue, SEK 110 for months 25-48, and SEK 105 thereafter. Dividends
+on preference shares require a resolution of the general meeting. Holders
+of preference shares have no right to call for redemption or claim dividends.
+
+
+### Dividends
+
+After the balance sheet date, the Board of Directors has submitted the
+following proposal for the appropriation of profits.
+
+The Annual General Meeting has at its disposal (SEK):
+
+
+<table>
+<tr>
+<td>Share premium reserve</td>
+<td>2,094,236,582</td>
+</tr>
+<tr>
+<td>Retained earnings</td>
+<td>218,694,471</td>
+</tr>
+<tr>
+<td>Net profit for the year</td>
+<td>5,741,011</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>2,318,672,064</td>
+</tr>
+</table>
+
+
+The Board of Directors proposes the following appropriation of
+profits:
+
+Dividend to preference shares*
+
+14,000,000
+
+Profit/loss carried forward **
+
+2,304,672,064
+
+Total
+
+2,318,672,064
+
+*Dividends on preference shares are regulated by the Articles of Association. The dividend
+amounts to SEK 14.0 million annually, divided into SEK 3.5 million per quarter, with payments
+in March, June, September and December.
+
+** Of which SEK 2,094,236,582 is transferred to the share premium reserve
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+93
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 23 Interest-bearing liabilities
+
+
+<table>
+<tr>
+<th colspan="3">Group interest-bearing liabilities</th>
+</tr>
+<tr>
+<th>Non-current liabilities</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Liabilities to credit institutions</td>
+<td>2,406.8</td>
+<td>1,931.3</td>
+</tr>
+<tr>
+<td>Leasing liabilities</td>
+<td>349.4</td>
+<td>286.4</td>
+</tr>
+<tr>
+<td>Contingent considerations *</td>
+<td>931.6</td>
+<td>1,098.3</td>
+</tr>
+<tr>
+<td>Other liabilities **</td>
+<td>2.5</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>3,690.2</td>
+<td>3,317.6</td>
+</tr>
+</table>
+
+\* Present value of expected payment
+
+** Includes non-interest bearing loans that are classified as interest bearing, as they are by their
+nature part of the Group's debt financing *** Includes non-interest bearing loans that are
+classified as interest bearing, as they are by their nature part of the Group's debt financing: see
+also Note 25
+
+
+<table>
+<tr>
+<th>Current liabilities</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Liabilities to credit institutions</td>
+<td>16.7</td>
+<td>13.0</td>
+</tr>
+<tr>
+<td>Leasing liabilities</td>
+<td>97.6</td>
+<td>87.1</td>
+</tr>
+<tr>
+<td>Contingent considerations *</td>
+<td>261.4</td>
+<td>167.7</td>
+</tr>
+<tr>
+<td>Other liabilities **</td>
+<td>0.8</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>376.5</td>
+<td>268.4</td>
+</tr>
+</table>
+
+\* Present value of expected payout
+** Includes loans that run without interest but are classified as interest-bearing as they are by
+their nature part of the group's loan financing
+
+*** Includes loans that run without interest but are classified as interest-bearing as they are by
+their nature part of the group's loan financing, see also note 25
+
+
+### Repayment periods, contractual values
+
+
+<table>
+<tr>
+<th>As of 31 December 2023</th>
+<th>Less than 1 year</th>
+<th>1-2 years</th>
+<th>2-5 years</th>
+<th>More than 5 years</th>
+</tr>
+<tr>
+<td>Liabilities to credit institutions*</td>
+<td>16.7</td>
+<td>-</td>
+<td>2,667.6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Leasing liabilities</td>
+<td>100.5</td>
+<td>77.8</td>
+<td>130.8</td>
+<td>133.1</td>
+</tr>
+<tr>
+<td>Contingent considerations</td>
+<td>267.6</td>
+<td>327.2</td>
+<td>606.2</td>
+<td>111.8</td>
+</tr>
+<tr>
+<td>Accounts payable</td>
+<td>329.8</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Other interest-bearing liabilities</td>
+<td>0.8</td>
+<td>2.5</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>715.4</td>
+<td>407.5</td>
+<td>3,404.6</td>
+<td>244.9</td>
+</tr>
+</table>
+
+*The Group's liabilities to credit institutions essentially consist of the Group's credit facility via
+Nordea, which at the balance sheet date is divided into SEK, EUR and GBP. An average interest
+rate on debt to credit institutions is estimated to be 4.9 per cent.
+
+
+<table>
+<tr>
+<th>As of 31 December 2022</th>
+<th>Less than 1 year</th>
+<th>1-2 years</th>
+<th>2-5 years</th>
+<th>More than 5 years</th>
+</tr>
+<tr>
+<td>Liabilities to credit institutions*</td>
+<td>13.0</td>
+<td>-</td>
+<td>2,069.9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Financial leasing</td>
+<td>98.7</td>
+<td>67.7</td>
+<td>124.1</td>
+<td>102.0</td>
+</tr>
+<tr>
+<td>Contingent considerations</td>
+<td>168.5</td>
+<td>257.6</td>
+<td>685.5</td>
+<td>262.7</td>
+</tr>
+<tr>
+<td>Accounts payable</td>
+<td>257.7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Other liabilities</td>
+<td>0.5</td>
+<td>1.5</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>538.5</td>
+<td>326.8</td>
+<td>2,879.5</td>
+<td>364.7</td>
+</tr>
+</table>
+
+*Group liabilities to credit institutions consist of several contracts with different maturities. An
+average interest rate on debt to credit institutions is estimated to be 3.1 per cent.
+
+
+### Loan agreements
+
+During the period, the Group increased its agreed long-term credit line by
+SEK 500 million to a total of SEK 2,600 million. The total utilised credit volume
+as at 31 December 2023, within this credit line, totalled SEK 1,800 million.
+These contracts carry variable interest rates at 3-6 month intervals. However,
+the Group has agreements on what are known as
+interest rate swaps, corresponding to about 25 per cent of the utilised credit
+line, with a 2-3 year term and maturing in 2024-2026, with a view to reducing
+interest rate exposure.
+
+The interest rate for the facilities under the loan agreement is variable and
+based on IBOR (the IBOR applied is dependent on the currency in which
+lending takes place under the agreement), plus a variable margin based on
+the Group's net debt to EBITDA ratio. However, the IBOR can be at least O, i.e.
+negative interest rates cannot be passed on.
+
+The loan agreement contains conditions that require certain financial ratios
+(covenants) to be met. Part of the contracted credit volume is linked to the
+Group's sustainability goals, which may increase or decrease the contracted
+interest margin depending on the outcome. The loan facilities may be
+cancelled for repayment if the conditions are not met.
+
+The variable interest margin on the loan agreement amounts to 2.2-7.5 per
+cent, of which the average interest rate for the financial year amounts to 4.9
+(3.1) per cent. The loan is recognised under Long-term loans to credit
+institutions and Current liabilities to credit institutions. It also includes loans to
+credit institutions raised by the Group's subsidiaries outside the central credit
+facility. These loans amounted to SEK 63.8 (58.5) million as of 31 December
+2023.
+
+In August, Sdiptech issued senior secured sustainability-linked bonds of SEK
+600 million under a framework of SEK 1,000 million. These bonds carry a
+variable interest rate of 3m Stibor +4.90 per cent and mature in August 2027.
+The link to the Group's sustainability goals affects the final redemption
+amount at maturity, depending on the outcome.
+
+The amounts recognised, by currency, for the Group's borrowings are as
+follows:
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>GBP</td>
+<td>573.7</td>
+<td>952.4</td>
+</tr>
+<tr>
+<td>SEK</td>
+<td>1,900.0</td>
+<td>800.0</td>
+</tr>
+<tr>
+<td>EUR</td>
+<td>-</td>
+<td>133.5</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>2,473.7</td>
+<td>1,885.9</td>
+</tr>
+</table>
+
+\* EUR and GBP have been converted to SEK in the table.
+
+
+### Group's change in cash flow affecting items in financing activities
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="3">Of which affecting cash flow</th>
+</tr>
+<tr>
+<th>Bank loans</th>
+<th>Other liabilities</th>
+<th>Leases</th>
+</tr>
+<tr>
+<td>Opening balance, 01/01/2022</td>
+<td>1,166.9</td>
+<td>2.2</td>
+<td>195.7</td>
+</tr>
+<tr>
+<td>Cash flow</td>
+<td>705.7</td>
+<td>-</td>
+<td>-65.6</td>
+</tr>
+<tr>
+<td>New lease agreements</td>
+<td>-</td>
+<td>-</td>
+<td>27.5</td>
+</tr>
+<tr>
+<td>Items not affecting cash flow</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acquisitions</td>
+<td>31.8</td>
+<td></td>
+<td>208.8</td>
+</tr>
+<tr>
+<td>Exchange differences</td>
+<td>40.0</td>
+<td>-0.1</td>
+<td>7.1</td>
+</tr>
+<tr>
+<td>Closing balance, 31/12/2022</td>
+<td>1,944.4</td>
+<td>2.1</td>
+<td>373.5</td>
+</tr>
+<tr>
+<td>Cash flow</td>
+<td>413.0</td>
+<td>1.3</td>
+<td>-81.7</td>
+</tr>
+<tr>
+<td>New lease agreements</td>
+<td>-</td>
+<td>-</td>
+<td>96.2</td>
+</tr>
+<tr>
+<td>Items not affecting cash flow</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acquisitions</td>
+<td>18.3</td>
+<td></td>
+<td>52.9</td>
+</tr>
+<tr>
+<td>Exchange differences</td>
+<td>47.7</td>
+<td>-0.1</td>
+<td>6.1</td>
+</tr>
+<tr>
+<td>Closing balance, 31/12/2023</td>
+<td>2,423.4</td>
+<td>3.3</td>
+<td>447.0</td>
+</tr>
+</table>
+
+
+### Parent company's change in cash flow affecting items in financing activities
+
+
+<table>
+<tr>
+<th></th>
+<th>Liabilities, Group companies</th>
+</tr>
+<tr>
+<td>Opening balance, 01/01/2022</td>
+<td>91.4</td>
+</tr>
+<tr>
+<td>Cash flow</td>
+<td>-92.9</td>
+</tr>
+<tr>
+<td>Items not affecting cash flow</td>
+<td></td>
+</tr>
+<tr>
+<td>Accrued and capitalised interest</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>Exchange differences</td>
+<td>1.6</td>
+</tr>
+<tr>
+<td>Closing balance, 31/12/2022</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td>Cash flow</td>
+<td>-3.1</td>
+</tr>
+<tr>
+<td>Closing balance, 31/12/2023</td>
+<td>0.0</td>
+</tr>
+</table>
+
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+94
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY
+GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Note 24 Accrued expenses and prepaid income
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Accrued salaries and holiday pay</td>
+<td>81.4</td>
+<td>69.9</td>
+<td>9.9</td>
+<td>8.0</td>
+</tr>
+<tr>
+<td>Accrued social security charges</td>
+<td>18.1</td>
+<td>13.1</td>
+<td>3.1</td>
+<td>1.9</td>
+</tr>
+<tr>
+<td>Prepaid income</td>
+<td>90.8</td>
+<td>108.1</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Accrued pension costs</td>
+<td>3.5</td>
+<td>2.2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Accrued interest expense</td>
+<td>19.5</td>
+<td>9.9</td>
+<td>4.6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Short-term guarantees</td>
+<td>9.0</td>
+<td>6.8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Accrued discounts</td>
+<td>16.2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Accrued costs, subcontractors</td>
+<td>3.0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Other accrued expenses</td>
+<td>35.3</td>
+<td>46.0</td>
+<td>3.3</td>
+<td>-0.3</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>276.9</td>
+<td>256.0</td>
+<td>20.9</td>
+<td>9.6</td>
+</tr>
+</table>
+
+
+Other accrued expenses refer mainly to accrued expenses.
+
+
+## Note 25 Pledged collateral and contingent liabilities
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Group</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Corporate mortgages</td>
+<td>37.7</td>
+<td>37.7</td>
+</tr>
+<tr>
+<td>Other contingent liabilities</td>
+<td>2.5</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>40.2</td>
+<td>37.8</td>
+</tr>
+</table>
+
+
+Pledged assets refers mainly to collateral linked to the Group's central
+credit facility.
+
+
+## Note 26 Transactions with related parties
+
+Intra-Group purchases and sales have occurred only to a limited extent.
+Investments with and borrowings from Group companies have been made
+on market terms.
+
+There are transactions with related parties of the respective subsidiaries
+within the Group, mainly concerning the renting of premises. All contracts
+have been concluded under normal commercial conditions.
+
+There are no other transactions with related parties.
+
+
+### Transactions with key senior executives
+
+Apart from what is stated in Note 7 Remuneration to the Board of Directors
+and senior executives, there have been no significant transactions with
+related natural persons.
+
+
+## Note 27 Receivables from Group companies and other non-current receivables
+
+
+### Receivables from Group companies
+
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Parent company</th>
+</tr>
+<tr>
+<th>2023</th>
+<th>2022</th>
+</tr>
+<tr>
+<td>Opening acquisition cost</td>
+<td>2,061.7</td>
+<td>1,682.8</td>
+</tr>
+<tr>
+<td>Additional intra-Group loan receivables</td>
+<td>676.2</td>
+<td>629.1</td>
+</tr>
+<tr>
+<td>Repayments</td>
+<td>-52.5</td>
+<td>-528.5</td>
+</tr>
+<tr>
+<td>Reclassification from current to non-current</td>
+<td>-66.5</td>
+<td>231.0</td>
+</tr>
+<tr>
+<td>Accrued and capitalised interest</td>
+<td>9.8</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>Revaluation of foreign currency receivables</td>
+<td>-50.7</td>
+<td>44.3</td>
+</tr>
+<tr>
+<td>Closing acquisition cost</td>
+<td>2,578.0</td>
+<td>2,061.7</td>
+</tr>
+</table>
+
+
+No credit loss reserve has been recognised for consolidated receivables,
+as future credit losses have been deemed immaterial for the parent
+company.
+
+
+## Note 28 Information about the parent company
+
+Information about the parent company, Sdiptech AB (publ.), corporate
+identity number 556672-4893, is the parent company of the Group. The
+company has its registered office in Stockholm in the County of Stockholm,
+and is a limited liability company under Swedish law.
+
+Address of head office:
+Sdiptech AB (publ.), Nybrogatan 39, SE-114 39 Stockholm, Sweden
+
+
+## Note 29 Significant events after the balance sheet date
+
+
+### Acquisitions
+
+On 24 January 2024, Sdiptech AB (publ.) acquired all shares in the British
+company JR Industries Ltd, a leading British niche manufacturer of roller
+shutter doors for commercial vehicles. This company offers a wide range of
+custom products that increase efficiency and safety when loading and
+unloading goods from vehicles. The company has an annual EBIT of
+around GBP 4.5 million.
+
+JR Industries will form part of the Special Infrastructure Solutions business
+area as of January 2024. Sdiptech will pay GBP 25.6 million on the closing
+date, which will be financed from its own funds and an existing credit facility.
+The final purchase price, which will be settled at the end of a four-year
+additional purchase price period, is dependent on the company's
+performance.
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023
+95
+---
+
+OVERVIEW
+STRATEGY
+OPERATIONS
+SUSTAINABILITY GROUP
+CORPORATE GOVERNANCE
+FINANCIAL INFORMATION
+SUSTAINABILITY NOTES
+
+
+## Signatures
+
+The Board of Directors and Chief Executive Officer certify that the annual accounts have been prepared in accordance with generally accepted accounting policies in Sweden,
+and that the consolidated accounts have been prepared in accordance with the international accounting standards referred to in Regulation (EC) No 1606/2002
+of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards. The annual accounts
+and the consolidated accounts provide a true and fair view of the position and earnings of the parent company and the Group. Nothing of material
+importance has been omitted that would affect the view of the company created by the annual report. The Directors' report for the
+parent company and the Group provides a true and fair view of the development of the operations, financial position
+and earnings of the parent company and the Group and describes significant risks and uncertainties to which the parent company and Group companies are exposed.
+
+As stated above, the annual accounts and consolidated accounts were approved for issue by the Board of Directors and the Chief Executive Officer on
+11 April 2024. The consolidated statements of income and other comprehensive income and the statement of financial position and the parent company's
+income statement and balance sheet will be subject to approval by the Annual General Meeting on 22 May 2024.
+
+Stockholm, 16 April 2024
+
+Bengt Lejdström
+Chief Executive Officer
+
+Eola Änggård Runsten
+Board member
+
+Johnny Alvarsson
+Board member
+
+Jan Samuelsson
+Chairman
+
+Urban Doverholt
+Board member
+
+Birgitta Henriksson
+Board member
+
+Our audit report was submitted on 16 April 2024
+Öhrlings PricewaterhouseCoopers AB
+
+Anna Rosendal
+Authorised Public Accountant, Principal
+Accountant
+
+Andreas Skogh
+Authorised Public Accountant,
+co-signatory
+
+SDIPTECH AB | ANNUAL AND SUSTAINABILITY REPORT 2023 DIRECTORS' REPORT |
+96

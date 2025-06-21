@@ -1,74 +1,82 @@
-# Notes to the Financial Statements
+# Plan and Overview Document
+
+## 1. Introduction
+This document outlines the plan and implementation details for the Python Developer Task. The goal of this project is to create an application that takes a user's current mood and city as input, checks if the mood matches the weather in that city, and then recommends a song that matches the user's mood. The system leverages free weather and song recommendation API services.
+
+## 2. Approach to App Development
+My approach to app development for this task focused on modularity, readability, and testability. I broke down the application into several distinct components:
+
+*   `WeatherAPI`: Handles interaction with the OpenWeatherMap API.
+*   `MoodWeatherMatcher`: Contains the logic for matching user mood with weather conditions.
+*   `SongRecommender`: Manages song recommendations using the Last.fm API.
+*   `main.py`: Integrates these components using FastAPI to expose an API endpoint.
+
+This modular design allows for easier maintenance, debugging, and potential future expansion. Each component has a clear responsibility, minimizing interdependencies.
+
+## 3. Feature Planning
+
+### Core Features:
+*   **Mood Input**: Accept user's current mood (e.g., happy, sad, energetic, relaxed, gloomy).
+*   **City Input**: Accept user's city.
+*   **Weather API Integration**: Fetch current weather data for the given city using OpenWeatherMap.
+*   **Mood-Weather Match Logic**: Determine if the current weather aligns with the user's mood based on predefined mappings.
+*   **Song Recommendation API Integration**: Suggest a song matching the entered mood using Last.fm.
+*   **API Endpoint**: Provide a RESTful API endpoint using FastAPI to expose the functionality.
+
+### Future Enhancements (Beyond Scope of this Task):
+*   **More sophisticated mood-weather mapping**: Implement machine learning or more extensive rule sets for better matching.
+*   **Multiple song recommendation sources**: Integrate with other music APIs for a wider range of recommendations.
+*   **User authentication and profiles**: Allow users to save preferences and past recommendations.
+*   **Frontend UI**: Develop a simple web interface for user interaction.
+*   **Error handling improvements**: More granular error messages and logging.
+*   **Rate limit handling**: Implement more robust strategies for handling API rate limits.
+
+## 4. Code Quality and Readability
+*   **Modularity**: As mentioned, the code is divided into logical units.
+*   **Clear Naming**: Variables, functions, and classes are named descriptively to indicate their purpose.
+*   **Comments**: Important sections of code are commented to explain complex logic or design choices.
+*   **Docstrings**: Functions and classes include docstrings explaining their purpose, arguments, and return values.
+*   **Consistent Style**: Adhered to PEP 8 guidelines for Python code style.
+
+## 5. Testing Strategy
+Unit tests were implemented using `pytest` to ensure the correctness of individual components:
+*   `WeatherAPI`: Tested for successful data retrieval and error handling.
+*   `MoodWeatherMatcher`: Tested for accurate mood-weather matching and non-matching scenarios.
+*   `SongRecommender`: Tested for successful song recommendations, no song found scenarios, and API errors.
+
+Mocking was used for external API calls to ensure tests are fast, reliable, and independent of external service availability.
+
+## 6. Error Handling and Exception Handling
+*   **API Request Errors**: `requests.exceptions.RequestException` is caught for network-related issues or invalid responses from external APIs.
+*   **HTTP Errors**: `response.raise_for_status()` is used to raise exceptions for bad HTTP responses (4xx or 5xx).
+*   **Data Parsing Errors**: Checks are in place to ensure expected keys are present in API responses before accessing them.
+*   **FastAPI HTTPException**: Used to return appropriate HTTP status codes and details for API-level errors.
+
+## 7. Dependencies
+*   `fastapi`: For building the web API.
+*   `uvicorn`: ASGI server to run the FastAPI application.
+*   `requests`: For making HTTP requests to external APIs.
+*   `pytest`: For unit testing.
+
+These dependencies are listed in `requirements.txt`.
+
+## 8. Postman Collection
+A Postman collection will be provided to demonstrate the API endpoint and its usage. It will include example requests for different moods and cities.
+
+## 9. Diagrams
+No complex diagrams are deemed necessary for this project due to its relatively straightforward architecture. A simple block diagram could illustrate the flow:
+
+```mermaid
+graph TD
+    A[User Input: Mood, City] --> B{FastAPI Application}
+    B --> C[WeatherAPI (OpenWeatherMap)]
+    B --> D[MoodWeatherMatcher]
+    B --> E[SongRecommender (Last.fm)]
+    C --> D
+    D --> E
+    E --> F[Recommended Song]
+    F --> B
+    B --> G[API Response]
+```
 
 
-## 1. General Information
-
-
-### a) Reporting entity
-
-Bloomsbury Publishing Plc (the "Company") is a public limited company incorporated in England and Wales and domiciled in the United
-Kingdom. The address of the Company's registered office can be found on page 212. The consolidated financial statements of the
-Company as at and for the year ended 28 February 2025 comprise the Company and its subsidiaries (together referred to as the "Group").
-The Group is primarily involved in the publication of books and other related services.
-
-
-### b) Statement of compliance
-
-The Group financial statements have been prepared and approved by the Directors in accordance with UK-adopted international
-accounting standards ("IFRS") and the requirements of the Companies Act 2006.
-
-
-### c) Basis of preparation
-
-The consolidated financial statements have been prepared on a going concern basis (see Note 1d) and under the historical cost convention
-as modified by the revaluation of financial assets and liabilities at fair value.
-
-This year, we have adopted a rounding practice to present current and prior year figures in millions instead of thousands. This change aims
-to enhance the clarity and usability of our financial statements.
-
-These consolidated financial statements were approved for issue by the Board of Directors on 21 May 2025.
-
-
-### d) Going concern
-
-The Group's business activities, together with the factors likely to affect its future development, performance and position are set out
-in the Strategic Report on pages 10 to 90. The financial position of the Group, its cash flows and liquidity position are described in the
-Financial Review on pages 30 to 34. In addition, Note 24 to the financial statements includes the Group's objectives, policies and processes
-for managing its capital, its financial risk management objectives, details of its financial instruments, and its exposures to credit risk and
-liquidity risk.
-
-The Directors have a reasonable expectation that the Group has adequate resources to continue in operational existence at least 12 months
-from the date of approval of the financial statements, being the period of the detailed going concern assessment reviewed by the Board,
-and, therefore, continue to adopt the going concern basis of accounting in preparing the consolidated financial statements.
-
-The Board has modelled a severe but plausible downside scenario. This assumes that:
-
-� print revenues are reduced by 20% during 2025/2026 with recovery during 2026/2027;
-
-� digital revenues are reduced by 20% during 2025/2026 with recovery during 2026/2027;
-
-� print costs are increased by 2% from 2025/2026 and staff costs are increased by 2% from 2026/2027;
-
-� downside assumptions about extended debtor days during 2025/2026, with recovery during 2026/2027; and
-
-. cash preservation measures are implemented, and variable costs are reduced.
-
-At 28 February 2025, the Group had available liquidity of �60.6m, comprising central cash balances and its undrawn �20m Revolving Credit
-Facility ("RCF"). The RCF agreement is to November 2027. Under the severe but plausible downside scenario, the Group would maintain
-sufficient liquidity headroom even before modelling the mitigating effect of actions that management would take in the event that these
-downside risks were to crystallise. Details of the bank facility and its covenants are shown in Note 24c).
-
-
-### e) Use of estimates and judgements
-
-The preparation of the consolidated financial statements in conformity with IFRS requires management to make judgements, estimates and
-assumptions that affect the application of accounting policies and the reported amounts of assets, liabilities, income and expenses. Actual
-results may differ from these estimates.
-
-Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in
-which the estimate is revised and in any future periods affected. Critical judgements and areas where the use of estimates is significant are
-disclosed in Note 2s).
-
-Bloomsbury Publishing Plc
-154
-www.bloomsbury.com

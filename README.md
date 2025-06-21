@@ -17,7 +17,28 @@ This project is a web application designed to automate the processing of scanned
   - Line items with descriptions, quantities, and prices
 - **Structured Database Storage**: Stores extracted data in an organized SQLite database
 - **RESTful API**: Complete set of APIs for seamless receipt management and data retrieval
-- **Duplicate Handling**: Updates existing records instead of creating duplicates
+- **Advanced Duplicate Detection**: SHA-256 file hash-based duplicate detection with multiple handling strategies
+- **Flexible Duplicate Handling**: Choose how to handle duplicates with different strategies for uploads and processing
+
+## Duplicate Detection & Handling
+
+The system uses SHA-256 file hashing to detect exact duplicate files and provides multiple strategies for handling them:
+
+### Upload Duplicate Strategies
+
+| Strategy | Description | HTTP Status | Use Case |
+|----------|-------------|-------------|----------|
+| **`reject`** (default) | Reject duplicate uploads with detailed information about the existing file | 409 Conflict | Prevent accidental duplicates |
+| **`update`** | Update the existing receipt metadata with new file information | 200 OK | Replace file with updated version |
+| **`ignore`** | Create a new entry despite the duplicate detection | 201 Created | Force create new entry |
+
+### Processing Duplicate Strategies
+
+| Strategy | Description | HTTP Status | Use Case |
+|----------|-------------|-------------|----------|
+| **`return_existing`** (default) | Return existing processed data without reprocessing | 200 OK | Retrieve existing data |
+| **`reprocess`** | Delete existing data and reprocess the receipt | 200 OK | Update extracted data |
+| **`reject`** | Reject processing with information about existing data | 409 Conflict | Prevent reprocessing |
 
 ## Database Schema
 
@@ -32,6 +53,7 @@ Stores metadata for each uploaded receipt file.
 | `id` | Unique identifier for the uploaded file |
 | `file_name` | Name of the uploaded file |
 | `file_path` | Storage path of the uploaded file |
+| `file_hash` | SHA-256 hash of file content for duplicate detection |
 | `is_valid` | Indicates if the file is a valid receipt |
 | `invalid_reason` | Reason for the file being invalid (if applicable) |
 | `is_processed` | Indicates if the file has been processed |
@@ -52,8 +74,6 @@ Stores the extracted information from valid receipt files.
 | `payment_method` | Payment method used (e.g., Credit Card, Cash) |
 | `category` | Receipt category (e.g., Food, Transportation) |
 | `receipt_file` | Foreign key to the associated receipt file |
-| `created_at` | Timestamp of when the receipt was processed |
-| `updated_at` | Timestamp of the last modification |
 
 ### `line_item`
 
@@ -73,24 +93,47 @@ Stores individual line items from receipts.
 ### 1. Upload Receipt
 **POST** `/upload`
 
-Uploads a new receipt file and stores its metadata.
+Uploads a new receipt file and stores its metadata. Supports duplicate detection.
+
+**Query Parameters:**
+- `duplicate_strategy` (optional): `reject`, `update`, or `ignore` (default: `reject`)
 
 **Request:**
 ```bash
+# Normal upload
 curl -X POST -F "file=@/path/to/your/receipt.pdf" http://127.0.0.1:8000/upload
+
+# Upload with duplicate update strategy
+curl -X POST -F "file=@/path/to/your/receipt.pdf" "http://127.0.0.1:8000/upload?duplicate_strategy=update"
 ```
 
-**Response:**
+**Success Response (201 Created):**
 ```json
 {
     "id": 1,
     "file_name": "receipt.pdf",
     "file_path": "uploads/file-1_receipt.pdf",
+    "file_hash": "a1b2c3d4e5f6...",
     "is_valid": false,
     "invalid_reason": null,
     "is_processed": false,
     "created_at": "2024-01-15T10:30:00Z",
     "updated_at": "2024-01-15T10:30:00Z"
+}
+```
+
+**Duplicate Detection Response (409 Conflict):**
+```json
+{
+    "error": "Duplicate file detected",
+    "duplicate_info": {
+        "existing_id": 1,
+        "existing_file_name": "receipt.pdf",
+        "uploaded_at": "2024-01-15T10:30:00Z",
+        "is_processed": true,
+        "is_valid": true
+    },
+    "message": "Use duplicate_strategy=update to update existing receipt or duplicate_strategy=ignore to create new entry"
 }
 ```
 
@@ -104,12 +147,13 @@ Validates an uploaded file to confirm it is a valid receipt.
 curl -X GET http://127.0.0.1:8000/validate/1
 ```
 
-**Response:**
+**Response (200 OK):**
 ```json
 {
     "id": 1,
     "file_name": "receipt.pdf",
     "file_path": "uploads/file-1_receipt.pdf",
+    "file_hash": "a1b2c3d4e5f6...",
     "is_valid": true,
     "invalid_reason": "",
     "is_processed": false,
@@ -121,14 +165,21 @@ curl -X GET http://127.0.0.1:8000/validate/1
 ### 3. Process Receipt
 **GET** `/process/{receipt_id}`
 
-Extracts receipt details using AI and saves the data.
+Extracts receipt details using AI and saves the data. Handles duplicate processing scenarios.
+
+**Query Parameters:**
+- `duplicate_strategy` (optional): `return_existing`, `reprocess`, or `reject` (default: `return_existing`)
 
 **Request:**
 ```bash
+# Normal processing
 curl -X GET http://127.0.0.1:8000/process/1
+
+# Reprocess existing receipt
+curl -X GET "http://127.0.0.1:8000/process/1?duplicate_strategy=reprocess"
 ```
 
-**Response:**
+**Success Response (200 OK):**
 ```json
 {
     "id": 1,
@@ -160,6 +211,15 @@ curl -X GET http://127.0.0.1:8000/process/1
 }
 ```
 
+**Already Processed Response (409 Conflict):**
+```json
+{
+    "error": "Receipt already processed",
+    "existing_data": [...],
+    "message": "Use duplicate_strategy=reprocess to reprocess or duplicate_strategy=return_existing to return existing data"
+}
+```
+
 ### 4. List All Receipts
 **GET** `/receipts`
 
@@ -170,7 +230,7 @@ Retrieves a list of all receipts stored in the database.
 curl -X GET http://127.0.0.1:8000/receipts
 ```
 
-**Response:**
+**Response (200 OK):**
 ```json
 [
     {
@@ -199,7 +259,7 @@ Fetches the details of a specific receipt by its ID.
 curl -X GET http://127.0.0.1:8000/receipts/1
 ```
 
-**Response:**
+**Response (200 OK):**
 ```json
 {
     "id": 1,
@@ -222,6 +282,7 @@ curl -X GET http://127.0.0.1:8000/receipts/1
 
 - Python 3.8 or higher
 - OpenAI API key (for AI-powered extraction)
+- Postman (for API testing)
 
 ### Installation
 
@@ -265,6 +326,134 @@ curl -X GET http://127.0.0.1:8000/receipts/1
 
 The application will be available at `http://127.0.0.1:8000/`
 
+## Using the Postman Collection
+
+### Importing the Collection
+
+1. **Download the collection**: The collection file is available as `auto-receipts.postman_collection.json` in the project root.
+
+2. **Import into Postman**:
+   - Open Postman
+   - Click "Import" button
+   - Select the `auto-receipts.postman_collection.json` file
+   - The collection will be imported with all test scenarios
+
+3. **Set up environment variables**:
+   - The collection uses a `base_url` variable set to `http://127.0.0.1:8000` by default
+   - You can modify this in the collection variables if your server runs on a different URL
+
+### Collection Structure
+
+The collection is organized into 4 main sections for logical testing flow:
+
+#### **1. Upload & Duplicate Detection**
+Test file upload scenarios and duplicate handling:
+
+- **Upload Receipt - First Time**: Test successful file upload
+- **Upload Receipt - Duplicate Detection (Reject)**: Test default duplicate rejection (409 Conflict)
+- **Upload Receipt - Duplicate Update**: Test updating existing receipt (200 OK)
+- **Upload Receipt - Invalid File Type**: Test error handling for unsupported formats (400 Bad Request)
+- **Upload Receipt - No File**: Test missing file validation
+
+#### **2. Validation**
+Test receipt validation functionality:
+
+- **Validate Receipt - Success**: Test successful validation (200 OK)
+- **Validate Receipt - Not Found**: Test validation of non-existent receipts (404 Not Found)
+
+#### **3. Processing & Duplicate Handling**
+Test data extraction and duplicate processing:
+
+- **Process Receipt - First Time**: Test initial data extraction (200 OK)
+- **Process Receipt - Already Processed (Return Existing)**: Test default duplicate strategy (200 OK)
+- **Process Receipt - Reprocess**: Test reprocessing existing receipts (200 OK)
+- **Process Receipt - Already Processed (Reject)**: Test rejection strategy (409 Conflict)
+- **Process Receipt - Not Validated**: Test processing unvalidated receipts (400 Bad Request)
+- **Process Receipt - Not Found**: Test processing non-existent receipts (404 Not Found)
+
+#### **4. Data Retrieval**
+Test data retrieval functionality:
+
+- **List All Receipts**: Test bulk data retrieval (200 OK)
+- **Get Receipt Details - Success**: Test individual receipt retrieval (200 OK)
+- **Get Receipt Details - Not Found**: Test retrieval of non-existent receipts (404 Not Found)
+
+### Testing Workflow
+
+#### **Complete End-to-End Testing**
+
+1. **Start with Upload**:
+   - Use "Upload Receipt - First Time" to upload a receipt file
+   - Note the receipt ID from the response
+
+2. **Validate the Receipt**:
+   - Use "Validate Receipt - Success" with the receipt ID
+   - Verify the receipt is marked as valid
+
+3. **Process the Receipt**:
+   - Use "Process Receipt - First Time" with the receipt ID
+   - Verify data extraction works correctly
+
+4. **Test Duplicate Scenarios**:
+   - Upload the same file again to test duplicate detection
+   - Try different duplicate strategies (update, ignore)
+   - Test reprocessing with different strategies
+
+5. **Retrieve Data**:
+   - Use "List All Receipts" to see all processed receipts
+   - Use "Get Receipt Details - Success" to view specific receipt
+
+#### **Duplicate Testing Scenarios**
+
+1. **Upload Duplicates**:
+   ```bash
+   # First upload (should succeed)
+   POST /upload with file
+   
+   # Second upload with same file (should return 409 Conflict)
+   POST /upload with same file
+   
+   # Third upload with update strategy (should return 200 OK)
+   POST /upload?duplicate_strategy=update with same file
+   
+   # Fourth upload with ignore strategy (should return 201 Created)
+   POST /upload?duplicate_strategy=ignore with same file
+   ```
+
+2. **Processing Duplicates**:
+   ```bash
+   # First processing (should succeed)
+   GET /process/1
+   
+   # Second processing with return_existing (should return 200 OK with existing data)
+   GET /process/1?duplicate_strategy=return_existing
+   
+   # Third processing with reprocess (should return 200 OK with new data)
+   GET /process/1?duplicate_strategy=reprocess
+   
+   # Fourth processing with reject (should return 409 Conflict)
+   GET /process/1?duplicate_strategy=reject
+   ```
+
+### Expected HTTP Status Codes
+
+| Scenario | Expected Status | Description |
+|----------|----------------|-------------|
+| Successful upload | 201 Created | New receipt created |
+| Duplicate upload (reject) | 409 Conflict | Duplicate detected and rejected |
+| Duplicate upload (update) | 200 OK | Existing receipt updated |
+| Duplicate upload (ignore) | 201 Created | New entry created despite duplicate |
+| Invalid file type | 400 Bad Request | Unsupported format |
+| Missing file | 400 Bad Request | No file provided |
+| Successful validation | 200 OK | Receipt validated |
+| Receipt not found | 404 Not Found | Receipt doesn't exist |
+| Successful processing | 200 OK | Data extracted successfully |
+| Already processed (return existing) | 200 OK | Existing data returned |
+| Already processed (reprocess) | 200 OK | Data reprocessed |
+| Already processed (reject) | 409 Conflict | Processing rejected |
+| Not validated | 400 Bad Request | Receipt not validated |
+| Successful retrieval | 200 OK | Data retrieved successfully |
+
 ## Dependencies
 
 - **Django**: Web framework
@@ -282,6 +471,7 @@ auto-receipts/
 ├── requirements.txt          # Python dependencies
 ├── receipts.db              # SQLite database
 ├── uploads/                 # Directory for uploaded files
+├── auto-receipts.postman_collection.json  # Postman collection
 ├── receipt_project/         # Django project settings
 │   ├── settings.py
 │   ├── urls.py
@@ -304,17 +494,31 @@ auto-receipts/
    curl -X POST -F "file=@receipt.pdf" http://127.0.0.1:8000/upload
    ```
 
-2. **Validate the uploaded receipt:**
+2. **Upload with duplicate handling:**
+   ```bash
+   # Update existing duplicate
+   curl -X POST -F "file=@receipt.pdf" "http://127.0.0.1:8000/upload?duplicate_strategy=update"
+   
+   # Ignore duplicate detection
+   curl -X POST -F "file=@receipt.pdf" "http://127.0.0.1:8000/upload?duplicate_strategy=ignore"
+   ```
+
+3. **Validate the uploaded receipt:**
    ```bash
    curl -X GET http://127.0.0.1:8000/validate/1
    ```
 
-3. **Process the receipt to extract data:**
+4. **Process the receipt to extract data:**
    ```bash
    curl -X GET http://127.0.0.1:8000/process/1
    ```
 
-4. **List all receipts:**
+5. **Reprocess an existing receipt:**
+   ```bash
+   curl -X GET "http://127.0.0.1:8000/process/1?duplicate_strategy=reprocess"
+   ```
+
+6. **List all receipts:**
    ```bash
    curl -X GET http://127.0.0.1:8000/receipts
    ```
@@ -330,6 +534,11 @@ with open('receipt.pdf', 'rb') as f:
     response = requests.post('http://127.0.0.1:8000/upload', files=files)
     receipt_id = response.json()['id']
 
+# Handle duplicate upload
+with open('receipt.pdf', 'rb') as f:
+    files = {'file': f}
+    response = requests.post('http://127.0.0.1:8000/upload?duplicate_strategy=update', files=files)
+
 # Validate the receipt
 response = requests.get(f'http://127.0.0.1:8000/validate/{receipt_id}')
 
@@ -344,8 +553,9 @@ print(f"Total: {receipt_data['total_amount']} {receipt_data['currency']}")
 
 The API provides comprehensive error handling:
 
-- **400 Bad Request**: Invalid file format or processing errors
+- **400 Bad Request**: Invalid file format, missing file, or processing errors
 - **404 Not Found**: Receipt or file not found
+- **409 Conflict**: Duplicate detection scenarios
 - **500 Internal Server Error**: Server-side processing errors
 
 Error responses include descriptive messages:
@@ -354,6 +564,63 @@ Error responses include descriptive messages:
     "error": "Not a Valid format - Supported Formats: ['.png', '.pdf', '.jpg', '.jpeg']"
 }
 ```
+
+## Duplicate Detection Features
+
+### File Hash Generation
+- Uses SHA-256 hashing for exact file content matching
+- Automatically generated when files are uploaded
+- Stored in database for fast duplicate detection
+- Handles file content changes, not just filename changes
+
+### Duplicate Strategies in Detail
+
+#### **Upload Strategies**
+
+**`reject` (Default)**
+- **Purpose**: Prevent accidental duplicate uploads
+- **Behavior**: Returns 409 Conflict with detailed duplicate information
+- **Use Case**: Production environments where duplicates should be prevented
+- **Response**: Includes existing file details and strategy options
+
+**`update`**
+- **Purpose**: Replace existing file with updated version
+- **Behavior**: Updates metadata and file on disk, returns 200 OK
+- **Use Case**: When you want to replace an existing receipt with a better quality version
+- **Response**: Updated receipt metadata
+
+**`ignore`**
+- **Purpose**: Force create new entry despite duplicate detection
+- **Behavior**: Creates new database entry, returns 201 Created
+- **Use Case**: When you intentionally want multiple entries for the same file
+- **Response**: New receipt metadata
+
+#### **Processing Strategies**
+
+**`return_existing` (Default)**
+- **Purpose**: Retrieve existing processed data without reprocessing
+- **Behavior**: Returns existing extracted data, returns 200 OK
+- **Use Case**: When you want to retrieve data without re-running AI extraction
+- **Response**: Existing receipt data with line items
+
+**`reprocess`**
+- **Purpose**: Delete existing data and extract fresh data
+- **Behavior**: Deletes existing data, runs AI extraction again, returns 200 OK
+- **Use Case**: When you want to update extracted data or fix extraction errors
+- **Response**: Freshly extracted receipt data
+
+**`reject`**
+- **Purpose**: Prevent reprocessing of already processed receipts
+- **Behavior**: Returns 409 Conflict with existing data information
+- **Use Case**: When you want to prevent accidental reprocessing
+- **Response**: Error message with existing data and strategy options
+
+### Benefits of Duplicate Detection
+- **Prevents accidental duplicate uploads**: Saves storage space and processing time
+- **Provides flexible handling options**: Choose the right strategy for your use case
+- **Maintains data integrity**: Ensures consistent data handling
+- **Improves user experience**: Clear feedback on duplicate scenarios
+- **Supports different workflows**: From strict duplicate prevention to flexible handling
 
 ## Contributing
 

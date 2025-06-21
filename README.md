@@ -280,7 +280,7 @@ curl -X GET http://127.0.0.1:8000/receipts/1
 ### Prerequisites
 
 - Python 3.8 or higher
-- OpenAI API key (for AI-powered extraction)
+- OpenAI API key (for AI-powered extraction) - I used Gemini Key here as it is free.
 - Postman (for API testing)
 
 ### Installation
@@ -309,9 +309,14 @@ curl -X GET http://127.0.0.1:8000/receipts/1
    Create a `.env` file in the project root:
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
-   SECRET_KEY=your_django_secret_key_here
-   DEBUG=True
+   OPENAI_BASE_URL=your_service_provider
+   LLM_MODEL=model_you_want_use
+   DJANGO_SECURITY_KEY=your_django_secret_key_here
    ```
+   * I used Gemini Key here as it is free. You can get one at - - > https://aistudio.google.com/
+   * OPENAI_API_KEY - you can put in gemini api-key here
+   * OPENAI_BASE_URL - just put in https://generativelanguage.googleapis.com/v1beta/ to use gemini with openai library
+   * LLM_MODEL - I used gemini-2.5-flash
 
 5. **Run database migrations:**
    ```bash

@@ -8,7 +8,7 @@ This project is a web application designed to automate the processing of scanned
 
 - **Multi-format Receipt Uploads**: Upload scanned receipts in PDF, PNG, JPG, and JPEG formats
 - **File Validation**: Ensures that all uploaded files are valid receipts before processing
-- **AI-Powered Data Extraction**: Uses OpenAI's GPT models to extract key information such as:
+- **AI-Powered Data Extraction**: Uses **Gemini models through openai library** to extract key information such as:
   - Merchant name
   - Purchase date and time
   - Total amount and currency
@@ -30,7 +30,6 @@ The system uses SHA-256 file hashing to detect exact duplicate files and provide
 |----------|-------------|-------------|----------|
 | **`reject`** (default) | Reject duplicate uploads with detailed information about the existing file | 409 Conflict | Prevent accidental duplicates |
 | **`update`** | Update the existing receipt metadata with new file information | 200 OK | Replace file with updated version |
-| **`ignore`** | Create a new entry despite the duplicate detection | 201 Created | Force create new entry |
 
 ### Processing Duplicate Strategies
 
@@ -96,7 +95,7 @@ Stores individual line items from receipts.
 Uploads a new receipt file and stores its metadata. Supports duplicate detection.
 
 **Query Parameters:**
-- `duplicate_strategy` (optional): `reject`, `update`, or `ignore` (default: `reject`)
+- `duplicate_strategy` (optional): `reject`, `update` (default: `reject`)
 
 **Request:**
 ```bash

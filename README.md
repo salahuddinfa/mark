@@ -329,12 +329,12 @@ The application will be available at `http://127.0.0.1:8000/`
 
 ### Importing the Collection
 
-1. **Download the collection**: The collection file is available as `auto-receipts.postman_collection.json` in the project root.
+1. **Download the collection**: The collection file is available as `Auto-Receipts API.postman_collection.json` in the project root.
 
 2. **Import into Postman**:
    - Open Postman
    - Click "Import" button
-   - Select the `auto-receipts.postman_collection.json` file
+   - Select the `Auto-Receipts API.postman_collection.json` file
    - The collection will be imported with all test scenarios
 
 3. **Set up environment variables**:
@@ -522,32 +522,6 @@ auto-receipts/
    curl -X GET http://127.0.0.1:8000/receipts
    ```
 
-### Using Python requests
-
-```python
-import requests
-
-# Upload a receipt
-with open('receipt.pdf', 'rb') as f:
-    files = {'file': f}
-    response = requests.post('http://127.0.0.1:8000/upload', files=files)
-    receipt_id = response.json()['id']
-
-# Handle duplicate upload
-with open('receipt.pdf', 'rb') as f:
-    files = {'file': f}
-    response = requests.post('http://127.0.0.1:8000/upload?duplicate_strategy=update', files=files)
-
-# Validate the receipt
-response = requests.get(f'http://127.0.0.1:8000/validate/{receipt_id}')
-
-# Process the receipt
-response = requests.get(f'http://127.0.0.1:8000/process/{receipt_id}')
-receipt_data = response.json()
-print(f"Merchant: {receipt_data['merchant_name']}")
-print(f"Total: {receipt_data['total_amount']} {receipt_data['currency']}")
-```
-
 ## Error Handling
 
 The API provides comprehensive error handling:
@@ -588,12 +562,6 @@ Error responses include descriptive messages:
 - **Use Case**: When you want to replace an existing receipt with a better quality version
 - **Response**: Updated receipt metadata
 
-**`ignore`**
-- **Purpose**: Force create new entry despite duplicate detection
-- **Behavior**: Creates new database entry, returns 201 Created
-- **Use Case**: When you intentionally want multiple entries for the same file
-- **Response**: New receipt metadata
-
 #### **Processing Strategies**
 
 **`return_existing` (Default)**
@@ -621,18 +589,3 @@ Error responses include descriptive messages:
 - **Improves user experience**: Clear feedback on duplicate scenarios
 - **Supports different workflows**: From strict duplicate prevention to flexible handling
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-If you encounter any issues or have questions, please open an issue on GitHub or contact the development team.

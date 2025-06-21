@@ -1,82 +1,372 @@
-# Plan and Overview Document
+# Auto-Receipts: Automated Receipt Processing System
 
-## 1. Introduction
-This document outlines the plan and implementation details for the Python Developer Task. The goal of this project is to create an application that takes a user's current mood and city as input, checks if the mood matches the weather in that city, and then recommends a song that matches the user's mood. The system leverages free weather and song recommendation API services.
+## Overview
 
-## 2. Approach to App Development
-My approach to app development for this task focused on modularity, readability, and testability. I broke down the application into several distinct components:
+This project is a web application designed to automate the processing of scanned receipts. It leverages OCR/AI to extract key details from PDF receipts and stores the structured data in a SQLite database. The system provides REST APIs for managing and retrieving receipt information, making it a comprehensive solution for digital receipt management.
 
-*   `WeatherAPI`: Handles interaction with the OpenWeatherMap API.
-*   `MoodWeatherMatcher`: Contains the logic for matching user mood with weather conditions.
-*   `SongRecommender`: Manages song recommendations using the Last.fm API.
-*   `main.py`: Integrates these components using FastAPI to expose an API endpoint.
+## Features
 
-This modular design allows for easier maintenance, debugging, and potential future expansion. Each component has a clear responsibility, minimizing interdependencies.
+- **Multi-format Receipt Uploads**: Upload scanned receipts in PDF, PNG, JPG, and JPEG formats
+- **File Validation**: Ensures that all uploaded files are valid receipts before processing
+- **AI-Powered Data Extraction**: Uses OpenAI's GPT models to extract key information such as:
+  - Merchant name
+  - Purchase date and time
+  - Total amount and currency
+  - Payment method
+  - Category classification
+  - Line items with descriptions, quantities, and prices
+- **Structured Database Storage**: Stores extracted data in an organized SQLite database
+- **RESTful API**: Complete set of APIs for seamless receipt management and data retrieval
+- **Duplicate Handling**: Updates existing records instead of creating duplicates
 
-## 3. Feature Planning
+## Database Schema
 
-### Core Features:
-*   **Mood Input**: Accept user's current mood (e.g., happy, sad, energetic, relaxed, gloomy).
-*   **City Input**: Accept user's city.
-*   **Weather API Integration**: Fetch current weather data for the given city using OpenWeatherMap.
-*   **Mood-Weather Match Logic**: Determine if the current weather aligns with the user's mood based on predefined mappings.
-*   **Song Recommendation API Integration**: Suggest a song matching the entered mood using Last.fm.
-*   **API Endpoint**: Provide a RESTful API endpoint using FastAPI to expose the functionality.
+The application uses a SQLite database (`receipts.db`) with the following tables:
 
-### Future Enhancements (Beyond Scope of this Task):
-*   **More sophisticated mood-weather mapping**: Implement machine learning or more extensive rule sets for better matching.
-*   **Multiple song recommendation sources**: Integrate with other music APIs for a wider range of recommendations.
-*   **User authentication and profiles**: Allow users to save preferences and past recommendations.
-*   **Frontend UI**: Develop a simple web interface for user interaction.
-*   **Error handling improvements**: More granular error messages and logging.
-*   **Rate limit handling**: Implement more robust strategies for handling API rate limits.
+### `receipt_file` (ReceiptMetaData)
 
-## 4. Code Quality and Readability
-*   **Modularity**: As mentioned, the code is divided into logical units.
-*   **Clear Naming**: Variables, functions, and classes are named descriptively to indicate their purpose.
-*   **Comments**: Important sections of code are commented to explain complex logic or design choices.
-*   **Docstrings**: Functions and classes include docstrings explaining their purpose, arguments, and return values.
-*   **Consistent Style**: Adhered to PEP 8 guidelines for Python code style.
+Stores metadata for each uploaded receipt file.
 
-## 5. Testing Strategy
-Unit tests were implemented using `pytest` to ensure the correctness of individual components:
-*   `WeatherAPI`: Tested for successful data retrieval and error handling.
-*   `MoodWeatherMatcher`: Tested for accurate mood-weather matching and non-matching scenarios.
-*   `SongRecommender`: Tested for successful song recommendations, no song found scenarios, and API errors.
+| Column | Description |
+|--------|-------------|
+| `id` | Unique identifier for the uploaded file |
+| `file_name` | Name of the uploaded file |
+| `file_path` | Storage path of the uploaded file |
+| `is_valid` | Indicates if the file is a valid receipt |
+| `invalid_reason` | Reason for the file being invalid (if applicable) |
+| `is_processed` | Indicates if the file has been processed |
+| `created_at` | Timestamp of when the receipt was first uploaded |
+| `updated_at` | Timestamp of the last modification |
 
-Mocking was used for external API calls to ensure tests are fast, reliable, and independent of external service availability.
+### `receipt`
 
-## 6. Error Handling and Exception Handling
-*   **API Request Errors**: `requests.exceptions.RequestException` is caught for network-related issues or invalid responses from external APIs.
-*   **HTTP Errors**: `response.raise_for_status()` is used to raise exceptions for bad HTTP responses (4xx or 5xx).
-*   **Data Parsing Errors**: Checks are in place to ensure expected keys are present in API responses before accessing them.
-*   **FastAPI HTTPException**: Used to return appropriate HTTP status codes and details for API-level errors.
+Stores the extracted information from valid receipt files.
 
-## 7. Dependencies
-*   `fastapi`: For building the web API.
-*   `uvicorn`: ASGI server to run the FastAPI application.
-*   `requests`: For making HTTP requests to external APIs.
-*   `pytest`: For unit testing.
+| Column | Description |
+|--------|-------------|
+| `id` | Unique identifier for the extracted receipt |
+| `purchased_at` | Date and time of purchase from the receipt |
+| `merchant_name` | Merchant's name as extracted from the receipt |
+| `total_amount` | Total amount spent as shown on the receipt |
+| `currency` | Currency code (e.g., USD, EUR) |
+| `payment_method` | Payment method used (e.g., Credit Card, Cash) |
+| `category` | Receipt category (e.g., Food, Transportation) |
+| `receipt_file` | Foreign key to the associated receipt file |
+| `created_at` | Timestamp of when the receipt was processed |
+| `updated_at` | Timestamp of the last modification |
 
-These dependencies are listed in `requirements.txt`.
+### `line_item`
 
-## 8. Postman Collection
-A Postman collection will be provided to demonstrate the API endpoint and its usage. It will include example requests for different moods and cities.
+Stores individual line items from receipts.
 
-## 9. Diagrams
-No complex diagrams are deemed necessary for this project due to its relatively straightforward architecture. A simple block diagram could illustrate the flow:
+| Column | Description |
+|--------|-------------|
+| `id` | Unique identifier for the line item |
+| `description` | Description of the item |
+| `quantity` | Quantity purchased |
+| `unit_price` | Price per unit |
+| `total` | Total price for this line item |
+| `receipt` | Foreign key to the parent receipt |
 
-```mermaid
-graph TD
-    A[User Input: Mood, City] --> B{FastAPI Application}
-    B --> C[WeatherAPI (OpenWeatherMap)]
-    B --> D[MoodWeatherMatcher]
-    B --> E[SongRecommender (Last.fm)]
-    C --> D
-    D --> E
-    E --> F[Recommended Song]
-    F --> B
-    B --> G[API Response]
+## API Endpoints
+
+### 1. Upload Receipt
+**POST** `/upload`
+
+Uploads a new receipt file and stores its metadata.
+
+**Request:**
+```bash
+curl -X POST -F "file=@/path/to/your/receipt.pdf" http://127.0.0.1:8000/upload
 ```
 
+**Response:**
+```json
+{
+    "id": 1,
+    "file_name": "receipt.pdf",
+    "file_path": "uploads/file-1_receipt.pdf",
+    "is_valid": false,
+    "invalid_reason": null,
+    "is_processed": false,
+    "created_at": "2024-01-15T10:30:00Z",
+    "updated_at": "2024-01-15T10:30:00Z"
+}
+```
 
+### 2. Validate Receipt
+**GET** `/validate/{receipt_id}`
+
+Validates an uploaded file to confirm it is a valid receipt.
+
+**Request:**
+```bash
+curl -X GET http://127.0.0.1:8000/validate/1
+```
+
+**Response:**
+```json
+{
+    "id": 1,
+    "file_name": "receipt.pdf",
+    "file_path": "uploads/file-1_receipt.pdf",
+    "is_valid": true,
+    "invalid_reason": "",
+    "is_processed": false,
+    "created_at": "2024-01-15T10:30:00Z",
+    "updated_at": "2024-01-15T10:30:00Z"
+}
+```
+
+### 3. Process Receipt
+**GET** `/process/{receipt_id}`
+
+Extracts receipt details using AI and saves the data.
+
+**Request:**
+```bash
+curl -X GET http://127.0.0.1:8000/process/1
+```
+
+**Response:**
+```json
+{
+    "id": 1,
+    "purchased_at": "2024-01-15T10:30:00Z",
+    "merchant_name": "Walmart",
+    "total_amount": "156.78",
+    "currency": "USD",
+    "payment_method": "Credit Card",
+    "category": "Shopping",
+    "receipt_file": 1,
+    "created_at": "2024-01-15T10:35:00Z",
+    "updated_at": "2024-01-15T10:35:00Z",
+    "line_items": [
+        {
+            "id": 1,
+            "description": "Milk",
+            "quantity": "2.00",
+            "unit_price": "3.99",
+            "total": "7.98"
+        },
+        {
+            "id": 2,
+            "description": "Bread",
+            "quantity": "1.00",
+            "unit_price": "2.49",
+            "total": "2.49"
+        }
+    ]
+}
+```
+
+### 4. List All Receipts
+**GET** `/receipts`
+
+Retrieves a list of all receipts stored in the database.
+
+**Request:**
+```bash
+curl -X GET http://127.0.0.1:8000/receipts
+```
+
+**Response:**
+```json
+[
+    {
+        "id": 1,
+        "purchased_at": "2024-01-15T10:30:00Z",
+        "merchant_name": "Walmart",
+        "total_amount": "156.78",
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "category": "Shopping",
+        "receipt_file": 1,
+        "created_at": "2024-01-15T10:35:00Z",
+        "updated_at": "2024-01-15T10:35:00Z",
+        "line_items": [...]
+    }
+]
+```
+
+### 5. Get Receipt Details
+**GET** `/receipts/{id}`
+
+Fetches the details of a specific receipt by its ID.
+
+**Request:**
+```bash
+curl -X GET http://127.0.0.1:8000/receipts/1
+```
+
+**Response:**
+```json
+{
+    "id": 1,
+    "purchased_at": "2024-01-15T10:30:00Z",
+    "merchant_name": "Walmart",
+    "total_amount": "156.78",
+    "currency": "USD",
+    "payment_method": "Credit Card",
+    "category": "Shopping",
+    "receipt_file": 1,
+    "created_at": "2024-01-15T10:35:00Z",
+    "updated_at": "2024-01-15T10:35:00Z",
+    "line_items": [...]
+}
+```
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8 or higher
+- OpenAI API key (for AI-powered extraction)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/auto-receipts.git
+   cd auto-receipts
+   ```
+
+2. **Create and activate a virtual environment:**
+   ```bash
+   python -m venv venv
+   # On Windows
+   venv\Scripts\activate
+   # On macOS/Linux
+   source venv/bin/activate
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Set up environment variables:**
+   Create a `.env` file in the project root:
+   ```env
+   OPENAI_API_KEY=your_openai_api_key_here
+   SECRET_KEY=your_django_secret_key_here
+   DEBUG=True
+   ```
+
+5. **Run database migrations:**
+   ```bash
+   python manage.py migrate
+   ```
+
+6. **Start the development server:**
+   ```bash
+   python manage.py runserver
+   ```
+
+The application will be available at `http://127.0.0.1:8000/`
+
+## Dependencies
+
+- **Django**: Web framework
+- **Django REST Framework**: API framework
+- **OpenAI**: AI-powered text extraction
+- **PyPDFium2**: PDF processing
+- **Pillow**: Image processing
+- **python-dotenv**: Environment variable management
+
+## Project Structure
+
+```
+auto-receipts/
+├── manage.py                 # Django management script
+├── requirements.txt          # Python dependencies
+├── receipts.db              # SQLite database
+├── uploads/                 # Directory for uploaded files
+├── receipt_project/         # Django project settings
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+└── receipts/               # Main application
+    ├── models.py           # Database models
+    ├── views.py            # API views
+    ├── serializers.py      # Data serializers
+    ├── utils.py            # Utility functions
+    ├── urls.py             # URL routing
+    └── migrations/         # Database migrations
+```
+
+## Usage Examples
+
+### Using curl
+
+1. **Upload a receipt:**
+   ```bash
+   curl -X POST -F "file=@receipt.pdf" http://127.0.0.1:8000/upload
+   ```
+
+2. **Validate the uploaded receipt:**
+   ```bash
+   curl -X GET http://127.0.0.1:8000/validate/1
+   ```
+
+3. **Process the receipt to extract data:**
+   ```bash
+   curl -X GET http://127.0.0.1:8000/process/1
+   ```
+
+4. **List all receipts:**
+   ```bash
+   curl -X GET http://127.0.0.1:8000/receipts
+   ```
+
+### Using Python requests
+
+```python
+import requests
+
+# Upload a receipt
+with open('receipt.pdf', 'rb') as f:
+    files = {'file': f}
+    response = requests.post('http://127.0.0.1:8000/upload', files=files)
+    receipt_id = response.json()['id']
+
+# Validate the receipt
+response = requests.get(f'http://127.0.0.1:8000/validate/{receipt_id}')
+
+# Process the receipt
+response = requests.get(f'http://127.0.0.1:8000/process/{receipt_id}')
+receipt_data = response.json()
+print(f"Merchant: {receipt_data['merchant_name']}")
+print(f"Total: {receipt_data['total_amount']} {receipt_data['currency']}")
+```
+
+## Error Handling
+
+The API provides comprehensive error handling:
+
+- **400 Bad Request**: Invalid file format or processing errors
+- **404 Not Found**: Receipt or file not found
+- **500 Internal Server Error**: Server-side processing errors
+
+Error responses include descriptive messages:
+```json
+{
+    "error": "Not a Valid format - Supported Formats: ['.png', '.pdf', '.jpg', '.jpeg']"
+}
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Support
+
+If you encounter any issues or have questions, please open an issue on GitHub or contact the development team.

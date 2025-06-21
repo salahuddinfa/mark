@@ -132,7 +132,7 @@ curl -X POST -F "file=@/path/to/your/receipt.pdf" "http://127.0.0.1:8000/upload?
         "is_processed": true,
         "is_valid": true
     },
-    "message": "Use duplicate_strategy=update to update existing receipt or duplicate_strategy=ignore to create new entry"
+    "message": "Use duplicate_strategy=update to update existing receipt to create new entry"
 }
 ```
 
@@ -400,7 +400,7 @@ Test data retrieval functionality:
 
 4. **Test Duplicate Scenarios**:
    - Upload the same file again to test duplicate detection
-   - Try different duplicate strategies (update, ignore)
+   - Try different duplicate strategies (update)
    - Test reprocessing with different strategies
 
 5. **Retrieve Data**:
@@ -419,9 +419,6 @@ Test data retrieval functionality:
    
    # Third upload with update strategy (should return 200 OK)
    POST /upload?duplicate_strategy=update with same file
-   
-   # Fourth upload with ignore strategy (should return 201 Created)
-   POST /upload?duplicate_strategy=ignore with same file
    ```
 
 2. **Processing Duplicates**:
@@ -446,7 +443,6 @@ Test data retrieval functionality:
 | Successful upload | 201 Created | New receipt created |
 | Duplicate upload (reject) | 409 Conflict | Duplicate detected and rejected |
 | Duplicate upload (update) | 200 OK | Existing receipt updated |
-| Duplicate upload (ignore) | 201 Created | New entry created despite duplicate |
 | Invalid file type | 400 Bad Request | Unsupported format |
 | Missing file | 400 Bad Request | No file provided |
 | Successful validation | 200 OK | Receipt validated |
@@ -502,9 +498,6 @@ auto-receipts/
    ```bash
    # Update existing duplicate
    curl -X POST -F "file=@receipt.pdf" "http://127.0.0.1:8000/upload?duplicate_strategy=update"
-   
-   # Ignore duplicate detection
-   curl -X POST -F "file=@receipt.pdf" "http://127.0.0.1:8000/upload?duplicate_strategy=ignore"
    ```
 
 3. **Validate the uploaded receipt:**

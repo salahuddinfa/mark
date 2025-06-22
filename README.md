@@ -80,7 +80,7 @@ The API will be available at `http://127.0.0.1:8000`
 ### Core Endpoint
 - **GET** `/recommend/?mood={mood}&city={city}`
   - Returns song recommendation based on mood and weather
-  - Example: `GET /recommend/?mood=happy&city=London`
+  - Example: `GET /recommend/?mood=happy&city=Bangalore`
 
 ### Cache Management
 - **GET** `/cache/stats` - View cache statistics
@@ -91,13 +91,13 @@ The API will be available at `http://127.0.0.1:8000`
 
 ### Basic Song Recommendation
 ```bash
-curl "http://127.0.0.1:8000/recommend/?mood=happy&city=London"
+curl "http://127.0.0.1:8000/recommend/?mood=happy&city=Hyderabad"
 ```
 
 **Response:**
 ```json
 {
-  "message": "The weather in London is clear sky. It matches your happy mood! Here's a song for you: Bohemian Rhapsody by Queen"
+  "message": "The weather in Hyderabad is clear sky. It matches your happy mood! Here's a song for you: Bohemian Rhapsody by Queen"
 }
 ```
 
@@ -134,14 +134,6 @@ python -m pytest test_app.py test_llm_matcher.py -v
 4. **Caching**: Stores weather data for 30 minutes to reduce API calls
 5. **Fallback**: Uses rule-based matching if LLM is unavailable
 
-## Supported Moods & Weather 🌤️
-
-### Moods
-- `happy`, `sad`, `energetic`, `relaxed`, `gloomy`
-
-### Weather Types
-- Clear sky, rain, snow, clouds, thunderstorm, etc.
-
 ## Caching System 💾
 
 - **Duration**: 30 minutes per city
@@ -154,15 +146,3 @@ python -m pytest test_app.py test_llm_matcher.py -v
 - Graceful fallback to rule-based matching if LLM fails
 - API error handling for weather and music services
 - Cache validation with automatic expiration
-
-## Contributing 🤝
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## License 📄
-
-This project is open source and available under the [MIT License](LICENSE). 
